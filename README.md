@@ -1,7 +1,7 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today’s reading: Al-Baqarah 2:1–30 (30 verses)
+Today’s reading: Al-Baqarah 2:31–60 (30 verses)
 <!-- READING:END -->
 
 ---
