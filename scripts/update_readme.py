@@ -61,11 +61,6 @@ def save_state(surah: int, ayah: int) -> None:
 def normalize_pointer(
     surah: int, ayah: int, meta: Dict[int, SurahMeta]
 ) -> Tuple[int, int]:
-    """
-    Ensures pointer is within valid ranges and applies looping rule:
-    - Surah wraps from >114 back to 2
-    - Ayah wraps to next surah when exceeding ayah_count
-    """
     while True:
         if surah > 114:
             surah = 2
@@ -85,10 +80,6 @@ def advance_pointer(
     steps: int,
     meta: Dict[int, SurahMeta],
 ) -> Tuple[int, int]:
-    """
-    Move forward by `steps` ayahs in mushaf order.
-    Pointer is 1-based: (surah, ayah).
-    """
     cur_surah, cur_ayah = normalize_pointer(surah, ayah, meta)
     remaining = steps
 
@@ -114,11 +105,6 @@ def compute_daily_reading(
     count: int,
     meta: Dict[int, SurahMeta],
 ) -> Tuple[str, Tuple[int, int]]:
-    """
-    Returns:
-    - reading line e.g. "Today’s reading: Al-Baqarah 2:250 → Ali 'Imran 3:14 (30 verses)"
-    - next pointer (surah, ayah) to store in state.json
-    """
     start_surah, start_ayah = normalize_pointer(start_surah, start_ayah, meta)
 
     end_surah, end_ayah = advance_pointer(start_surah, start_ayah, count - 1, meta)
@@ -158,10 +144,6 @@ def fetch_ayah_of_the_day() -> str:
 def replace_block(
     markdown: str, start_marker: str, end_marker: str, new_content: str
 ) -> str:
-    """
-    Replace content between two markers in a robust way.
-    Markers must exist exactly once each.
-    """
     if start_marker not in markdown or end_marker not in markdown:
         raise RuntimeError(f"Markers not found: {start_marker} / {end_marker}")
 
