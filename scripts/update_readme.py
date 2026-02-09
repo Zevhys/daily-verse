@@ -38,7 +38,6 @@ def load_surah_meta() -> Dict[int, SurahMeta]:
         )
         meta[s.number] = s
 
-    # Minimal sanity checks (avoid silent wrong behavior)
     if 2 not in meta or 114 not in meta:
         raise RuntimeError("surah_meta.json must include surah 2 and 114.")
     return meta
@@ -46,7 +45,6 @@ def load_surah_meta() -> Dict[int, SurahMeta]:
 
 def load_state() -> Dict[str, int]:
     if not STATE_PATH.exists():
-        # Initial state: start at Al-Baqarah 2:1 (skip Al-Fatihah)
         return {"surah": 2, "ayah": 1}
 
     state = json.loads(STATE_PATH.read_text(encoding="utf-8"))
@@ -77,7 +75,6 @@ def normalize_pointer(
         if ayah <= max_ayah:
             return surah, ayah
 
-        # overflow to next surah
         ayah -= max_ayah
         surah += 1
 
@@ -124,15 +121,12 @@ def compute_daily_reading(
     """
     start_surah, start_ayah = normalize_pointer(start_surah, start_ayah, meta)
 
-    # End position is inclusive: after reading `count` ayahs starting at start,
-    # the last ayah is pointer advanced by count-1.
     end_surah, end_ayah = advance_pointer(start_surah, start_ayah, count - 1, meta)
 
     start_name = meta[start_surah].name_en
     end_name = meta[end_surah].name_en
 
     if (start_surah, start_ayah) == (end_surah, end_ayah):
-        # This only happens if count == 1, but keep it safe
         line = f"Today’s reading: {start_name} {start_surah}:{start_ayah} (1 verse)"
     elif start_surah == end_surah:
         line = f"Today’s reading: {start_name} {start_surah}:{start_ayah}–{end_ayah} ({count} verses)"
@@ -142,7 +136,6 @@ def compute_daily_reading(
             f"{end_name} {end_surah}:{end_ayah} ({count} verses)"
         )
 
-    # Next pointer is one after the end ayah (advance by 1 from end inclusive)
     next_surah, next_ayah = advance_pointer(end_surah, end_ayah, 1, meta)
     return line, (next_surah, next_ayah)
 
@@ -153,7 +146,6 @@ def fetch_ayah_of_the_day() -> str:
     r.raise_for_status()
     j = r.json()
 
-    # Keep formatting close to the original TS implementation
     template = (
         f"<sub>_{j['surahNameEnTrans']}_</sub><br>\n"
         f"**Surah {j['surahNameEn']}** ({j['surah']}: {j['ayah']})\n\n"
