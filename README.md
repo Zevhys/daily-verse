@@ -1,7 +1,7 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today’s reading: Al-Baqarah 2:271 → Ali 'Imran 3:14 (30 verses)
+Today’s reading: Ali 'Imran 3:15–44 (30 verses)
 <!-- READING:END -->
 
 ---
@@ -9,10 +9,10 @@ Today’s reading: Al-Baqarah 2:271 → Ali 'Imran 3:14 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Rocky Tract_</sub><br>
-**Surah Al-Hijr** (15: 27)
+<sub>_The Heights_</sub><br>
+**Surah Al-A'raf** (7: 190)
 
-> As for the jinn, We created them earlier from smokeless fire.
+> But when He granted their descendants good offspring, they associated false gods in what He has given them. Exalted is Allah above what they associate ˹with Him˺!
 
-— Sha'ban 27, 1447H
+— Sha'ban 28, 1447H
 <!-- AYAHADAY:END -->
