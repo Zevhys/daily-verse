@@ -135,6 +135,7 @@ def fetch_ayah_of_the_day() -> str:
     template = (
         f"<sub>_{j['surahNameEnTrans']}_</sub><br>\n"
         f"**Surah {j['surahNameEn']}** ({j['surah']}: {j['ayah']})\n\n"
+        f"{j['arabicText']}\n\n"
         f"> {j['englishTranslation']}\n\n"
         f"— {j['hijriDate']}H"
     )
