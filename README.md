@@ -1,7 +1,7 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today’s reading: Ali 'Imran 3:75–104 (30 verses)
+Today’s reading: Ali 'Imran 3:105–134 (30 verses)
 <!-- READING:END -->
 
 ---
@@ -9,12 +9,12 @@ Today’s reading: Ali 'Imran 3:75–104 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The City_</sub><br>
-**Surah Al-Balad** (90: 11)
+<sub>_The Cattle_</sub><br>
+**Surah Al-An'am** (6: 51)
 
-فَلَا اقْتَحَمَ الْعَقَبَةَ
+وَأَنذِرْ بِهِ الَّذِينَ يَخَافُونَ أَن يُحْشَرُوا إِلَىٰ رَبِّهِمْ ۙ لَيْسَ لَهُم مِّن دُونِهِ وَلِيٌّ وَلَا شَفِيعٌ لَّعَلَّهُمْ يَتَّقُونَ
 
-> If only they had attempted the challenging path ˹of goodness instead˺!
+> Warn with this ˹Quran˺ those who are awed by the prospect of being gathered before their Lord—when they will have no protector or intercessor besides Him—so perhaps they will be mindful ˹of Him˺.
 
-— Sha'ban 29, 1447H
+— Ramadan 1, 1447H
 <!-- AYAHADAY:END -->
