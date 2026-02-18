@@ -5,28 +5,23 @@ Thanks for taking the time to contribute!
 This repository is open to improvements such as bug fixes, documentation updates, and refactoring.
 
 ## Code of Conduct
-By participating, you agree to follow the rules in **[CODE_OF_CONDUCT.md](https://github.com/Zevhys/daily-verse?tab=coc-ov-file)**.
+By participating, you agree to follow the rules in **[CODE_OF_CONDUCT.md](https://github.com/Zevhys/daily-verse/blob/main/CONTRIBUTING.md)**.
 
 ## How to Contribute
 
-### 1) Ask / Discuss first (recommended)
-If your change is big (new feature, large refactor), please open an **Issue** first so we can discuss the best approach.
+1. **[Open an issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) first** — especially for anything bigger than a typo.
+   Let's make sure we're on the same page before you spend time coding.
 
-### 2) Report a Bug
-When opening an issue, please include:
-- What happened (actual result)
-- What you expected to happen
+2. **[Fork the repo](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo), make your changes, then [open a PR](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).**
+   Keep it small and focused — one thing per PR makes reviewing much easier.
+
+3. **Describe what you changed and why** in your PR description.
+   Bonus points if you mention how you tested it!
+
+## Reporting a Bug
+
+Found something broken? [Open an issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) and include:
+
+- What happened and what you expected
 - Steps to reproduce
-- Screenshots/logs (if relevant)
-- Your environment (OS, app version, browser/runtime)
-
-## Pull Request (PR) Steps
-- Keep PRs small and focused (one purpose per PR).
-- Describe what changed, why it matters, and how you tested it.
-- Link related issues when possible (e.g. `Closes #123`).
-- Ensure checks/tests pass (if available).
-
-New to pull requests? See GitHub Docs: https://docs.github.com/en/pull-requests
-
-## Questions
-If you are not sure where to start, open an issue and describe what you want to improve.
+- Screenshots or logs (if helpful)
