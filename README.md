@@ -1,7 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today’s reading: Ali 'Imran 3:165–194 (30 verses)
+Today's reading: Ali 'Imran 3:195 → An-Nisa 4:24 (30 verses)
+
+[░░░░░░░░░░] 8.2% (510/6229 verses)
+
+📊 **Stats:** 510 verses read | 14 days active
 <!-- READING:END -->
 
 ---
