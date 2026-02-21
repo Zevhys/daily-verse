@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Ali 'Imran 3:195 → An-Nisa 4:24 (30 verses)
+Today's reading: An-Nisa 4:25–54 (30 verses)
 
-[░░░░░░░░░░] 8.2% (510/6229 verses)
+[░░░░░░░░░░] 8.7% (540/6229 verses)
 
-📊 **Stats:** 510 verses read | 14 days active
+📊 **Stats:** 540 verses read | 15 days active
 <!-- READING:END -->
 
 ---
@@ -13,12 +13,12 @@ Today's reading: Ali 'Imran 3:195 → An-Nisa 4:24 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Night_</sub><br>
-**Surah Al-Layl** (92: 10)
+<sub>_The Smoke_</sub><br>
+**Surah Ad-Dukhan** (44: 54)
 
-فَسَنُيَسِّرُهُ لِلْعُسْرَىٰ
+كَذَٰلِكَ وَزَوَّجْنَاهُم بِحُورٍ عِينٍ
 
-> We will facilitate for them the path of hardship.
+> So it will be. And We will pair them to maidens with gorgeous eyes.
 
-— Ramadan 3, 1447H
+— Ramadan 4, 1447H
 <!-- AYAHADAY:END -->
