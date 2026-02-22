@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: An-Nisa 4:25–54 (30 verses)
+Today's reading: An-Nisa 4:55–84 (30 verses)
 
-[░░░░░░░░░░] 8.7% (540/6229 verses)
+[░░░░░░░░░░] 9.2% (570/6229 verses)
 
-📊 **Stats:** 540 verses read | 15 days active
+📊 **Stats:** 570 verses read | 16 days active
 <!-- READING:END -->
 
 ---
@@ -13,12 +13,12 @@ Today's reading: An-Nisa 4:25–54 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Smoke_</sub><br>
-**Surah Ad-Dukhan** (44: 54)
+<sub>_The Table Spread_</sub><br>
+**Surah Al-Ma'idah** (5: 44)
 
-كَذَٰلِكَ وَزَوَّجْنَاهُم بِحُورٍ عِينٍ
+إِنَّا أَنزَلْنَا التَّوْرَاةَ فِيهَا هُدًى وَنُورٌ ۚ يَحْكُمُ بِهَا النَّبِيُّونَ الَّذِينَ أَسْلَمُوا لِلَّذِينَ هَادُوا وَالرَّبَّانِيُّونَ وَالْأَحْبَارُ بِمَا اسْتُحْفِظُوا مِن كِتَابِ اللَّهِ وَكَانُوا عَلَيْهِ شُهَدَاءَ ۚ فَلَا تَخْشَوُا النَّاسَ وَاخْشَوْنِ وَلَا تَشْتَرُوا بِآيَاتِي ثَمَنًا قَلِيلًا ۚ وَمَن لَّمْ يَحْكُم بِمَا أَنزَلَ اللَّهُ فَأُولَٰئِكَ هُمُ الْكَافِرُونَ
 
-> So it will be. And We will pair them to maidens with gorgeous eyes.
+> Indeed, We revealed the Torah, containing guidance and light, by which the prophets, who submitted themselves to Allah, made judgments for Jews. So too did the rabbis and scholars judge according to Allah’s Book, with which they were entrusted and of which they were made keepers. So do not fear the people; fear Me! Nor trade my revelations for a fleeting gain. And those who do not judge by what Allah has revealed are ˹truly˺ the disbelievers.
 
-— Ramadan 4, 1447H
+— Ramadan 5, 1447H
 <!-- AYAHADAY:END -->
