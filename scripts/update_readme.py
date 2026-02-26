@@ -9,19 +9,16 @@ from typing import Dict, Tuple
 
 import requests
 
-# Paths
 README_PATH = Path("README.md")
 STATE_PATH = Path("state.json")
 SURAH_META_PATH = Path("data/surah_meta.json")
 
-# Markers
 READING_START = "<!-- READING:START -->"
 READING_END = "<!-- READING:END -->"
 AYAHADAY_START = "<!-- AYAHADAY:START -->"
 AYAHADAY_END = "<!-- AYAHADAY:END -->"
 
-# Constants
-TOTAL_VERSES = 6229  # Al-Baqarah to An-Nas (excluding Al-Fatihah)
+TOTAL_VERSES = 6229
 DAILY_VERSES = 30
 
 
