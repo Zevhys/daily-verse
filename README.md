@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: An-Nisa 4:145–174 (30 verses)
+Today's reading: An-Nisa 4:175 → Al-Ma'idah 5:28 (30 verses)
 
-[█░░░░░░░░░] 10.6% (660/6229 verses)
+[█░░░░░░░░░] 11.1% (690/6229 verses)
 
-📊 **Stats:** 660 verses read | 19 days active
+📊 **Stats:** 690 verses read | 20 days active
 <!-- READING:END -->
 
 ---
@@ -14,11 +14,11 @@ Today's reading: An-Nisa 4:145–174 (30 verses)
 
 <!-- AYAHADAY:START -->
 <sub>_The Cow_</sub><br>
-**Surah Al-Baqarah** (2: 254)
+**Surah Al-Baqarah** (2: 238)
 
-يَا أَيُّهَا الَّذِينَ آمَنُوا أَنفِقُوا مِمَّا رَزَقْنَاكُم مِّن قَبْلِ أَن يَأْتِيَ يَوْمٌ لَّا بَيْعٌ فِيهِ وَلَا خُلَّةٌ وَلَا شَفَاعَةٌ ۗ وَالْكَافِرُونَ هُمُ الظَّالِمُونَ
+حَافِظُوا عَلَى الصَّلَوَاتِ وَالصَّلَاةِ الْوُسْطَىٰ وَقُومُوا لِلَّهِ قَانِتِينَ
 
-> O believers! Donate from what We have provided for you before the arrival of a Day when there will be no bargaining, friendship, or intercession. Those who disbelieve are ˹truly˺ the wrongdoers.
+> Observe the ˹five obligatory˺ prayers—especially the middle prayer—and stand in true devotion to Allah.
 
-— Ramadan 8, 1447H
+— Ramadan 9, 1447H
 <!-- AYAHADAY:END -->
