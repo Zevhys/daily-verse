@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: An-Nisa 4:175 → Al-Ma'idah 5:28 (30 verses)
+Today's reading: Al-Ma'idah 5:29–58 (30 verses)
 
-[█░░░░░░░░░] 11.1% (690/6229 verses)
+[█░░░░░░░░░] 11.6% (720/6229 verses)
 
-📊 **Stats:** 690 verses read | 20 days active
+📊 **Stats:** 720 verses read | 21 days active
 <!-- READING:END -->
 
 ---
@@ -13,12 +13,12 @@ Today's reading: An-Nisa 4:175 → Al-Ma'idah 5:28 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cow_</sub><br>
-**Surah Al-Baqarah** (2: 238)
+<sub>_The Table Spread_</sub><br>
+**Surah Al-Ma'idah** (5: 99)
 
-حَافِظُوا عَلَى الصَّلَوَاتِ وَالصَّلَاةِ الْوُسْطَىٰ وَقُومُوا لِلَّهِ قَانِتِينَ
+مَّا عَلَى الرَّسُولِ إِلَّا الْبَلَاغُ ۗ وَاللَّهُ يَعْلَمُ مَا تُبْدُونَ وَمَا تَكْتُمُونَ
 
-> Observe the ˹five obligatory˺ prayers—especially the middle prayer—and stand in true devotion to Allah.
+> The Messenger’s duty is only to deliver ˹the message˺. And Allah ˹fully˺ knows what you reveal and what you conceal.
 
-— Ramadan 9, 1447H
+— Ramadan 10, 1447H
 <!-- AYAHADAY:END -->
