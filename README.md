@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Ma'idah 5:29–58 (30 verses)
+Today's reading: Al-Ma'idah 5:59–88 (30 verses)
 
-[█░░░░░░░░░] 11.6% (720/6229 verses)
+[█░░░░░░░░░] 12.0% (750/6229 verses)
 
-📊 **Stats:** 720 verses read | 21 days active
+📊 **Stats:** 750 verses read | 22 days active
 <!-- READING:END -->
 
 ---
@@ -13,12 +13,12 @@ Today's reading: Al-Ma'idah 5:29–58 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Table Spread_</sub><br>
-**Surah Al-Ma'idah** (5: 99)
+<sub>_Abrahim_</sub><br>
+**Surah Ibrahim** (14: 42)
 
-مَّا عَلَى الرَّسُولِ إِلَّا الْبَلَاغُ ۗ وَاللَّهُ يَعْلَمُ مَا تُبْدُونَ وَمَا تَكْتُمُونَ
+وَلَا تَحْسَبَنَّ اللَّهَ غَافِلًا عَمَّا يَعْمَلُ الظَّالِمُونَ ۚ إِنَّمَا يُؤَخِّرُهُمْ لِيَوْمٍ تَشْخَصُ فِيهِ الْأَبْصَارُ
 
-> The Messenger’s duty is only to deliver ˹the message˺. And Allah ˹fully˺ knows what you reveal and what you conceal.
+> Do not think ˹O Prophet˺ that Allah is unaware of what the wrongdoers do. He only delays them until a Day when ˹their˺ eyes will stare in horror—
 
-— Ramadan 10, 1447H
+— Ramadan 11, 1447H
 <!-- AYAHADAY:END -->
