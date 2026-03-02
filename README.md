@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Ma'idah 5:89–118 (30 verses)
+Today's reading: Al-Ma'idah 5:119 → Al-An'am 6:28 (30 verses)
 
-[█░░░░░░░░░] 12.5% (780/6229 verses)
+[█░░░░░░░░░] 13.0% (810/6229 verses)
 
-📊 **Stats:** 780 verses read | 23 days active
+📊 **Stats:** 810 verses read | 24 days active
 <!-- READING:END -->
 
 ---
@@ -13,12 +13,12 @@ Today's reading: Al-Ma'idah 5:89–118 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Bee_</sub><br>
-**Surah An-Nahl** (16: 5)
+<sub>_The Forgiver_</sub><br>
+**Surah Ghafir** (40: 7)
 
-وَالْأَنْعَامَ خَلَقَهَا ۗ لَكُمْ فِيهَا دِفْءٌ وَمَنَافِعُ وَمِنْهَا تَأْكُلُونَ
+الَّذِينَ يَحْمِلُونَ الْعَرْشَ وَمَنْ حَوْلَهُ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَيُؤْمِنُونَ بِهِ وَيَسْتَغْفِرُونَ لِلَّذِينَ آمَنُوا رَبَّنَا وَسِعْتَ كُلَّ شَيْءٍ رَّحْمَةً وَعِلْمًا فَاغْفِرْ لِلَّذِينَ تَابُوا وَاتَّبَعُوا سَبِيلَكَ وَقِهِمْ عَذَابَ الْجَحِيمِ
 
-> And He created the cattle for you as a source of warmth, food, and ˹many other˺ benefits.
+> Those ˹angels˺ who carry the Throne and those around it glorify the praises of their Lord, have faith in Him, and seek forgiveness for the believers, ˹praying:˺ “Our Lord! You encompass everything in ˹Your˺ mercy and knowledge. So forgive those who repent and follow Your Way, and protect them from the torment of the Hellfire.
 
-— Ramadan 12, 1447H
+— Ramadan 13, 1447H
 <!-- AYAHADAY:END -->
