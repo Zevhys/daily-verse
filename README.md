@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Ma'idah 5:119 → Al-An'am 6:28 (30 verses)
+Today's reading: Al-An'am 6:29–58 (30 verses)
 
-[█░░░░░░░░░] 13.0% (810/6229 verses)
+[█░░░░░░░░░] 13.5% (840/6229 verses)
 
-📊 **Stats:** 810 verses read | 24 days active
+📊 **Stats:** 840 verses read | 25 days active
 <!-- READING:END -->
 
 ---
@@ -13,12 +13,12 @@ Today's reading: Al-Ma'idah 5:119 → Al-An'am 6:28 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Forgiver_</sub><br>
-**Surah Ghafir** (40: 7)
+<sub>_The Beneficent_</sub><br>
+**Surah Ar-Rahman** (55: 31)
 
-الَّذِينَ يَحْمِلُونَ الْعَرْشَ وَمَنْ حَوْلَهُ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَيُؤْمِنُونَ بِهِ وَيَسْتَغْفِرُونَ لِلَّذِينَ آمَنُوا رَبَّنَا وَسِعْتَ كُلَّ شَيْءٍ رَّحْمَةً وَعِلْمًا فَاغْفِرْ لِلَّذِينَ تَابُوا وَاتَّبَعُوا سَبِيلَكَ وَقِهِمْ عَذَابَ الْجَحِيمِ
+سَنَفْرُغُ لَكُمْ أَيُّهَ الثَّقَلَانِ
 
-> Those ˹angels˺ who carry the Throne and those around it glorify the praises of their Lord, have faith in Him, and seek forgiveness for the believers, ˹praying:˺ “Our Lord! You encompass everything in ˹Your˺ mercy and knowledge. So forgive those who repent and follow Your Way, and protect them from the torment of the Hellfire.
+> We will soon attend to you ˹for judgment˺, O  two multitudes ˹of jinn and humans˺!
 
-— Ramadan 13, 1447H
+— Ramadan 14, 1447H
 <!-- AYAHADAY:END -->
