@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-An'am 6:59–88 (30 verses)
+Today's reading: Al-An'am 6:89–118 (30 verses)
 
-[█░░░░░░░░░] 14.0% (870/6229 verses)
+[█░░░░░░░░░] 14.4% (900/6229 verses)
 
-📊 **Stats:** 870 verses read | 26 days active
+📊 **Stats:** 900 verses read | 27 days active
 <!-- READING:END -->
 
 ---
@@ -13,12 +13,12 @@ Today's reading: Al-An'am 6:59–88 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cow_</sub><br>
-**Surah Al-Baqarah** (2: 211)
+<sub>_The Victory_</sub><br>
+**Surah Al-Fath** (48: 15)
 
-سَلْ بَنِي إِسْرَائِيلَ كَمْ آتَيْنَاهُم مِّنْ آيَةٍ بَيِّنَةٍ ۗ وَمَن يُبَدِّلْ نِعْمَةَ اللَّهِ مِن بَعْدِ مَا جَاءَتْهُ فَإِنَّ اللَّهَ شَدِيدُ الْعِقَابِ
+سَيَقُولُ الْمُخَلَّفُونَ إِذَا انطَلَقْتُمْ إِلَىٰ مَغَانِمَ لِتَأْخُذُوهَا ذَرُونَا نَتَّبِعْكُمْ ۖ يُرِيدُونَ أَن يُبَدِّلُوا كَلَامَ اللَّهِ ۚ قُل لَّن تَتَّبِعُونَا كَذَٰلِكُمْ قَالَ اللَّهُ مِن قَبْلُ ۖ فَسَيَقُولُونَ بَلْ تَحْسُدُونَنَا ۚ بَلْ كَانُوا لَا يَفْقَهُونَ إِلَّا قَلِيلًا
 
-> Ask the Children of Israel how many clear signs We have given them. And whoever trades Allah’s favour—after receiving it—˹for disbelief˺ should know that Allah is indeed severe in punishment.
+> Those who stayed behind will say, when you ˹believers˺ set out to take the spoils of war, “Let us accompany you.” They wish to change Allah’s promise. Say, ˹O Prophet,˺ “You will not accompany us. This is what Allah has said before.” They will then say, “In fact, you are driven by jealousy against us!” The truth is: they can hardly comprehend.
 
-— Ramadan 15, 1447H
+— Ramadan 16, 1447H
 <!-- AYAHADAY:END -->
