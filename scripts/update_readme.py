@@ -166,9 +166,16 @@ def fetch_ayah_of_the_day() -> str:
     response.raise_for_status()
     data = response.json()
 
+    bismillah = (
+        '<div align="center">\n\nبِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ\n\n</div>\n\n'
+        if data["surah"] != 9
+        else ""
+    )
+
     return (
         f"<sub>_{data['surahNameEnTrans']}_</sub><br>\n"
         f"**Surah {data['surahNameEn']}** ({data['surah']}: {data['ayah']})\n\n"
+        f"{bismillah}"
         f"{data['arabicText']}\n\n"
         f"> {data['englishTranslation']}\n\n"
         f"— {data['hijriDate']}H"
