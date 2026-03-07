@@ -34,6 +34,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "chore: daily update $(date '+%Y-%m-%d')"
+            git commit -m "Daily reading update $(date '+%Y-%m-%d')"
             git push
           fi
