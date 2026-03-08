@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-An'am 6:149 → Al-A'raf 7:13 (30 verses)
+Today's reading: Al-A'raf 7:14–43 (30 verses)
 
-[█░░░░░░░░░] 15.4% (960/6229 verses)
+[█░░░░░░░░░] 15.9% (990/6229 verses)
 
-📊 **Stats:** 960 verses read | 29 days active
+📊 **Stats:** 990 verses read | 30 days active
 <!-- READING:END -->
 
 ---
@@ -13,12 +13,18 @@ Today's reading: Al-An'am 6:149 → Al-A'raf 7:13 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Defrauding_</sub><br>
-**Surah Al-Mutaffifin** (83: 18)
+<sub>_The Reality_</sub><br>
+**Surah Al-Haqqah** (69: 1)
 
-كَلَّا إِنَّ كِتَابَ الْأَبْرَارِ لَفِي عِلِّيِّينَ
+<div align="center">
 
-> But no! The virtuous are certainly bound for ’Illiyûn ˹in elevated Gardens˺—
+بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 
-— Ramadan 18, 1447H
+</div>
+
+الْحَاقَّةُ
+
+> The Inevitable Hour!
+
+— Ramadan 19, 1447H
 <!-- AYAHADAY:END -->
