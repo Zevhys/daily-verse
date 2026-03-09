@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-A'raf 7:14–43 (30 verses)
+Today's reading: Al-A'raf 7:44–73 (30 verses)
 
-[█░░░░░░░░░] 15.9% (990/6229 verses)
+[█░░░░░░░░░] 16.4% (1020/6229 verses)
 
-📊 **Stats:** 990 verses read | 30 days active
+📊 **Stats:** 1020 verses read | 31 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Al-A'raf 7:14–43 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Reality_</sub><br>
-**Surah Al-Haqqah** (69: 1)
+<sub>_Those who drag forth_</sub><br>
+**Surah An-Nazi'at** (79: 34)
 
 <div align="center">
 
@@ -22,9 +22,9 @@ Today's reading: Al-A'raf 7:14–43 (30 verses)
 
 </div>
 
-الْحَاقَّةُ
+فَإِذَا جَاءَتِ الطَّامَّةُ الْكُبْرَىٰ
 
-> The Inevitable Hour!
+> But, when the Supreme Disaster comes to pass—
 
-— Ramadan 19, 1447H
+— Ramadan 20, 1447H
 <!-- AYAHADAY:END -->
