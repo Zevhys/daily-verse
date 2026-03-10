@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-A'raf 7:44–73 (30 verses)
+Today's reading: Al-A'raf 7:74–103 (30 verses)
 
-[█░░░░░░░░░] 16.4% (1020/6229 verses)
+[█░░░░░░░░░] 16.9% (1050/6229 verses)
 
-📊 **Stats:** 1020 verses read | 31 days active
+📊 **Stats:** 1050 verses read | 32 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Al-A'raf 7:44–73 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Those who drag forth_</sub><br>
-**Surah An-Nazi'at** (79: 34)
+<sub>_The Smoke_</sub><br>
+**Surah Ad-Dukhan** (44: 51)
 
 <div align="center">
 
@@ -22,9 +22,9 @@ Today's reading: Al-A'raf 7:44–73 (30 verses)
 
 </div>
 
-فَإِذَا جَاءَتِ الطَّامَّةُ الْكُبْرَىٰ
+إِنَّ الْمُتَّقِينَ فِي مَقَامٍ أَمِينٍ
 
-> But, when the Supreme Disaster comes to pass—
+> Indeed, the righteous will be in a secure place,
 
-— Ramadan 20, 1447H
+— Ramadan 21, 1447H
 <!-- AYAHADAY:END -->
