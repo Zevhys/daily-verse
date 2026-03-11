@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-A'raf 7:74–103 (30 verses)
+Today's reading: Al-A'raf 7:104–133 (30 verses)
 
-[█░░░░░░░░░] 16.9% (1050/6229 verses)
+[█░░░░░░░░░] 17.3% (1080/6229 verses)
 
-📊 **Stats:** 1050 verses read | 32 days active
+📊 **Stats:** 1080 verses read | 33 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Al-A'raf 7:74–103 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Smoke_</sub><br>
-**Surah Ad-Dukhan** (44: 51)
+<sub>_The Romans_</sub><br>
+**Surah Ar-Rum** (30: 28)
 
 <div align="center">
 
@@ -22,9 +22,9 @@ Today's reading: Al-A'raf 7:74–103 (30 verses)
 
 </div>
 
-إِنَّ الْمُتَّقِينَ فِي مَقَامٍ أَمِينٍ
+ضَرَبَ لَكُم مَّثَلًا مِّنْ أَنفُسِكُمْ ۖ هَل لَّكُم مِّن مَّا مَلَكَتْ أَيْمَانُكُم مِّن شُرَكَاءَ فِي مَا رَزَقْنَاكُمْ فَأَنتُمْ فِيهِ سَوَاءٌ تَخَافُونَهُمْ كَخِيفَتِكُمْ أَنفُسَكُمْ ۚ كَذَٰلِكَ نُفَصِّلُ الْآيَاتِ لِقَوْمٍ يَعْقِلُونَ
 
-> Indeed, the righteous will be in a secure place,
+> He sets forth for you an example ˹drawn˺ from your own lives: would you allow some of those ˹bondspeople˺ in your possession to be your equal partners in whatever ˹wealth˺ We have provided you, keeping them in mind as you are mindful of your peers? This is how We make the signs clear for people who understand.
 
-— Ramadan 21, 1447H
+— Ramadan 22, 1447H
 <!-- AYAHADAY:END -->
