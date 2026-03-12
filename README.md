@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-A'raf 7:104–133 (30 verses)
+Today's reading: Al-A'raf 7:134–163 (30 verses)
 
-[█░░░░░░░░░] 17.3% (1080/6229 verses)
+[█░░░░░░░░░] 17.8% (1110/6229 verses)
 
-📊 **Stats:** 1080 verses read | 33 days active
+📊 **Stats:** 1110 verses read | 34 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Al-A'raf 7:104–133 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Romans_</sub><br>
-**Surah Ar-Rum** (30: 28)
+<sub>_The Rocky Tract_</sub><br>
+**Surah Al-Hijr** (15: 4)
 
 <div align="center">
 
@@ -22,9 +22,9 @@ Today's reading: Al-A'raf 7:104–133 (30 verses)
 
 </div>
 
-ضَرَبَ لَكُم مَّثَلًا مِّنْ أَنفُسِكُمْ ۖ هَل لَّكُم مِّن مَّا مَلَكَتْ أَيْمَانُكُم مِّن شُرَكَاءَ فِي مَا رَزَقْنَاكُمْ فَأَنتُمْ فِيهِ سَوَاءٌ تَخَافُونَهُمْ كَخِيفَتِكُمْ أَنفُسَكُمْ ۚ كَذَٰلِكَ نُفَصِّلُ الْآيَاتِ لِقَوْمٍ يَعْقِلُونَ
+وَمَا أَهْلَكْنَا مِن قَرْيَةٍ إِلَّا وَلَهَا كِتَابٌ مَّعْلُومٌ
 
-> He sets forth for you an example ˹drawn˺ from your own lives: would you allow some of those ˹bondspeople˺ in your possession to be your equal partners in whatever ˹wealth˺ We have provided you, keeping them in mind as you are mindful of your peers? This is how We make the signs clear for people who understand.
+> We have never destroyed a society without a destined term.
 
-— Ramadan 22, 1447H
+— Ramadan 23, 1447H
 <!-- AYAHADAY:END -->
