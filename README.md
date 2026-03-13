@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-A'raf 7:134–163 (30 verses)
+Today's reading: Al-A'raf 7:164–193 (30 verses)
 
-[█░░░░░░░░░] 17.8% (1110/6229 verses)
+[█░░░░░░░░░] 18.3% (1140/6229 verses)
 
-📊 **Stats:** 1110 verses read | 34 days active
+📊 **Stats:** 1140 verses read | 35 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Al-A'raf 7:134–163 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Rocky Tract_</sub><br>
-**Surah Al-Hijr** (15: 4)
+<sub>_Originator_</sub><br>
+**Surah Fatir** (35: 20)
 
 <div align="center">
 
@@ -22,9 +22,9 @@ Today's reading: Al-A'raf 7:134–163 (30 verses)
 
 </div>
 
-وَمَا أَهْلَكْنَا مِن قَرْيَةٍ إِلَّا وَلَهَا كِتَابٌ مَّعْلُومٌ
+وَلَا الظُّلُمَاتُ وَلَا النُّورُ
 
-> We have never destroyed a society without a destined term.
+> nor are the darkness and the light,
 
-— Ramadan 23, 1447H
+— Ramadan 24, 1447H
 <!-- AYAHADAY:END -->
