@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-A'raf 7:164–193 (30 verses)
+Today's reading: Al-A'raf 7:194 → Al-Anfal 8:17 (30 verses)
 
-[█░░░░░░░░░] 18.3% (1140/6229 verses)
+[█░░░░░░░░░] 18.8% (1170/6229 verses)
 
-📊 **Stats:** 1140 verses read | 35 days active
+📊 **Stats:** 1170 verses read | 36 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Al-A'raf 7:164–193 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Originator_</sub><br>
-**Surah Fatir** (35: 20)
+<sub>_The Star_</sub><br>
+**Surah An-Najm** (53: 44)
 
 <div align="center">
 
@@ -22,9 +22,9 @@ Today's reading: Al-A'raf 7:164–193 (30 verses)
 
 </div>
 
-وَلَا الظُّلُمَاتُ وَلَا النُّورُ
+وَأَنَّهُ هُوَ أَمَاتَ وَأَحْيَا
 
-> nor are the darkness and the light,
+> And He is the One Who gives life and causes death.
 
-— Ramadan 24, 1447H
+— Ramadan 25, 1447H
 <!-- AYAHADAY:END -->
