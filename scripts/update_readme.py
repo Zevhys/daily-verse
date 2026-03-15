@@ -5,7 +5,7 @@ import re
 from dataclasses import dataclass
 from datetime import date
 from pathlib import Path
-from typing import Dict, Tuple
+from typing import Dict, Tuple, Any
 
 import requests
 
@@ -27,6 +27,66 @@ class SurahMeta:
     number: int
     name_en: str
     ayah_count: int
+
+
+QURAN_CLOUD_TRANSLIT_URL = (
+    "https://cdn.jsdelivr.net/npm/quran-cloud@1.0.0/dist/quran_transliteration.json"
+)
+
+_TRANSLIT_CACHE: Any = None
+
+
+def load_quran_cloud_transliteration() -> dict:
+    global _TRANSLIT_CACHE
+    if _TRANSLIT_CACHE is not None:
+        return _TRANSLIT_CACHE
+
+    resp = requests.get(QURAN_CLOUD_TRANSLIT_URL, timeout=30)
+    resp.raise_for_status()
+    _TRANSLIT_CACHE = resp.json()
+    return _TRANSLIT_CACHE
+
+
+def fetch_transliteration_from_quran_cloud(surah: int, ayah: int) -> str:
+    data = load_quran_cloud_transliteration()
+
+    if isinstance(data, dict):
+        chapters = data.get("chapters")
+        if chapters is None:
+            raise RuntimeError(
+                "Unexpected transliteration JSON: missing 'chapters' key"
+            )
+    elif isinstance(data, list):
+        chapters = data
+    else:
+        raise RuntimeError(f"Unexpected transliteration JSON type: {type(data)}")
+
+    try:
+        chapter = chapters[surah - 1]
+    except Exception as e:
+        raise RuntimeError(f"Invalid surah index for transliteration: {surah}") from e
+
+    verses = chapter.get("verses") if isinstance(chapter, dict) else None
+    if verses is None:
+        raise RuntimeError("Unexpected chapter format: missing 'verses'")
+
+    try:
+        verse = verses[ayah - 1]
+    except Exception as e:
+        raise RuntimeError(
+            f"Invalid ayah index for transliteration: {surah}:{ayah}"
+        ) from e
+
+    translit = ""
+    if isinstance(verse, dict):
+        translit = str(verse.get("transliteration") or "").strip()
+    elif isinstance(verse, str):
+        translit = verse.strip()
+
+    if not translit:
+        raise RuntimeError(f"Transliteration missing for {surah}:{ayah}")
+
+    return translit
 
 
 def load_surah_meta() -> Dict[int, SurahMeta]:
@@ -161,10 +221,15 @@ def create_progress_bar(current: int, total: int, length: int = 10) -> str:
 
 
 def fetch_ayah_of_the_day() -> str:
-
     response = requests.get("https://api.tarteel.io/v1/aad/schedule/", timeout=30)
     response.raise_for_status()
     data = response.json()
+
+    surah = int(data["surah"])
+    ayah = int(data["ayah"])
+
+    transliteration = fetch_transliteration_from_quran_cloud(surah, ayah)
+    source_url = f"https://quran.com/{surah}/{ayah}"
 
     bismillah = (
         '<div align="center">\n\nبِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ\n\n</div>\n\n'
@@ -174,10 +239,13 @@ def fetch_ayah_of_the_day() -> str:
 
     return (
         f"<sub>_{data['surahNameEnTrans']}_</sub><br>\n"
-        f"**Surah {data['surahNameEn']}** ({data['surah']}: {data['ayah']})\n\n"
+        f"**Surah {data['surahNameEn']}** ({surah}: {ayah})\n\n"
         f"{bismillah}"
         f"{data['arabicText']}\n\n"
+        f"> _{transliteration}_\n"
+        f"> \n"
         f"> {data['englishTranslation']}\n\n"
+        f"🔗 Source: {source_url}\n\n"
         f"— {data['hijriDate']}H"
     )
 
