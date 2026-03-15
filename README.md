@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-A'raf 7:194 → Al-Anfal 8:17 (30 verses)
+Today's reading: Al-Anfal 8:18–47 (30 verses)
 
-[█░░░░░░░░░] 18.8% (1170/6229 verses)
+[█░░░░░░░░░] 19.3% (1200/6229 verses)
 
-📊 **Stats:** 1170 verses read | 36 days active
+📊 **Stats:** 1200 verses read | 37 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Al-A'raf 7:194 → Al-Anfal 8:17 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Star_</sub><br>
-**Surah An-Najm** (53: 44)
+<sub>_Mary_</sub><br>
+**Surah Maryam** (19: 29)
 
 <div align="center">
 
@@ -22,9 +22,9 @@ Today's reading: Al-A'raf 7:194 → Al-Anfal 8:17 (30 verses)
 
 </div>
 
-وَأَنَّهُ هُوَ أَمَاتَ وَأَحْيَا
+فَأَشَارَتْ إِلَيْهِ ۖ قَالُوا كَيْفَ نُكَلِّمُ مَن كَانَ فِي الْمَهْدِ صَبِيًّا
 
-> And He is the One Who gives life and causes death.
+> So she pointed to the baby. They exclaimed, “How can we talk to someone who is an infant in the cradle?”
 
-— Ramadan 25, 1447H
+— Ramadan 26, 1447H
 <!-- AYAHADAY:END -->
