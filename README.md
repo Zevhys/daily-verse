@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Anfal 8:18–47 (30 verses)
+Today's reading: Al-Anfal 8:48 → At-Tawbah 9:2 (30 verses)
 
-[█░░░░░░░░░] 19.3% (1200/6229 verses)
+[█░░░░░░░░░] 19.7% (1230/6229 verses)
 
-📊 **Stats:** 1200 verses read | 37 days active
+📊 **Stats:** 1230 verses read | 38 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Al-Anfal 8:18–47 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Mary_</sub><br>
-**Surah Maryam** (19: 29)
+<sub>_The Cow_</sub><br>
+**Surah Al-Baqarah** (2: 47)
 
 <div align="center">
 
@@ -22,9 +22,9 @@ Today's reading: Al-Anfal 8:18–47 (30 verses)
 
 </div>
 
-فَأَشَارَتْ إِلَيْهِ ۖ قَالُوا كَيْفَ نُكَلِّمُ مَن كَانَ فِي الْمَهْدِ صَبِيًّا
+يَا بَنِي إِسْرَائِيلَ اذْكُرُوا نِعْمَتِيَ الَّتِي أَنْعَمْتُ عَلَيْكُمْ وَأَنِّي فَضَّلْتُكُمْ عَلَى الْعَالَمِينَ
 
-> So she pointed to the baby. They exclaimed, “How can we talk to someone who is an infant in the cradle?”
+> O Children of Israel! Remember ˹all˺ the favours I granted you and how I honoured you above the others.
 
-— Ramadan 26, 1447H
+— Ramadan 27, 1447H
 <!-- AYAHADAY:END -->
