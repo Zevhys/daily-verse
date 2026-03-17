@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Anfal 8:48 → At-Tawbah 9:2 (30 verses)
+Today's reading: At-Tawbah 9:3–32 (30 verses)
 
-[█░░░░░░░░░] 19.7% (1230/6229 verses)
+[██░░░░░░░░] 20.2% (1260/6229 verses)
 
-📊 **Stats:** 1230 verses read | 38 days active
+📊 **Stats:** 1260 verses read | 39 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Al-Anfal 8:48 → At-Tawbah 9:2 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cow_</sub><br>
-**Surah Al-Baqarah** (2: 47)
+<sub>_The Palm Fiber_</sub><br>
+**Surah Al-Masad** (111: 1)
 
 <div align="center">
 
@@ -22,9 +22,13 @@ Today's reading: Al-Anfal 8:48 → At-Tawbah 9:2 (30 verses)
 
 </div>
 
-يَا بَنِي إِسْرَائِيلَ اذْكُرُوا نِعْمَتِيَ الَّتِي أَنْعَمْتُ عَلَيْكُمْ وَأَنِّي فَضَّلْتُكُمْ عَلَى الْعَالَمِينَ
+تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ
 
-> O Children of Israel! Remember ˹all˺ the favours I granted you and how I honoured you above the others.
+> _Tabbat yada abee lahabin watabba_
+> 
+> May the hands of Abu Lahab perish, and he ˹himself˺ perish!
 
-— Ramadan 27, 1447H
+🔗 Source: https://quran.com/111/1
+
+— Ramadan 28, 1447H
 <!-- AYAHADAY:END -->
