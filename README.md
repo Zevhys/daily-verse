@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: At-Tawbah 9:3–32 (30 verses)
+Today's reading: At-Tawbah 9:33–62 (30 verses)
 
-[██░░░░░░░░] 20.2% (1260/6229 verses)
+[██░░░░░░░░] 20.7% (1290/6229 verses)
 
-📊 **Stats:** 1260 verses read | 39 days active
+📊 **Stats:** 1290 verses read | 40 days active
 <!-- READING:END -->
 
 ---
@@ -13,22 +13,16 @@ Today's reading: At-Tawbah 9:3–32 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Palm Fiber_</sub><br>
-**Surah Al-Masad** (111: 1)
+<sub>_The Repentance_</sub><br>
+**Surah At-Tawbah** (9: 73)
 
-<div align="center">
+يَا أَيُّهَا النَّبِيُّ جَاهِدِ الْكُفَّارَ وَالْمُنَافِقِينَ وَاغْلُظْ عَلَيْهِمْ ۚ وَمَأْوَاهُمْ جَهَنَّمُ ۖ وَبِئْسَ الْمَصِيرُ
 
-بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
-
-</div>
-
-تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ
-
-> _Tabbat yada abee lahabin watabba_
+> _Ya ayyuha alnnabiyyu jahidi alkuffara waalmunafiqeena waoghluth AAalayhim wamawahum jahannamu wabisa almaseeru_
 > 
-> May the hands of Abu Lahab perish, and he ˹himself˺ perish!
+> O Prophet! Struggle against the disbelievers and the hypocrites, and be firm with them. Hell will be their home. What an evil destination!
 
-🔗 Source: https://quran.com/111/1
+🔗 Source: https://quran.com/9/73
 
-— Ramadan 28, 1447H
+— Ramadan 29, 1447H
 <!-- AYAHADAY:END -->
