@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: At-Tawbah 9:33–62 (30 verses)
+Today's reading: At-Tawbah 9:63–92 (30 verses)
 
-[██░░░░░░░░] 20.7% (1290/6229 verses)
+[██░░░░░░░░] 21.2% (1320/6229 verses)
 
-📊 **Stats:** 1290 verses read | 40 days active
+📊 **Stats:** 1320 verses read | 41 days active
 <!-- READING:END -->
 
 ---
@@ -13,16 +13,22 @@ Today's reading: At-Tawbah 9:33–62 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Repentance_</sub><br>
-**Surah At-Tawbah** (9: 73)
+<sub>_Those who drag forth_</sub><br>
+**Surah An-Nazi'at** (79: 8)
 
-يَا أَيُّهَا النَّبِيُّ جَاهِدِ الْكُفَّارَ وَالْمُنَافِقِينَ وَاغْلُظْ عَلَيْهِمْ ۚ وَمَأْوَاهُمْ جَهَنَّمُ ۖ وَبِئْسَ الْمَصِيرُ
+<div align="center">
 
-> _Ya ayyuha alnnabiyyu jahidi alkuffara waalmunafiqeena waoghluth AAalayhim wamawahum jahannamu wabisa almaseeru_
+بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
+
+</div>
+
+قُلُوبٌ يَوْمَئِذٍ وَاجِفَةٌ
+
+> _Quloobun yawmaithin wajifatun_
 > 
-> O Prophet! Struggle against the disbelievers and the hypocrites, and be firm with them. Hell will be their home. What an evil destination!
+> ˹The deniers’˺ hearts on that Day will be trembling ˹in horror˺,
 
-🔗 Source: https://quran.com/9/73
+🔗 Source: https://quran.com/79/8
 
-— Ramadan 29, 1447H
+— Ramadan 30, 1447H
 <!-- AYAHADAY:END -->
