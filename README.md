@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: At-Tawbah 9:93–122 (30 verses)
+Today's reading: At-Tawbah 9:123 → Yunus 10:23 (30 verses)
 
-[██░░░░░░░░] 21.7% (1350/6229 verses)
+[██░░░░░░░░] 22.2% (1380/6229 verses)
 
-📊 **Stats:** 1350 verses read | 42 days active
+📊 **Stats:** 1380 verses read | 43 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: At-Tawbah 9:93–122 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Romans_</sub><br>
-**Surah Ar-Rum** (30: 54)
+<sub>_The Believers_</sub><br>
+**Surah Al-Mu'minun** (23: 115)
 
 <div align="center">
 
@@ -22,13 +22,13 @@ Today's reading: At-Tawbah 9:93–122 (30 verses)
 
 </div>
 
-اللَّهُ الَّذِي خَلَقَكُم مِّن ضَعْفٍ ثُمَّ جَعَلَ مِن بَعْدِ ضَعْفٍ قُوَّةً ثُمَّ جَعَلَ مِن بَعْدِ قُوَّةٍ ضَعْفًا وَشَيْبَةً ۚ يَخْلُقُ مَا يَشَاءُ ۖ وَهُوَ الْعَلِيمُ الْقَدِيرُ
+أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَاكُمْ عَبَثًا وَأَنَّكُمْ إِلَيْنَا لَا تُرْجَعُونَ
 
-> _Allahu allathee khalaqakum min daAAfin thumma jaAAala min baAAdi daAAfin quwwatan thumma jaAAala min baAAdi quwwatin daAAfan washaybatan yakhluqu ma yashao wahuwa alAAaleemu alqadeeru_
+> _Afahasibtum annama khalaqnakum AAabathan waannakum ilayna la turjaAAoona_
 > 
-> It is Allah Who created you in a state of weakness, then developed ˹your˺ weakness into strength, then developed ˹your˺ strength into weakness and old age. He creates whatever He wills. For He is the All-Knowing, Most Capable.
+> Did you then think that We had created you without purpose, and that you would never be returned to Us?”
 
-🔗 Source: https://quran.com/30/54
+🔗 Source: https://quran.com/23/115
 
-— Shawwal 1, 1447H
+— Shawwal 2, 1447H
 <!-- AYAHADAY:END -->
