@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: At-Tawbah 9:123 → Yunus 10:23 (30 verses)
+Today's reading: Yunus 10:24–53 (30 verses)
 
-[██░░░░░░░░] 22.2% (1380/6229 verses)
+[██░░░░░░░░] 22.6% (1410/6229 verses)
 
-📊 **Stats:** 1380 verses read | 43 days active
+📊 **Stats:** 1410 verses read | 44 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: At-Tawbah 9:123 → Yunus 10:23 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Believers_</sub><br>
-**Surah Al-Mu'minun** (23: 115)
+<sub>_Mary_</sub><br>
+**Surah Maryam** (19: 27)
 
 <div align="center">
 
@@ -22,13 +22,13 @@ Today's reading: At-Tawbah 9:123 → Yunus 10:23 (30 verses)
 
 </div>
 
-أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَاكُمْ عَبَثًا وَأَنَّكُمْ إِلَيْنَا لَا تُرْجَعُونَ
+فَأَتَتْ بِهِ قَوْمَهَا تَحْمِلُهُ ۖ قَالُوا يَا مَرْيَمُ لَقَدْ جِئْتِ شَيْئًا فَرِيًّا
 
-> _Afahasibtum annama khalaqnakum AAabathan waannakum ilayna la turjaAAoona_
+> _Faatat bihi qawmaha tahmiluhu qaloo ya maryamu laqad jiti shayan fariyyan_
 > 
-> Did you then think that We had created you without purpose, and that you would never be returned to Us?”
+> Then she returned to her people, carrying him. They said ˹in shock˺, “O Mary! You have certainly done a horrible thing!
 
-🔗 Source: https://quran.com/23/115
+🔗 Source: https://quran.com/19/27
 
-— Shawwal 2, 1447H
+— Shawwal 3, 1447H
 <!-- AYAHADAY:END -->
