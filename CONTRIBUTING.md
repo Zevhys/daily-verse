@@ -5,7 +5,7 @@ Thanks for taking the time to contribute!
 This repository is open to improvements such as bug fixes, documentation updates, and refactoring.
 
 ## Code of Conduct
-By participating, you agree to follow the rules in **[CODE_OF_CONDUCT.md](https://github.com/Zevhys/daily-verse/blob/main/CONTRIBUTING.md)**.
+By participating, you agree to follow the rules in **[CODE_OF_CONDUCT.md](https://github.com/Zevhys/daily-verse/blob/main/CODE_OF_CONDUCT.md)**.
 
 ## How to Contribute
 
