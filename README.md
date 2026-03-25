@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Yunus 10:84 → Hud 11:4 (30 verses)
+Today's reading: Hud 11:5–34 (30 verses)
 
-[██░░░░░░░░] 23.6% (1470/6229 verses)
+[██░░░░░░░░] 24.1% (1500/6229 verses)
 
-📊 **Stats:** 1470 verses read | 46 days active
+📊 **Stats:** 1500 verses read | 47 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Yunus 10:84 → Hud 11:4 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Abrahim_</sub><br>
-**Surah Ibrahim** (14: 14)
+<sub>_The Believers_</sub><br>
+**Surah Al-Mu'minun** (23: 85)
 
 <div align="center">
 
@@ -22,13 +22,13 @@ Today's reading: Yunus 10:84 → Hud 11:4 (30 verses)
 
 </div>
 
-وَلَنُسْكِنَنَّكُمُ الْأَرْضَ مِن بَعْدِهِمْ ۚ ذَٰلِكَ لِمَنْ خَافَ مَقَامِي وَخَافَ وَعِيدِ
+سَيَقُولُونَ لِلَّهِ ۚ قُلْ أَفَلَا تَذَكَّرُونَ
 
-> _Walanuskinannakumu alarda min baAAdihim thalika liman khafa maqamee wakhafa waAAeedi_
+> _Sayaqooloona lillahi qul afala tathakkaroona_
 > 
-> and make you reside in the land after them. This is for whoever is in awe of standing before Me and fears My warning.”
+> They will reply, “To Allah!” Say, “Why are you not then mindful?”
 
-🔗 Source: https://quran.com/14/14
+🔗 Source: https://quran.com/23/85
 
-— Shawwal 5, 1447H
+— Shawwal 6, 1447H
 <!-- AYAHADAY:END -->
