@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Hud 11:5–34 (30 verses)
+Today's reading: Hud 11:35–64 (30 verses)
 
-[██░░░░░░░░] 24.1% (1500/6229 verses)
+[██░░░░░░░░] 24.6% (1530/6229 verses)
 
-📊 **Stats:** 1500 verses read | 47 days active
+📊 **Stats:** 1530 verses read | 48 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Hud 11:5–34 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Believers_</sub><br>
-**Surah Al-Mu'minun** (23: 85)
+<sub>_The Cattle_</sub><br>
+**Surah Al-An'am** (6: 49)
 
 <div align="center">
 
@@ -22,13 +22,13 @@ Today's reading: Hud 11:5–34 (30 verses)
 
 </div>
 
-سَيَقُولُونَ لِلَّهِ ۚ قُلْ أَفَلَا تَذَكَّرُونَ
+وَالَّذِينَ كَذَّبُوا بِآيَاتِنَا يَمَسُّهُمُ الْعَذَابُ بِمَا كَانُوا يَفْسُقُونَ
 
-> _Sayaqooloona lillahi qul afala tathakkaroona_
+> _Waallatheena kaththaboo biayatina yamassuhumu alAAathabu bima kanoo yafsuqoona_
 > 
-> They will reply, “To Allah!” Say, “Why are you not then mindful?”
+> But those who deny Our signs will be afflicted with punishment for their rebelliousness.
 
-🔗 Source: https://quran.com/23/85
+🔗 Source: https://quran.com/6/49
 
-— Shawwal 6, 1447H
+— Shawwal 7, 1447H
 <!-- AYAHADAY:END -->
