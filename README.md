@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Hud 11:35–64 (30 verses)
+Today's reading: Hud 11:65–94 (30 verses)
 
-[██░░░░░░░░] 24.6% (1530/6229 verses)
+[██░░░░░░░░] 25.0% (1560/6229 verses)
 
-📊 **Stats:** 1530 verses read | 48 days active
+📊 **Stats:** 1560 verses read | 49 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Hud 11:35–64 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cattle_</sub><br>
-**Surah Al-An'am** (6: 49)
+<sub>_The Table Spread_</sub><br>
+**Surah Al-Ma'idah** (5: 91)
 
 <div align="center">
 
@@ -22,13 +22,13 @@ Today's reading: Hud 11:35–64 (30 verses)
 
 </div>
 
-وَالَّذِينَ كَذَّبُوا بِآيَاتِنَا يَمَسُّهُمُ الْعَذَابُ بِمَا كَانُوا يَفْسُقُونَ
+إِنَّمَا يُرِيدُ الشَّيْطَانُ أَن يُوقِعَ بَيْنَكُمُ الْعَدَاوَةَ وَالْبَغْضَاءَ فِي الْخَمْرِ وَالْمَيْسِرِ وَيَصُدَّكُمْ عَن ذِكْرِ اللَّهِ وَعَنِ الصَّلَاةِ ۖ فَهَلْ أَنتُم مُّنتَهُونَ
 
-> _Waallatheena kaththaboo biayatina yamassuhumu alAAathabu bima kanoo yafsuqoona_
+> _Innama yureedu alshshaytanu an yooqiAAa baynakumu alAAadawata waalbaghdaa fee alkhamri waalmaysiri wayasuddakum AAan thikri Allahi waAAani alssalati fahal antum muntahoona_
 > 
-> But those who deny Our signs will be afflicted with punishment for their rebelliousness.
+> Satan’s plan is to stir up hostility and hatred between you with intoxicants and gambling and to prevent you from remembering Allah and praying. Will you not then abstain?
 
-🔗 Source: https://quran.com/6/49
+🔗 Source: https://quran.com/5/91
 
-— Shawwal 7, 1447H
+— Shawwal 8, 1447H
 <!-- AYAHADAY:END -->
