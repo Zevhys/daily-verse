@@ -239,7 +239,7 @@ def fetch_ayah_of_the_day() -> str:
 
     return (
         f"<sub>_{data['surahNameEnTrans']}_</sub><br>\n"
-        f"**Surah {data['surahNameEn']}** ({surah}: {ayah})\n\n"
+        f"**Surah {data['surahNameEn']}** ({surah}:{ayah})\n\n"
         f"{bismillah}"
         f"{data['arabicText']}\n\n"
         f"> _{transliteration}_\n"
