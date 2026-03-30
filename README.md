@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Yusuf 12:2–31 (30 verses)
+Today's reading: Yusuf 12:32–61 (30 verses)
 
-[██░░░░░░░░] 26.0% (1620/6229 verses)
+[██░░░░░░░░] 26.5% (1650/6229 verses)
 
-📊 **Stats:** 1620 verses read | 51 days active
+📊 **Stats:** 1650 verses read | 52 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Yusuf 12:2–31 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cattle_</sub><br>
-**Surah Al-An'am** (6:4)
+<sub>_The Poets_</sub><br>
+**Surah Ash-Shu'ara** (26:9)
 
 <div align="center">
 
@@ -22,13 +22,13 @@ Today's reading: Yusuf 12:2–31 (30 verses)
 
 </div>
 
-وَمَا تَأْتِيهِم مِّنْ آيَةٍ مِّنْ آيَاتِ رَبِّهِمْ إِلَّا كَانُوا عَنْهَا مُعْرِضِينَ
+وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ
 
-> _Wama tateehim min ayatin min ayati rabbihim illa kanoo AAanha muAArideena_
+> _Wainna rabbaka lahuwa alAAazeezu alrraheemu_
 > 
-> Whenever a sign comes to them from their Lord, they turn away from it.
+> And your Lord is certainly the Almighty, Most Merciful.
 
-🔗 Source: https://quran.com/6/4
+🔗 Source: https://quran.com/26/9
 
-— Shawwal 10, 1447H
+— Shawwal 11, 1447H
 <!-- AYAHADAY:END -->
