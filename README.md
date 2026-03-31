@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Yusuf 12:32–61 (30 verses)
+Today's reading: Yusuf 12:62–91 (30 verses)
 
-[██░░░░░░░░] 26.5% (1650/6229 verses)
+[██░░░░░░░░] 27.0% (1680/6229 verses)
 
-📊 **Stats:** 1650 verses read | 52 days active
+📊 **Stats:** 1680 verses read | 53 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Yusuf 12:32–61 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Poets_</sub><br>
-**Surah Ash-Shu'ara** (26:9)
+<sub>_The Light_</sub><br>
+**Surah An-Nur** (24:27)
 
 <div align="center">
 
@@ -22,13 +22,13 @@ Today's reading: Yusuf 12:32–61 (30 verses)
 
 </div>
 
-وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ
+يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَدْخُلُوا بُيُوتًا غَيْرَ بُيُوتِكُمْ حَتَّىٰ تَسْتَأْنِسُوا وَتُسَلِّمُوا عَلَىٰ أَهْلِهَا ۚ ذَٰلِكُمْ خَيْرٌ لَّكُمْ لَعَلَّكُمْ تَذَكَّرُونَ
 
-> _Wainna rabbaka lahuwa alAAazeezu alrraheemu_
+> _Ya ayyuha allatheena amanoo la tadkhuloo buyootan ghayra buyootikum hatta tastanisoo watusallimoo AAala ahliha thalikum khayrun lakum laAAallakum tathakkaroona_
 > 
-> And your Lord is certainly the Almighty, Most Merciful.
+> O believers! Do not enter any house other than your own until you have asked for permission and greeted its occupants. This is best for you, so perhaps you will be mindful.
 
-🔗 Source: https://quran.com/26/9
+🔗 Source: https://quran.com/24/27
 
-— Shawwal 11, 1447H
+— Shawwal 12, 1447H
 <!-- AYAHADAY:END -->
