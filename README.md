@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Yusuf 12:62–91 (30 verses)
+Today's reading: Yusuf 12:92 → Ar-Ra'd 13:10 (30 verses)
 
-[██░░░░░░░░] 27.0% (1680/6229 verses)
+[██░░░░░░░░] 27.5% (1710/6229 verses)
 
-📊 **Stats:** 1680 verses read | 53 days active
+📊 **Stats:** 1710 verses read | 54 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Yusuf 12:62–91 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Light_</sub><br>
-**Surah An-Nur** (24:27)
+<sub>_The Beneficent_</sub><br>
+**Surah Ar-Rahman** (55:45)
 
 <div align="center">
 
@@ -22,13 +22,13 @@ Today's reading: Yusuf 12:62–91 (30 verses)
 
 </div>
 
-يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَدْخُلُوا بُيُوتًا غَيْرَ بُيُوتِكُمْ حَتَّىٰ تَسْتَأْنِسُوا وَتُسَلِّمُوا عَلَىٰ أَهْلِهَا ۚ ذَٰلِكُمْ خَيْرٌ لَّكُمْ لَعَلَّكُمْ تَذَكَّرُونَ
+فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ
 
-> _Ya ayyuha allatheena amanoo la tadkhuloo buyootan ghayra buyootikum hatta tastanisoo watusallimoo AAala ahliha thalikum khayrun lakum laAAallakum tathakkaroona_
+> _Fabiayyi alai rabbikuma tukaththibani_
 > 
-> O believers! Do not enter any house other than your own until you have asked for permission and greeted its occupants. This is best for you, so perhaps you will be mindful.
+> Then which of your Lord’s favours will you both deny? 
 
-🔗 Source: https://quran.com/24/27
+🔗 Source: https://quran.com/55/45
 
-— Shawwal 12, 1447H
+— Shawwal 13, 1447H
 <!-- AYAHADAY:END -->
