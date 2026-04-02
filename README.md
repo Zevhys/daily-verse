@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Yusuf 12:92 → Ar-Ra'd 13:10 (30 verses)
+Today's reading: Ar-Ra'd 13:11–40 (30 verses)
 
-[██░░░░░░░░] 27.5% (1710/6229 verses)
+[██░░░░░░░░] 27.9% (1740/6229 verses)
 
-📊 **Stats:** 1710 verses read | 54 days active
+📊 **Stats:** 1740 verses read | 55 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Yusuf 12:92 → Ar-Ra'd 13:10 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Beneficent_</sub><br>
-**Surah Ar-Rahman** (55:45)
+<sub>_The Cave_</sub><br>
+**Surah Al-Kahf** (18:27)
 
 <div align="center">
 
@@ -22,13 +22,13 @@ Today's reading: Yusuf 12:92 → Ar-Ra'd 13:10 (30 verses)
 
 </div>
 
-فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ
+وَاتْلُ مَا أُوحِيَ إِلَيْكَ مِن كِتَابِ رَبِّكَ ۖ لَا مُبَدِّلَ لِكَلِمَاتِهِ وَلَن تَجِدَ مِن دُونِهِ مُلْتَحَدًا
 
-> _Fabiayyi alai rabbikuma tukaththibani_
+> _Waotlu ma oohiya ilayka min kitabi rabbika la mubaddila likalimatihi walan tajida min doonihi multahadan_
 > 
-> Then which of your Lord’s favours will you both deny? 
+> Recite what has been revealed to you from the Book of your Lord. None can change His Words, nor can you find any refuge besides Him.
 
-🔗 Source: https://quran.com/55/45
+🔗 Source: https://quran.com/18/27
 
-— Shawwal 13, 1447H
+— Shawwal 14, 1447H
 <!-- AYAHADAY:END -->
