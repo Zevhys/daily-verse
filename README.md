@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Ar-Ra'd 13:11–40 (30 verses)
+Today's reading: Ar-Ra'd 13:41 → Ibrahim 14:27 (30 verses)
 
-[██░░░░░░░░] 27.9% (1740/6229 verses)
+[██░░░░░░░░] 28.4% (1770/6229 verses)
 
-📊 **Stats:** 1740 verses read | 55 days active
+📊 **Stats:** 1770 verses read | 56 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Ar-Ra'd 13:11–40 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cave_</sub><br>
-**Surah Al-Kahf** (18:27)
+<sub>_Family of Imran_</sub><br>
+**Surah Ali 'Imran** (3:63)
 
 <div align="center">
 
@@ -22,13 +22,13 @@ Today's reading: Ar-Ra'd 13:11–40 (30 verses)
 
 </div>
 
-وَاتْلُ مَا أُوحِيَ إِلَيْكَ مِن كِتَابِ رَبِّكَ ۖ لَا مُبَدِّلَ لِكَلِمَاتِهِ وَلَن تَجِدَ مِن دُونِهِ مُلْتَحَدًا
+فَإِن تَوَلَّوْا فَإِنَّ اللَّهَ عَلِيمٌ بِالْمُفْسِدِينَ
 
-> _Waotlu ma oohiya ilayka min kitabi rabbika la mubaddila likalimatihi walan tajida min doonihi multahadan_
+> _Fain tawallaw fainna Allaha AAaleemun bialmufsideena_
 > 
-> Recite what has been revealed to you from the Book of your Lord. None can change His Words, nor can you find any refuge besides Him.
+> If they turn away, then surely Allah has ˹perfect˺ knowledge of the corruptors.
 
-🔗 Source: https://quran.com/18/27
+🔗 Source: https://quran.com/3/63
 
-— Shawwal 14, 1447H
+— Shawwal 15, 1447H
 <!-- AYAHADAY:END -->
