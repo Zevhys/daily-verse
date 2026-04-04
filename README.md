@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Ar-Ra'd 13:41 → Ibrahim 14:27 (30 verses)
+Today's reading: Ibrahim 14:28 → Al-Hijr 15:5 (30 verses)
 
-[██░░░░░░░░] 28.4% (1770/6229 verses)
+[██░░░░░░░░] 28.9% (1800/6229 verses)
 
-📊 **Stats:** 1770 verses read | 56 days active
+📊 **Stats:** 1800 verses read | 57 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Ar-Ra'd 13:41 → Ibrahim 14:27 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Family of Imran_</sub><br>
-**Surah Ali 'Imran** (3:63)
+<sub>_The Overwhelming_</sub><br>
+**Surah Al-Ghashiyah** (88:11)
 
 <div align="center">
 
@@ -22,13 +22,13 @@ Today's reading: Ar-Ra'd 13:41 → Ibrahim 14:27 (30 verses)
 
 </div>
 
-فَإِن تَوَلَّوْا فَإِنَّ اللَّهَ عَلِيمٌ بِالْمُفْسِدِينَ
+لَّا تَسْمَعُ فِيهَا لَاغِيَةً
 
-> _Fain tawallaw fainna Allaha AAaleemun bialmufsideena_
+> _La tasmaAAu feeha laghiyatan_
 > 
-> If they turn away, then surely Allah has ˹perfect˺ knowledge of the corruptors.
+> where no idle talk will be heard.
 
-🔗 Source: https://quran.com/3/63
+🔗 Source: https://quran.com/88/11
 
-— Shawwal 15, 1447H
+— Shawwal 16, 1447H
 <!-- AYAHADAY:END -->
