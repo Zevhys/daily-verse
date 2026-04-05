@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Ibrahim 14:28 → Al-Hijr 15:5 (30 verses)
+Today's reading: Al-Hijr 15:6–35 (30 verses)
 
-[██░░░░░░░░] 28.9% (1800/6229 verses)
+[██░░░░░░░░] 29.4% (1830/6229 verses)
 
-📊 **Stats:** 1800 verses read | 57 days active
+📊 **Stats:** 1830 verses read | 58 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Ibrahim 14:28 → Al-Hijr 15:5 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Overwhelming_</sub><br>
-**Surah Al-Ghashiyah** (88:11)
+<sub>_Ya Sin_</sub><br>
+**Surah Ya-Sin** (36:59)
 
 <div align="center">
 
@@ -22,13 +22,13 @@ Today's reading: Ibrahim 14:28 → Al-Hijr 15:5 (30 verses)
 
 </div>
 
-لَّا تَسْمَعُ فِيهَا لَاغِيَةً
+وَامْتَازُوا الْيَوْمَ أَيُّهَا الْمُجْرِمُونَ
 
-> _La tasmaAAu feeha laghiyatan_
+> _Waimtazoo alyawma ayyuha almujrimoona_
 > 
-> where no idle talk will be heard.
+> ˹Then the disbelievers will be told,˺ “Step away ˹from the believers˺ this Day, O  wicked ones!
 
-🔗 Source: https://quran.com/88/11
+🔗 Source: https://quran.com/36/59
 
-— Shawwal 16, 1447H
+— Shawwal 17, 1447H
 <!-- AYAHADAY:END -->
