@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Hijr 15:6–35 (30 verses)
+Today's reading: Al-Hijr 15:36–65 (30 verses)
 
-[██░░░░░░░░] 29.4% (1830/6229 verses)
+[██░░░░░░░░] 29.9% (1860/6229 verses)
 
-📊 **Stats:** 1830 verses read | 58 days active
+📊 **Stats:** 1860 verses read | 59 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Al-Hijr 15:6–35 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Ya Sin_</sub><br>
-**Surah Ya-Sin** (36:59)
+<sub>_The Ornaments of Gold_</sub><br>
+**Surah Az-Zukhruf** (43:68)
 
 <div align="center">
 
@@ -22,13 +22,13 @@ Today's reading: Al-Hijr 15:6–35 (30 verses)
 
 </div>
 
-وَامْتَازُوا الْيَوْمَ أَيُّهَا الْمُجْرِمُونَ
+يَا عِبَادِ لَا خَوْفٌ عَلَيْكُمُ الْيَوْمَ وَلَا أَنتُمْ تَحْزَنُونَ
 
-> _Waimtazoo alyawma ayyuha almujrimoona_
+> _Ya AAibadi la khawfun AAalaykumu alyawma wala antum tahzanoona_
 > 
-> ˹Then the disbelievers will be told,˺ “Step away ˹from the believers˺ this Day, O  wicked ones!
+> ˹who will be told,˺ “O My servants! There is no fear for you Today, nor will you grieve—
 
-🔗 Source: https://quran.com/36/59
+🔗 Source: https://quran.com/43/68
 
-— Shawwal 17, 1447H
+— Shawwal 18, 1447H
 <!-- AYAHADAY:END -->
