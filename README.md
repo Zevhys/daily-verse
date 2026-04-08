@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Hijr 15:66–95 (30 verses)
+Today's reading: Al-Hijr 15:96 → An-Nahl 16:26 (30 verses)
 
-[███░░░░░░░] 30.3% (1890/6229 verses)
+[███░░░░░░░] 30.8% (1920/6229 verses)
 
-📊 **Stats:** 1890 verses read | 60 days active
+📊 **Stats:** 1920 verses read | 61 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Al-Hijr 15:66–95 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Heights_</sub><br>
-**Surah Al-A'raf** (7:69)
+<sub>_The Poets_</sub><br>
+**Surah Ash-Shu'ara** (26:169)
 
 <div align="center">
 
@@ -22,13 +22,13 @@ Today's reading: Al-Hijr 15:66–95 (30 verses)
 
 </div>
 
-أَوَعَجِبْتُمْ أَن جَاءَكُمْ ذِكْرٌ مِّن رَّبِّكُمْ عَلَىٰ رَجُلٍ مِّنكُمْ لِيُنذِرَكُمْ ۚ وَاذْكُرُوا إِذْ جَعَلَكُمْ خُلَفَاءَ مِن بَعْدِ قَوْمِ نُوحٍ وَزَادَكُمْ فِي الْخَلْقِ بَسْطَةً ۖ فَاذْكُرُوا آلَاءَ اللَّهِ لَعَلَّكُمْ تُفْلِحُونَ
+رَبِّ نَجِّنِي وَأَهْلِي مِمَّا يَعْمَلُونَ
 
-> _AwaAAajibtum an jaakum thikrun min rabbikum AAala rajulin minkum liyunthirakum waothkuroo ith jaAAalakum khulafaa min baAAdi qawmi noohin wazadakum fee alkhalqi bastatan faothkuroo alaa Allahi laAAallakum tuflihoona_
+> _Rabbi najjinee waahlee mimma yaAAmaloona_
 > 
-> Do you find it astonishing that a reminder should come to you from your Lord through one of your own so he may warn you? Remember that He made you successors after the people of Noah and increased you greatly in stature. So remember Allah’s favours, so you may be successful.”
+> My Lord! Save me and my family from ˹the consequences of˺ what they do.”
 
-🔗 Source: https://quran.com/7/69
+🔗 Source: https://quran.com/26/169
 
-— Shawwal 19, 1447H
+— Shawwal 20, 1447H
 <!-- AYAHADAY:END -->
