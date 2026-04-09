@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Hijr 15:96 → An-Nahl 16:26 (30 verses)
+Today's reading: An-Nahl 16:27–56 (30 verses)
 
-[███░░░░░░░] 30.8% (1920/6229 verses)
+[███░░░░░░░] 31.3% (1950/6229 verses)
 
-📊 **Stats:** 1920 verses read | 61 days active
+📊 **Stats:** 1950 verses read | 62 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Al-Hijr 15:96 → An-Nahl 16:26 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Poets_</sub><br>
-**Surah Ash-Shu'ara** (26:169)
+<sub>_The Women_</sub><br>
+**Surah An-Nisa** (4:153)
 
 <div align="center">
 
@@ -22,13 +22,13 @@ Today's reading: Al-Hijr 15:96 → An-Nahl 16:26 (30 verses)
 
 </div>
 
-رَبِّ نَجِّنِي وَأَهْلِي مِمَّا يَعْمَلُونَ
+يَسْأَلُكَ أَهْلُ الْكِتَابِ أَن تُنَزِّلَ عَلَيْهِمْ كِتَابًا مِّنَ السَّمَاءِ ۚ فَقَدْ سَأَلُوا مُوسَىٰ أَكْبَرَ مِن ذَٰلِكَ فَقَالُوا أَرِنَا اللَّهَ جَهْرَةً فَأَخَذَتْهُمُ الصَّاعِقَةُ بِظُلْمِهِمْ ۚ ثُمَّ اتَّخَذُوا الْعِجْلَ مِن بَعْدِ مَا جَاءَتْهُمُ الْبَيِّنَاتُ فَعَفَوْنَا عَن ذَٰلِكَ ۚ وَآتَيْنَا مُوسَىٰ سُلْطَانًا مُّبِينًا
 
-> _Rabbi najjinee waahlee mimma yaAAmaloona_
+> _Yasaluka ahlu alkitabi an tunazzila AAalayhim kitaban mina alssamai faqad saaloo moosa akbara min thalika faqaloo arina Allaha jahratan faakhathathumu alssaAAiqatu bithulmihim thumma ittakhathoo alAAijla min baAAdi ma jaathumu albayyinatu faAAafawna AAan thalika waatayna moosa sultanan mubeenan_
 > 
-> My Lord! Save me and my family from ˹the consequences of˺ what they do.”
+> The People of the Book demand that you ˹O Prophet˺ bring down for them a revelation in writing from heaven. They demanded what is even greater than this from Moses, saying, “Make Allah visible to us!” So a thunderbolt struck them for their wrongdoing. Then they took the calf for worship after receiving clear signs. Still We forgave them for that ˹after their repentance˺ and gave Moses compelling proof.
 
-🔗 Source: https://quran.com/26/169
+🔗 Source: https://quran.com/4/153
 
-— Shawwal 20, 1447H
+— Shawwal 21, 1447H
 <!-- AYAHADAY:END -->
