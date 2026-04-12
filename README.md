@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: An-Nahl 16:87–116 (30 verses)
+Today's reading: An-Nahl 16:117 → Al-Isra 17:18 (30 verses)
 
-[███░░░░░░░] 32.3% (2010/6229 verses)
+[███░░░░░░░] 32.8% (2040/6229 verses)
 
-📊 **Stats:** 2010 verses read | 64 days active
+📊 **Stats:** 2040 verses read | 65 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: An-Nahl 16:87–116 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Ta-Ha_</sub><br>
-**Surah Taha** (20:54)
+<sub>_The Exile_</sub><br>
+**Surah Al-Hashr** (59:24)
 
 <div align="center">
 
@@ -22,13 +22,13 @@ Today's reading: An-Nahl 16:87–116 (30 verses)
 
 </div>
 
-كُلُوا وَارْعَوْا أَنْعَامَكُمْ ۗ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّأُولِي النُّهَىٰ
+هُوَ اللَّهُ الْخَالِقُ الْبَارِئُ الْمُصَوِّرُ ۖ لَهُ الْأَسْمَاءُ الْحُسْنَىٰ ۚ يُسَبِّحُ لَهُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ ۖ وَهُوَ الْعَزِيزُ الْحَكِيمُ
 
-> _Kuloo wairAAaw anAAamakum inna fee thalika laayatin liolee alnnuha_
+> _Huwa Allahu alkhaliqu albario almusawwiru lahu alasmao alhusna yusabbihu lahu ma fee alssamawati waalardi wahuwa alAAazeezu alhakeemu_
 > 
-> ˹so˺ eat and graze your cattle. Surely in this are signs for people of sound judgment.
+> He is Allah: the Creator, the Inventor, the Shaper. He ˹alone˺ has the Most Beautiful Names. Whatever is in the heavens and the earth ˹constantly˺ glorifies Him. And He is the Almighty, All-Wise.
 
-🔗 Source: https://quran.com/20/54
+🔗 Source: https://quran.com/59/24
 
-— Shawwal 23, 1447H
+— Shawwal 24, 1447H
 <!-- AYAHADAY:END -->
