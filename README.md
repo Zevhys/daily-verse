@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: An-Nahl 16:117 → Al-Isra 17:18 (30 verses)
+Today's reading: Al-Isra 17:19–48 (30 verses)
 
-[███░░░░░░░] 32.8% (2040/6229 verses)
+[███░░░░░░░] 33.2% (2070/6229 verses)
 
-📊 **Stats:** 2040 verses read | 65 days active
+📊 **Stats:** 2070 verses read | 66 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: An-Nahl 16:117 → Al-Isra 17:18 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Exile_</sub><br>
-**Surah Al-Hashr** (59:24)
+<sub>_The Inevitable_</sub><br>
+**Surah Al-Waqi'ah** (56:88)
 
 <div align="center">
 
@@ -22,13 +22,13 @@ Today's reading: An-Nahl 16:117 → Al-Isra 17:18 (30 verses)
 
 </div>
 
-هُوَ اللَّهُ الْخَالِقُ الْبَارِئُ الْمُصَوِّرُ ۖ لَهُ الْأَسْمَاءُ الْحُسْنَىٰ ۚ يُسَبِّحُ لَهُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ ۖ وَهُوَ الْعَزِيزُ الْحَكِيمُ
+فَأَمَّا إِن كَانَ مِنَ الْمُقَرَّبِينَ
 
-> _Huwa Allahu alkhaliqu albario almusawwiru lahu alasmao alhusna yusabbihu lahu ma fee alssamawati waalardi wahuwa alAAazeezu alhakeemu_
+> _Faamma in kana mina almuqarrabeena_
 > 
-> He is Allah: the Creator, the Inventor, the Shaper. He ˹alone˺ has the Most Beautiful Names. Whatever is in the heavens and the earth ˹constantly˺ glorifies Him. And He is the Almighty, All-Wise.
+> So, if the deceased is one of those brought near ˹to Us˺,
 
-🔗 Source: https://quran.com/59/24
+🔗 Source: https://quran.com/56/88
 
-— Shawwal 24, 1447H
+— Shawwal 25, 1447H
 <!-- AYAHADAY:END -->
