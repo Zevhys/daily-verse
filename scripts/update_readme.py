@@ -27,6 +27,7 @@ class SurahMeta:
     number: int
     name_en: str
     ayah_count: int
+    revelation: str
 
 
 QURAN_CLOUD_TRANSLIT_URL = (
@@ -90,13 +91,13 @@ def fetch_transliteration_from_quran_cloud(surah: int, ayah: int) -> str:
 
 
 def load_surah_meta() -> Dict[int, SurahMeta]:
-
     raw = json.loads(SURAH_META_PATH.read_text(encoding="utf-8"))
     meta = {
         int(item["number"]): SurahMeta(
             number=int(item["number"]),
             name_en=str(item["name_en"]),
             ayah_count=int(item["ayah_count"]),
+            revelation=str(item.get("revelation", "unknown")).lower(),
         )
         for item in raw
     }
@@ -107,8 +108,16 @@ def load_surah_meta() -> Dict[int, SurahMeta]:
     return meta
 
 
-def load_state() -> Dict:
+def revelation_place_label(revelation: str) -> str:
+    r = (revelation or "").lower()
+    if r in {"madinah", "madaniyah", "medinan"}:
+        return "Madinah"
+    if r in {"makkah", "makkiyah", "meccan"}:
+        return "Makkah"
+    return "Unknown"
 
+
+def load_state() -> Dict:
     if not STATE_PATH.exists():
         return {
             "surah": 2,
@@ -135,7 +144,6 @@ def save_state(
     days_active: int,
     last_update_date: str,
 ) -> None:
-
     STATE_PATH.write_text(
         json.dumps(
             {
@@ -155,7 +163,6 @@ def save_state(
 def normalize_pointer(
     surah: int, ayah: int, meta: Dict[int, SurahMeta]
 ) -> Tuple[int, int]:
-
     while True:
         if surah > 114:
             surah, ayah = 2, 1
@@ -170,7 +177,6 @@ def normalize_pointer(
 def advance_pointer(
     surah: int, ayah: int, steps: int, meta: Dict[int, SurahMeta]
 ) -> Tuple[int, int]:
-
     cur_surah, cur_ayah = normalize_pointer(surah, ayah, meta)
     remaining = steps
 
@@ -193,7 +199,6 @@ def advance_pointer(
 def compute_daily_reading(
     start_surah: int, start_ayah: int, count: int, meta: Dict[int, SurahMeta]
 ) -> Tuple[str, Tuple[int, int]]:
-
     start_surah, start_ayah = normalize_pointer(start_surah, start_ayah, meta)
     end_surah, end_ayah = advance_pointer(start_surah, start_ayah, count - 1, meta)
 
@@ -204,23 +209,28 @@ def compute_daily_reading(
         if start_ayah == end_ayah:
             line = f"Today's reading: {start_name} {start_surah}:{start_ayah} (1 verse)"
         else:
-            line = f"Today's reading: {start_name} {start_surah}:{start_ayah}–{end_ayah} ({count} verses)"
+            line = (
+                f"Today's reading: {start_name} {start_surah}:{start_ayah}–{end_ayah} "
+                f"({count} verses)"
+            )
     else:
-        line = f"Today's reading: {start_name} {start_surah}:{start_ayah} → {end_name} {end_surah}:{end_ayah} ({count} verses)"
+        line = (
+            f"Today's reading: {start_name} {start_surah}:{start_ayah} → "
+            f"{end_name} {end_surah}:{end_ayah} ({count} verses)"
+        )
 
     next_surah, next_ayah = advance_pointer(end_surah, end_ayah, 1, meta)
     return line, (next_surah, next_ayah)
 
 
 def create_progress_bar(current: int, total: int, length: int = 10) -> str:
-
     percent = (current / total) * 100 if total > 0 else 0
     filled = int((current / total) * length) if total > 0 else 0
     bar = "█" * filled + "░" * (length - filled)
     return f"[{bar}] {percent:.1f}% ({current}/{total} verses)"
 
 
-def fetch_ayah_of_the_day() -> str:
+def fetch_ayah_of_the_day(meta: Dict[int, SurahMeta]) -> str:
     response = requests.get("https://api.tarteel.io/v1/aad/schedule/", timeout=30)
     response.raise_for_status()
     data = response.json()
@@ -228,22 +238,25 @@ def fetch_ayah_of_the_day() -> str:
     surah = int(data["surah"])
     ayah = int(data["ayah"])
 
+    ayah_count = meta[surah].ayah_count
+    place = revelation_place_label(meta[surah].revelation)
+
     transliteration = fetch_transliteration_from_quran_cloud(surah, ayah)
     source_url = f"https://quran.com/{surah}/{ayah}"
 
     bismillah = (
         '<div align="center">\n\nبِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ\n\n</div>\n\n'
-        if data["surah"] != 9
+        if surah != 9
         else ""
     )
 
     return (
-        f"<sub>_{data['surahNameEnTrans']}_</sub><br>\n"
+        f"<sub>_{data['surahNameEnTrans']} • {place} • {ayah_count} Ayat_</sub><br>\n"
         f"**Surah {data['surahNameEn']}** ({surah}:{ayah})\n\n"
         f"{bismillah}"
         f"{data['arabicText']}\n\n"
         f"> _{transliteration}_\n"
-        f"> \n"
+        f">\n"
         f"> {data['englishTranslation']}\n\n"
         f"🔗 Source: {source_url}\n\n"
         f"— {data['hijriDate']}H"
@@ -253,7 +266,6 @@ def fetch_ayah_of_the_day() -> str:
 def replace_block(
     markdown: str, start_marker: str, end_marker: str, new_content: str
 ) -> str:
-
     if start_marker not in markdown or end_marker not in markdown:
         raise RuntimeError(f"Markers not found: {start_marker} / {end_marker}")
 
@@ -271,7 +283,6 @@ def replace_block(
 
 
 def main() -> None:
-
     meta = load_surah_meta()
     state = load_state()
     today = date.today().isoformat()
@@ -291,7 +302,7 @@ def main() -> None:
     )
 
     reading_block = f"{reading_line}\n\n{progress_bar}\n\n{stats_line}"
-    ayahaday_block = fetch_ayah_of_the_day()
+    ayahaday_block = fetch_ayah_of_the_day(meta)
 
     md = README_PATH.read_text(encoding="utf-8")
     md = replace_block(md, READING_START, READING_END, reading_block)
