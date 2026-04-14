@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Isra 17:19–48 (30 verses)
+Today's reading: Al-Isra 17:49–78 (30 verses)
 
-[███░░░░░░░] 33.2% (2070/6229 verses)
+[███░░░░░░░] 33.7% (2100/6229 verses)
 
-📊 **Stats:** 2070 verses read | 66 days active
+📊 **Stats:** 2100 verses read | 67 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Al-Isra 17:19–48 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Inevitable_</sub><br>
-**Surah Al-Waqi'ah** (56:88)
+<sub>_The Poets • Makkah • 227 Ayat_</sub><br>
+**Surah Ash-Shu'ara** (26:31)
 
 <div align="center">
 
@@ -22,13 +22,13 @@ Today's reading: Al-Isra 17:19–48 (30 verses)
 
 </div>
 
-فَأَمَّا إِن كَانَ مِنَ الْمُقَرَّبِينَ
+قَالَ فَأْتِ بِهِ إِن كُنتَ مِنَ الصَّادِقِينَ
 
-> _Faamma in kana mina almuqarrabeena_
-> 
-> So, if the deceased is one of those brought near ˹to Us˺,
+> _Qala fati bihi in kunta mina alssadiqeena_
+>
+> Pharaoh demanded, “Bring it then, if what you say is true.”
 
-🔗 Source: https://quran.com/56/88
+🔗 Source: https://quran.com/26/31
 
-— Shawwal 25, 1447H
+— Shawwal 26, 1447H
 <!-- AYAHADAY:END -->
