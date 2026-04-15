@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Isra 17:49–78 (30 verses)
+Today's reading: Al-Isra 17:79–108 (30 verses)
 
-[███░░░░░░░] 33.7% (2100/6229 verses)
+[███░░░░░░░] 34.2% (2130/6229 verses)
 
-📊 **Stats:** 2100 verses read | 67 days active
+📊 **Stats:** 2130 verses read | 68 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Al-Isra 17:49–78 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Poets • Makkah • 227 Ayat_</sub><br>
-**Surah Ash-Shu'ara** (26:31)
+<sub>_The Winnowing Winds • Makkah • 60 Ayat_</sub><br>
+**Surah Adh-Dhariyat** (51:55)
 
 <div align="center">
 
@@ -22,13 +22,13 @@ Today's reading: Al-Isra 17:49–78 (30 verses)
 
 </div>
 
-قَالَ فَأْتِ بِهِ إِن كُنتَ مِنَ الصَّادِقِينَ
+وَذَكِّرْ فَإِنَّ الذِّكْرَىٰ تَنفَعُ الْمُؤْمِنِينَ
 
-> _Qala fati bihi in kunta mina alssadiqeena_
+> _Wathakkir fainna alththikra tanfaAAu almumineena_
 >
-> Pharaoh demanded, “Bring it then, if what you say is true.”
+> But ˹continue to˺ remind. For certainly reminders benefit the believers.
 
-🔗 Source: https://quran.com/26/31
+🔗 Source: https://quran.com/51/55
 
-— Shawwal 26, 1447H
+— Shawwal 27, 1447H
 <!-- AYAHADAY:END -->
