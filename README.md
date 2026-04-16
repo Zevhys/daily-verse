@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Isra 17:79–108 (30 verses)
+Today's reading: Al-Isra 17:109 → Al-Kahf 18:27 (30 verses)
 
-[███░░░░░░░] 34.2% (2130/6229 verses)
+[███░░░░░░░] 34.7% (2160/6229 verses)
 
-📊 **Stats:** 2130 verses read | 68 days active
+📊 **Stats:** 2160 verses read | 69 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Al-Isra 17:79–108 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Winnowing Winds • Makkah • 60 Ayat_</sub><br>
-**Surah Adh-Dhariyat** (51:55)
+<sub>_Hud • Makkah • 123 Ayat_</sub><br>
+**Surah Hud** (11:103)
 
 <div align="center">
 
@@ -22,13 +22,13 @@ Today's reading: Al-Isra 17:79–108 (30 verses)
 
 </div>
 
-وَذَكِّرْ فَإِنَّ الذِّكْرَىٰ تَنفَعُ الْمُؤْمِنِينَ
+إِنَّ فِي ذَٰلِكَ لَآيَةً لِّمَنْ خَافَ عَذَابَ الْآخِرَةِ ۚ ذَٰلِكَ يَوْمٌ مَّجْمُوعٌ لَّهُ النَّاسُ وَذَٰلِكَ يَوْمٌ مَّشْهُودٌ
 
-> _Wathakkir fainna alththikra tanfaAAu almumineena_
+> _Inna fee thalika laayatan liman khafa AAathaba alakhirati thalika yawmun majmooAAun lahu alnnasu wathalika yawmun mashhoodun_
 >
-> But ˹continue to˺ remind. For certainly reminders benefit the believers.
+> Surely in this is a sign for those who fear the torment of the Hereafter. That is a Day for which humanity will be gathered and a Day ˹that will be˺ witnessed ˹by all˺.
 
-🔗 Source: https://quran.com/51/55
+🔗 Source: https://quran.com/11/103
 
-— Shawwal 27, 1447H
+— Shawwal 28, 1447H
 <!-- AYAHADAY:END -->
