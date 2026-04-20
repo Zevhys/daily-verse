@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Kahf 18:88 → Maryam 19:7 (30 verses)
+Today's reading: Maryam 19:8–37 (30 verses)
 
-[███░░░░░░░] 36.1% (2250/6229 verses)
+[███░░░░░░░] 36.6% (2280/6229 verses)
 
-📊 **Stats:** 2250 verses read | 72 days active
+📊 **Stats:** 2280 verses read | 73 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Al-Kahf 18:88 → Maryam 19:7 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Family of Imran • Madinah • 200 Ayat_</sub><br>
-**Surah Ali 'Imran** (3:83)
+<sub>_The Ascending Stairways • Makkah • 44 Ayat_</sub><br>
+**Surah Al-Ma'arij** (70:43)
 
 <div align="center">
 
@@ -22,13 +22,13 @@ Today's reading: Al-Kahf 18:88 → Maryam 19:7 (30 verses)
 
 </div>
 
-أَفَغَيْرَ دِينِ اللَّهِ يَبْغُونَ وَلَهُ أَسْلَمَ مَن فِي السَّمَاوَاتِ وَالْأَرْضِ طَوْعًا وَكَرْهًا وَإِلَيْهِ يُرْجَعُونَ
+يَوْمَ يَخْرُجُونَ مِنَ الْأَجْدَاثِ سِرَاعًا كَأَنَّهُمْ إِلَىٰ نُصُبٍ يُوفِضُونَ
 
-> _Afaghayra deeni Allahi yabghoona walahu aslama man fee alssamawati waalardi tawAAan wakarhan wailayhi yurjaAAoona_
+> _Yawma yakhrujoona mina alajdathi siraAAan kaannahum ila nusubin yoofidoona_
 >
-> Do they desire a way other than Allah’s—knowing that all those in the heavens and the earth submit to His Will, willingly or unwillingly, and to Him they will ˹all˺ be returned?
+> the Day they will come forth from the graves swiftly, as if racing to an idol ˹for a blessing˺,
 
-🔗 Source: https://quran.com/3/83
+🔗 Source: https://quran.com/70/43
 
-— Dhu al-Qa'dah 2, 1447H
+— Dhu al-Qa'dah 3, 1447H
 <!-- AYAHADAY:END -->
