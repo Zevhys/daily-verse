@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Maryam 19:8–37 (30 verses)
+Today's reading: Maryam 19:38–67 (30 verses)
 
-[███░░░░░░░] 36.6% (2280/6229 verses)
+[███░░░░░░░] 37.1% (2310/6229 verses)
 
-📊 **Stats:** 2280 verses read | 73 days active
+📊 **Stats:** 2310 verses read | 74 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Maryam 19:8–37 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Ascending Stairways • Makkah • 44 Ayat_</sub><br>
-**Surah Al-Ma'arij** (70:43)
+<sub>_The Rocky Tract • Makkah • 99 Ayat_</sub><br>
+**Surah Al-Hijr** (15:65)
 
 <div align="center">
 
@@ -22,13 +22,13 @@ Today's reading: Maryam 19:8–37 (30 verses)
 
 </div>
 
-يَوْمَ يَخْرُجُونَ مِنَ الْأَجْدَاثِ سِرَاعًا كَأَنَّهُمْ إِلَىٰ نُصُبٍ يُوفِضُونَ
+فَأَسْرِ بِأَهْلِكَ بِقِطْعٍ مِّنَ اللَّيْلِ وَاتَّبِعْ أَدْبَارَهُمْ وَلَا يَلْتَفِتْ مِنكُمْ أَحَدٌ وَامْضُوا حَيْثُ تُؤْمَرُونَ
 
-> _Yawma yakhrujoona mina alajdathi siraAAan kaannahum ila nusubin yoofidoona_
+> _Faasri biahlika biqitAAin mina allayli waittabiAA adbarahum wala yaltafit minkum ahadun waimdoo haythu tumaroona_
 >
-> the Day they will come forth from the graves swiftly, as if racing to an idol ˹for a blessing˺,
+> So travel with your family in the dark of night, and follow ˹closely˺ behind them. Do not let any of you look back, and go where you are commanded.”
 
-🔗 Source: https://quran.com/70/43
+🔗 Source: https://quran.com/15/65
 
-— Dhu al-Qa'dah 3, 1447H
+— Dhu al-Qa'dah 4, 1447H
 <!-- AYAHADAY:END -->
