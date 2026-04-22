@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Maryam 19:38–67 (30 verses)
+Today's reading: Maryam 19:68–97 (30 verses)
 
-[███░░░░░░░] 37.1% (2310/6229 verses)
+[███░░░░░░░] 37.6% (2340/6229 verses)
 
-📊 **Stats:** 2310 verses read | 74 days active
+📊 **Stats:** 2340 verses read | 75 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Maryam 19:38–67 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Rocky Tract • Makkah • 99 Ayat_</sub><br>
-**Surah Al-Hijr** (15:65)
+<sub>_Ta-Ha • Makkah • 135 Ayat_</sub><br>
+**Surah Taha** (20:23)
 
 <div align="center">
 
@@ -22,13 +22,13 @@ Today's reading: Maryam 19:38–67 (30 verses)
 
 </div>
 
-فَأَسْرِ بِأَهْلِكَ بِقِطْعٍ مِّنَ اللَّيْلِ وَاتَّبِعْ أَدْبَارَهُمْ وَلَا يَلْتَفِتْ مِنكُمْ أَحَدٌ وَامْضُوا حَيْثُ تُؤْمَرُونَ
+لِنُرِيَكَ مِنْ آيَاتِنَا الْكُبْرَى
 
-> _Faasri biahlika biqitAAin mina allayli waittabiAA adbarahum wala yaltafit minkum ahadun waimdoo haythu tumaroona_
+> _Linuriyaka min ayatina alkubra_
 >
-> So travel with your family in the dark of night, and follow ˹closely˺ behind them. Do not let any of you look back, and go where you are commanded.”
+> so that We may show you some of Our greatest signs.
 
-🔗 Source: https://quran.com/15/65
+🔗 Source: https://quran.com/20/23
 
-— Dhu al-Qa'dah 4, 1447H
+— Dhu al-Qa'dah 5, 1447H
 <!-- AYAHADAY:END -->
