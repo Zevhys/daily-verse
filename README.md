@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Maryam 19:98 → Ta-Ha 20:29 (30 verses)
+Today's reading: Ta-Ha 20:30–59 (30 verses)
 
-[███░░░░░░░] 38.0% (2370/6229 verses)
+[███░░░░░░░] 38.5% (2400/6229 verses)
 
-📊 **Stats:** 2370 verses read | 76 days active
+📊 **Stats:** 2400 verses read | 77 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Maryam 19:98 → Ta-Ha 20:29 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Women • Madinah • 176 Ayat_</sub><br>
-**Surah An-Nisa** (4:161)
+<sub>_The Bee • Makkah • 128 Ayat_</sub><br>
+**Surah An-Nahl** (16:7)
 
 <div align="center">
 
@@ -22,13 +22,13 @@ Today's reading: Maryam 19:98 → Ta-Ha 20:29 (30 verses)
 
 </div>
 
-وَأَخْذِهِمُ الرِّبَا وَقَدْ نُهُوا عَنْهُ وَأَكْلِهِمْ أَمْوَالَ النَّاسِ بِالْبَاطِلِ ۚ وَأَعْتَدْنَا لِلْكَافِرِينَ مِنْهُمْ عَذَابًا أَلِيمًا
+وَتَحْمِلُ أَثْقَالَكُمْ إِلَىٰ بَلَدٍ لَّمْ تَكُونُوا بَالِغِيهِ إِلَّا بِشِقِّ الْأَنفُسِ ۚ إِنَّ رَبَّكُمْ لَرَءُوفٌ رَّحِيمٌ
 
-> _Waakhthihimu alrriba waqad nuhoo AAanhu waaklihim amwala alnnasi bialbatili waaAAtadna lilkafireena minhum AAathaban aleeman_
+> _Watahmilu athqalakum ila baladin lam takoonoo baligheehi illa bishiqqi alanfusi inna rabbakum laraoofun raheemun_
 >
-> taking interest despite its prohibition, and consuming people’s wealth unjustly. We have prepared for the disbelievers among them a painful punishment.
+> And they carry your loads to ˹distant˺ lands which you could not otherwise reach without great hardship. Surely your Lord is Ever Gracious, Most Merciful.
 
-🔗 Source: https://quran.com/4/161
+🔗 Source: https://quran.com/16/7
 
-— Dhu al-Qa'dah 6, 1447H
+— Dhu al-Qa'dah 7, 1447H
 <!-- AYAHADAY:END -->
