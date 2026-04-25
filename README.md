@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Ta-Ha 20:30–59 (30 verses)
+Today's reading: Ta-Ha 20:60–89 (30 verses)
 
-[███░░░░░░░] 38.5% (2400/6229 verses)
+[███░░░░░░░] 39.0% (2430/6229 verses)
 
-📊 **Stats:** 2400 verses read | 77 days active
+📊 **Stats:** 2430 verses read | 78 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Ta-Ha 20:30–59 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Bee • Makkah • 128 Ayat_</sub><br>
-**Surah An-Nahl** (16:7)
+<sub>_The Cattle • Makkah • 165 Ayat_</sub><br>
+**Surah Al-An'am** (6:39)
 
 <div align="center">
 
@@ -22,13 +22,13 @@ Today's reading: Ta-Ha 20:30–59 (30 verses)
 
 </div>
 
-وَتَحْمِلُ أَثْقَالَكُمْ إِلَىٰ بَلَدٍ لَّمْ تَكُونُوا بَالِغِيهِ إِلَّا بِشِقِّ الْأَنفُسِ ۚ إِنَّ رَبَّكُمْ لَرَءُوفٌ رَّحِيمٌ
+وَالَّذِينَ كَذَّبُوا بِآيَاتِنَا صُمٌّ وَبُكْمٌ فِي الظُّلُمَاتِ ۗ مَن يَشَإِ اللَّهُ يُضْلِلْهُ وَمَن يَشَأْ يَجْعَلْهُ عَلَىٰ صِرَاطٍ مُّسْتَقِيمٍ
 
-> _Watahmilu athqalakum ila baladin lam takoonoo baligheehi illa bishiqqi alanfusi inna rabbakum laraoofun raheemun_
+> _Waallatheena kaththaboo biayatina summun wabukmun fee alththulumati man yashai Allahu yudlilhu waman yasha yajAAalhu AAala siratin mustaqeemin_
 >
-> And they carry your loads to ˹distant˺ lands which you could not otherwise reach without great hardship. Surely your Lord is Ever Gracious, Most Merciful.
+> Those who deny Our signs are ˹wilfully˺ deaf and dumb—lost in darkness. Allah leaves whoever He wills to stray and guides whoever He wills to the Straight Way.
 
-🔗 Source: https://quran.com/16/7
+🔗 Source: https://quran.com/6/39
 
-— Dhu al-Qa'dah 7, 1447H
+— Dhu al-Qa'dah 8, 1447H
 <!-- AYAHADAY:END -->
