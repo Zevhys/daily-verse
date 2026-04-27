@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Ta-Ha 20:90–119 (30 verses)
+Today's reading: Ta-Ha 20:120 → Al-Anbiya 21:14 (30 verses)
 
-[███░░░░░░░] 39.5% (2460/6229 verses)
+[███░░░░░░░] 40.0% (2490/6229 verses)
 
-📊 **Stats:** 2460 verses read | 79 days active
+📊 **Stats:** 2490 verses read | 80 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Ta-Ha 20:90–119 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Poets • Makkah • 227 Ayat_</sub><br>
-**Surah Ash-Shu'ara** (26:182)
+<sub>_Mary • Makkah • 98 Ayat_</sub><br>
+**Surah Maryam** (19:28)
 
 <div align="center">
 
@@ -22,13 +22,13 @@ Today's reading: Ta-Ha 20:90–119 (30 verses)
 
 </div>
 
-وَزِنُوا بِالْقِسْطَاسِ الْمُسْتَقِيمِ
+يَا أُخْتَ هَارُونَ مَا كَانَ أَبُوكِ امْرَأَ سَوْءٍ وَمَا كَانَتْ أُمُّكِ بَغِيًّا
 
-> _Wazinoo bialqistasi almustaqeemi_
+> _Ya okhta haroona ma kana abooki imraa sawin wama kanat ommuki baghiyyan_
 >
-> Weigh with an even balance,
+> O  sister of Aaron! Your father was not an indecent man, nor was your mother unchaste.”
 
-🔗 Source: https://quran.com/26/182
+🔗 Source: https://quran.com/19/28
 
-— Dhu al-Qa'dah 9, 1447H
+— Dhu al-Qa'dah 10, 1447H
 <!-- AYAHADAY:END -->
