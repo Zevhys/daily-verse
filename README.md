@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Ta-Ha 20:120 → Al-Anbiya 21:14 (30 verses)
+Today's reading: Al-Anbiya 21:15–44 (30 verses)
 
-[███░░░░░░░] 40.0% (2490/6229 verses)
+[████░░░░░░] 40.5% (2520/6229 verses)
 
-📊 **Stats:** 2490 verses read | 80 days active
+📊 **Stats:** 2520 verses read | 81 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Ta-Ha 20:120 → Al-Anbiya 21:14 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Mary • Makkah • 98 Ayat_</sub><br>
-**Surah Maryam** (19:28)
+<sub>_Ya Sin • Makkah • 83 Ayat_</sub><br>
+**Surah Ya-Sin** (36:10)
 
 <div align="center">
 
@@ -22,13 +22,13 @@ Today's reading: Ta-Ha 20:120 → Al-Anbiya 21:14 (30 verses)
 
 </div>
 
-يَا أُخْتَ هَارُونَ مَا كَانَ أَبُوكِ امْرَأَ سَوْءٍ وَمَا كَانَتْ أُمُّكِ بَغِيًّا
+وَسَوَاءٌ عَلَيْهِمْ أَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ
 
-> _Ya okhta haroona ma kana abooki imraa sawin wama kanat ommuki baghiyyan_
+> _Wasawaon AAalayhim aanthartahum am lam tunthirhum la yuminoona_
 >
-> O  sister of Aaron! Your father was not an indecent man, nor was your mother unchaste.”
+> It is the same whether you warn them or not—they will never believe.
 
-🔗 Source: https://quran.com/19/28
+🔗 Source: https://quran.com/36/10
 
-— Dhu al-Qa'dah 10, 1447H
+— Dhu al-Qa'dah 11, 1447H
 <!-- AYAHADAY:END -->
