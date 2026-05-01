@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Anbiya 21:75–104 (30 verses)
+Today's reading: Al-Anbiya 21:105 → Al-Hajj 22:22 (30 verses)
 
-[████░░░░░░] 41.4% (2580/6229 verses)
+[████░░░░░░] 41.9% (2610/6229 verses)
 
-📊 **Stats:** 2580 verses read | 83 days active
+📊 **Stats:** 2610 verses read | 84 days active
 <!-- READING:END -->
 
 ---
@@ -13,22 +13,16 @@ Today's reading: Al-Anbiya 21:75–104 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Poets • Makkah • 227 Ayat_</sub><br>
-**Surah Ash-Shu'ara** (26:57)
+<sub>_The Repentance • Madinah • 129 Ayat_</sub><br>
+**Surah At-Tawbah** (9:98)
 
-<div align="center">
+وَمِنَ الْأَعْرَابِ مَن يَتَّخِذُ مَا يُنفِقُ مَغْرَمًا وَيَتَرَبَّصُ بِكُمُ الدَّوَائِرَ ۚ عَلَيْهِمْ دَائِرَةُ السَّوْءِ ۗ وَاللَّهُ سَمِيعٌ عَلِيمٌ
 
-بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
-
-</div>
-
-فَأَخْرَجْنَاهُم مِّن جَنَّاتٍ وَعُيُونٍ
-
-> _Faakhrajnahum min jannatin waAAuyoonin_
+> _Wamina alaAArabi man yattakhithu ma yunfiqu maghraman wayatarabbasu bikumu alddawaira AAalayhim dairatu alssawi waAllahu sameeAAun AAaleemun_
 >
-> So We lured the tyrants out of ˹their˺ gardens, springs,
+> And among the nomads are those who consider what they donate to be a loss and await your misfortune. May ill-fortune befall them! And Allah is All-Hearing, All-Knowing.
 
-🔗 Source: https://quran.com/26/57
+🔗 Source: https://quran.com/9/98
 
-— Dhu al-Qa'dah 13, 1447H
+— Dhu al-Qa'dah 14, 1447H
 <!-- AYAHADAY:END -->
