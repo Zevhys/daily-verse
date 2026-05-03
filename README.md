@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Hajj 22:23–52 (30 verses)
+Today's reading: Al-Hajj 22:53 → Al-Mu'minun 23:4 (30 verses)
 
-[████░░░░░░] 42.4% (2640/6229 verses)
+[████░░░░░░] 42.9% (2670/6229 verses)
 
-📊 **Stats:** 2640 verses read | 85 days active
+📊 **Stats:** 2670 verses read | 86 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Al-Hajj 22:23–52 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Poets • Makkah • 227 Ayat_</sub><br>
-**Surah Ash-Shu'ara** (26:101)
+<sub>_The Criterian • Makkah • 77 Ayat_</sub><br>
+**Surah Al-Furqan** (25:56)
 
 <div align="center">
 
@@ -22,13 +22,13 @@ Today's reading: Al-Hajj 22:23–52 (30 verses)
 
 </div>
 
-وَلَا صَدِيقٍ حَمِيمٍ
+وَمَا أَرْسَلْنَاكَ إِلَّا مُبَشِّرًا وَنَذِيرًا
 
-> _Wala sadeeqin hameemin_
+> _Wama arsalnaka illa mubashshiran wanatheeran_
 >
-> nor a close friend.
+> And We have sent you ˹O Prophet˺ only as a deliverer of good news and a warner.
 
-🔗 Source: https://quran.com/26/101
+🔗 Source: https://quran.com/25/56
 
-— Dhu al-Qa'dah 15, 1447H
+— Dhu al-Qa'dah 16, 1447H
 <!-- AYAHADAY:END -->
