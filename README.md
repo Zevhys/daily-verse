@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Hajj 22:53 → Al-Mu'minun 23:4 (30 verses)
+Today's reading: Al-Mu'minun 23:5–34 (30 verses)
 
-[████░░░░░░] 42.9% (2670/6229 verses)
+[████░░░░░░] 43.3% (2700/6229 verses)
 
-📊 **Stats:** 2670 verses read | 86 days active
+📊 **Stats:** 2700 verses read | 87 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Al-Hajj 22:53 → Al-Mu'minun 23:4 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Criterian • Makkah • 77 Ayat_</sub><br>
-**Surah Al-Furqan** (25:56)
+<sub>_The Thunder • Makkah • 43 Ayat_</sub><br>
+**Surah Ar-Ra'd** (13:10)
 
 <div align="center">
 
@@ -22,13 +22,13 @@ Today's reading: Al-Hajj 22:53 → Al-Mu'minun 23:4 (30 verses)
 
 </div>
 
-وَمَا أَرْسَلْنَاكَ إِلَّا مُبَشِّرًا وَنَذِيرًا
+سَوَاءٌ مِّنكُم مَّنْ أَسَرَّ الْقَوْلَ وَمَن جَهَرَ بِهِ وَمَنْ هُوَ مُسْتَخْفٍ بِاللَّيْلِ وَسَارِبٌ بِالنَّهَارِ
 
-> _Wama arsalnaka illa mubashshiran wanatheeran_
+> _Sawaon minkum man asarra alqawla waman jahara bihi waman huwa mustakhfin biallayli wasaribun bialnnahari_
 >
-> And We have sent you ˹O Prophet˺ only as a deliverer of good news and a warner.
+> It is the same ˹to Him˺ whether any of you speaks secretly or openly, whether one hides in the darkness of night or goes about in broad daylight.
 
-🔗 Source: https://quran.com/25/56
+🔗 Source: https://quran.com/13/10
 
-— Dhu al-Qa'dah 16, 1447H
+— Dhu al-Qa'dah 17, 1447H
 <!-- AYAHADAY:END -->
