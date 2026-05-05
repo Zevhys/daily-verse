@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Mu'minun 23:5–34 (30 verses)
+Today's reading: Al-Mu'minun 23:35–64 (30 verses)
 
-[████░░░░░░] 43.3% (2700/6229 verses)
+[████░░░░░░] 43.8% (2730/6229 verses)
 
-📊 **Stats:** 2700 verses read | 87 days active
+📊 **Stats:** 2730 verses read | 88 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Al-Mu'minun 23:5–34 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Thunder • Makkah • 43 Ayat_</sub><br>
-**Surah Ar-Ra'd** (13:10)
+<sub>_The Enshrouded One • Makkah • 20 Ayat_</sub><br>
+**Surah Al-Muzzammil** (73:16)
 
 <div align="center">
 
@@ -22,13 +22,13 @@ Today's reading: Al-Mu'minun 23:5–34 (30 verses)
 
 </div>
 
-سَوَاءٌ مِّنكُم مَّنْ أَسَرَّ الْقَوْلَ وَمَن جَهَرَ بِهِ وَمَنْ هُوَ مُسْتَخْفٍ بِاللَّيْلِ وَسَارِبٌ بِالنَّهَارِ
+فَعَصَىٰ فِرْعَوْنُ الرَّسُولَ فَأَخَذْنَاهُ أَخْذًا وَبِيلًا
 
-> _Sawaon minkum man asarra alqawla waman jahara bihi waman huwa mustakhfin biallayli wasaribun bialnnahari_
+> _FaAAasa firAAawnu alrrasoola faakhathnahu akhthan wabeelan_
 >
-> It is the same ˹to Him˺ whether any of you speaks secretly or openly, whether one hides in the darkness of night or goes about in broad daylight.
+> But Pharaoh disobeyed the messenger, so We seized him with a stern grip.
 
-🔗 Source: https://quran.com/13/10
+🔗 Source: https://quran.com/73/16
 
-— Dhu al-Qa'dah 17, 1447H
+— Dhu al-Qa'dah 18, 1447H
 <!-- AYAHADAY:END -->
