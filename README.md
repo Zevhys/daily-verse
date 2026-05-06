@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Mu'minun 23:35–64 (30 verses)
+Today's reading: Al-Mu'minun 23:65–94 (30 verses)
 
-[████░░░░░░] 43.8% (2730/6229 verses)
+[████░░░░░░] 44.3% (2760/6229 verses)
 
-📊 **Stats:** 2730 verses read | 88 days active
+📊 **Stats:** 2760 verses read | 89 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Al-Mu'minun 23:35–64 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Enshrouded One • Makkah • 20 Ayat_</sub><br>
-**Surah Al-Muzzammil** (73:16)
+<sub>_The Cave • Makkah • 110 Ayat_</sub><br>
+**Surah Al-Kahf** (18:48)
 
 <div align="center">
 
@@ -22,13 +22,13 @@ Today's reading: Al-Mu'minun 23:35–64 (30 verses)
 
 </div>
 
-فَعَصَىٰ فِرْعَوْنُ الرَّسُولَ فَأَخَذْنَاهُ أَخْذًا وَبِيلًا
+وَعُرِضُوا عَلَىٰ رَبِّكَ صَفًّا لَّقَدْ جِئْتُمُونَا كَمَا خَلَقْنَاكُمْ أَوَّلَ مَرَّةٍ ۚ بَلْ زَعَمْتُمْ أَلَّن نَّجْعَلَ لَكُم مَّوْعِدًا
 
-> _FaAAasa firAAawnu alrrasoola faakhathnahu akhthan wabeelan_
+> _WaAAuridoo AAala rabbika saffan laqad jitumoona kama khalaqnakum awwala marratin bal zaAAamtum allan najAAala lakum mawAAidan_
 >
-> But Pharaoh disobeyed the messenger, so We seized him with a stern grip.
+> They will be presented before your Lord in rows, ˹and the deniers will be told,˺ “You have surely returned to Us ˹all alone˺ as We created you the first time, although you ˹always˺ claimed that We would never appoint a time for your return.”
 
-🔗 Source: https://quran.com/73/16
+🔗 Source: https://quran.com/18/48
 
-— Dhu al-Qa'dah 18, 1447H
+— Dhu al-Qa'dah 19, 1447H
 <!-- AYAHADAY:END -->
