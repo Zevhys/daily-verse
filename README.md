@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Mu'minun 23:95 → An-Nur 24:6 (30 verses)
+Today's reading: An-Nur 24:7–36 (30 verses)
 
-[████░░░░░░] 44.8% (2790/6229 verses)
+[████░░░░░░] 45.3% (2820/6229 verses)
 
-📊 **Stats:** 2790 verses read | 90 days active
+📊 **Stats:** 2820 verses read | 91 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Al-Mu'minun 23:95 → An-Nur 24:6 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Those who drag forth • Makkah • 46 Ayat_</sub><br>
-**Surah An-Nazi'at** (79:38)
+<sub>_The Man • Madinah • 31 Ayat_</sub><br>
+**Surah Al-Insan** (76:9)
 
 <div align="center">
 
@@ -22,13 +22,13 @@ Today's reading: Al-Mu'minun 23:95 → An-Nur 24:6 (30 verses)
 
 </div>
 
-وَآثَرَ الْحَيَاةَ الدُّنْيَا
+إِنَّمَا نُطْعِمُكُمْ لِوَجْهِ اللَّهِ لَا نُرِيدُ مِنكُمْ جَزَاءً وَلَا شُكُورًا
 
-> _Waathara alhayata alddunya_
+> _Innama nutAAimukum liwajhi Allahi la nureedu minkum jazaan wala shukooran_
 >
-> and preferred the ˹fleeting˺ life of this world,
+> ˹saying to themselves,˺ “We feed you only for the sake of Allah, seeking neither reward nor thanks from you.
 
-🔗 Source: https://quran.com/79/38
+🔗 Source: https://quran.com/76/9
 
-— Dhu al-Qa'dah 20, 1447H
+— Dhu al-Qa'dah 21, 1447H
 <!-- AYAHADAY:END -->
