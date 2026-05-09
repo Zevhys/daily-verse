@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: An-Nur 24:7–36 (30 verses)
+Today's reading: An-Nur 24:37 → Al-Furqan 25:2 (30 verses)
 
-[████░░░░░░] 45.3% (2820/6229 verses)
+[████░░░░░░] 45.8% (2850/6229 verses)
 
-📊 **Stats:** 2820 verses read | 91 days active
+📊 **Stats:** 2850 verses read | 92 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: An-Nur 24:7–36 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Man • Madinah • 31 Ayat_</sub><br>
-**Surah Al-Insan** (76:9)
+<sub>_The Pen • Makkah • 52 Ayat_</sub><br>
+**Surah Al-Qalam** (68:38)
 
 <div align="center">
 
@@ -22,13 +22,13 @@ Today's reading: An-Nur 24:7–36 (30 verses)
 
 </div>
 
-إِنَّمَا نُطْعِمُكُمْ لِوَجْهِ اللَّهِ لَا نُرِيدُ مِنكُمْ جَزَاءً وَلَا شُكُورًا
+إِنَّ لَكُمْ فِيهِ لَمَا تَخَيَّرُونَ
 
-> _Innama nutAAimukum liwajhi Allahi la nureedu minkum jazaan wala shukooran_
+> _Inna lakum feehi lama takhayyaroona_
 >
-> ˹saying to themselves,˺ “We feed you only for the sake of Allah, seeking neither reward nor thanks from you.
+> that you will have whatever you choose?
 
-🔗 Source: https://quran.com/76/9
+🔗 Source: https://quran.com/68/38
 
-— Dhu al-Qa'dah 21, 1447H
+— Dhu al-Qa'dah 22, 1447H
 <!-- AYAHADAY:END -->
