@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Furqan 25:33–62 (30 verses)
+Today's reading: Al-Furqan 25:63 → Ash-Shu'ara 26:15 (30 verses)
 
-[████░░░░░░] 46.7% (2910/6229 verses)
+[████░░░░░░] 47.2% (2940/6229 verses)
 
-📊 **Stats:** 2910 verses read | 94 days active
+📊 **Stats:** 2940 verses read | 95 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Al-Furqan 25:33–62 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Inevitable • Makkah • 96 Ayat_</sub><br>
-**Surah Al-Waqi'ah** (56:12)
+<sub>_The Mutual Disillusion • Madinah • 18 Ayat_</sub><br>
+**Surah At-Taghabun** (64:3)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: Al-Furqan 25:33–62 (30 verses)
 
 </div>
 
-فِي جَنَّاتِ النَّعِيمِ
+خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ بِالْحَقِّ وَصَوَّرَكُمْ فَأَحْسَنَ صُوَرَكُمْ ۖ وَإِلَيْهِ الْمَصِيرُ
 
 > _Bismillāhir-raḥmānir-raḥīm_
 >
-> _Fee jannati alnnaAAeemi_
+> _Khalaqa alssamawati waalarda bialhaqqi wasawwarakum faahsana suwarakum wailayhi almaseeru_
 >
 > *In the name of Allah, the Most Gracious, the Most Merciful*
 >
-> in the Gardens of Bliss.
+> He created the heavens and the earth for a purpose. He shaped you ˹in the womb˺, perfecting your form. And to Him is the final return.
 
-🔗 Source: https://quran.com/56/12
+🔗 Source: https://quran.com/64/3
 
-— Dhu al-Qa'dah 24, 1447H
+— Dhu al-Qa'dah 25, 1447H
 <!-- AYAHADAY:END -->
