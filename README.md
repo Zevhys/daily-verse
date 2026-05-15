@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Ash-Shu'ara 26:46–75 (30 verses)
+Today's reading: Ash-Shu'ara 26:76–105 (30 verses)
 
-[████░░░░░░] 48.2% (3000/6229 verses)
+[████░░░░░░] 48.6% (3030/6229 verses)
 
-📊 **Stats:** 3000 verses read | 97 days active
+📊 **Stats:** 3030 verses read | 98 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Ash-Shu'ara 26:46–75 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Ornaments of Gold • Makkah • 89 Ayat_</sub><br>
-**Surah Az-Zukhruf** (43:51)
+<sub>_The Overwhelming • Makkah • 26 Ayat_</sub><br>
+**Surah Al-Ghashiyah** (88:7)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: Ash-Shu'ara 26:46–75 (30 verses)
 
 </div>
 
-وَنَادَىٰ فِرْعَوْنُ فِي قَوْمِهِ قَالَ يَا قَوْمِ أَلَيْسَ لِي مُلْكُ مِصْرَ وَهَٰذِهِ الْأَنْهَارُ تَجْرِي مِن تَحْتِي ۖ أَفَلَا تُبْصِرُونَ
+لَّا يُسْمِنُ وَلَا يُغْنِي مِن جُوعٍ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Wanada firAAawnu fee qawmihi qala ya qawmi alaysa lee mulku misra wahathihi alanharu tajree min tahtee afala tubsiroona_
+> _La yusminu wala yughnee min jooAAin_
 >
 > _*In the name of Allah, the Most Gracious, the Most Merciful*_
 >
-> And Pharaoh called out to his people, boasting, “O my people! Am I not sovereign over Egypt as well as ˹all˺ these streams flowing at my feet? Can you not see?
+> neither nourishing nor satisfying hunger.
 
-🔗 Source: https://quran.com/43/51
+🔗 Source: https://quran.com/88/7
 
-— Dhu al-Qa'dah 27, 1447H
+— Dhu al-Qa'dah 28, 1447H
 <!-- AYAHADAY:END -->
