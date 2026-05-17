@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Ash-Shu'ara 26:106–135 (30 verses)
+Today's reading: Ash-Shu'ara 26:136–165 (30 verses)
 
-[████░░░░░░] 49.1% (3060/6229 verses)
+[████░░░░░░] 49.6% (3090/6229 verses)
 
-📊 **Stats:** 3060 verses read | 99 days active
+📊 **Stats:** 3090 verses read | 100 days active
 <!-- READING:END -->
 
 ---
@@ -13,26 +13,20 @@ Today's reading: Ash-Shu'ara 26:106–135 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Bee • Makkah • 128 Ayat_</sub><br>
-**Surah An-Nahl** (16:105)
+<sub>_The Repentance • Madinah • 129 Ayat_</sub><br>
+**Surah At-Tawbah** (9:104)
 
-<div align="center">
-
-بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
-
-</div>
-
-إِنَّمَا يَفْتَرِي الْكَذِبَ الَّذِينَ لَا يُؤْمِنُونَ بِآيَاتِ اللَّهِ ۖ وَأُولَٰئِكَ هُمُ الْكَاذِبُونَ
+أَلَمْ يَعْلَمُوا أَنَّ اللَّهَ هُوَ يَقْبَلُ التَّوْبَةَ عَنْ عِبَادِهِ وَيَأْخُذُ الصَّدَقَاتِ وَأَنَّ اللَّهَ هُوَ التَّوَّابُ الرَّحِيمُ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Innama yaftaree alkathiba allatheena la yuminoona biayati Allahi waolaika humu alkathiboona_
+> _Alam yaAAlamoo anna Allaha huwa yaqbalu alttawbata AAan AAibadihi wayakhuthu alssadaqati waanna Allaha huwa alttawwabu alrraheemu_
 >
 > _*In the name of Allah, the Most Gracious, the Most Merciful*_
 >
-> No one fabricates lies except those who disbelieve in Allah’s revelations, and it is they who are the ˹true˺ liars.
+> Do they not know that Allah alone accepts the repentance of His servants and receives ˹their˺ charity, and that Allah alone is the Accepter of Repentance, Most Merciful?
 
-🔗 Source: https://quran.com/16/105
+🔗 Source: https://quran.com/9/104
 
-— Dhu al-Qa'dah 29, 1447H
+— Dhu al-Qa'dah 30, 1447H
 <!-- AYAHADAY:END -->
