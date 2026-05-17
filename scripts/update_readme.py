@@ -259,9 +259,9 @@ def fetch_ayah_of_the_day(meta: Dict[int, SurahMeta]) -> str:
         f">\n"
         f"> _{transliteration}_\n"
         f">\n"
-        f"> _*In the name of Allah, the Most Gracious, the Most Merciful*_\n"
+        f"> _In the name of Allah, the Most Gracious, the Most Merciful_\n"
         f">\n"
-        f"> {data['englishTranslation']}\n\n"
+        f"> _{data['englishTranslation']}_\n\n"
         f"🔗 Source: {source_url}\n\n"
         f"— {data['hijriDate']}H"
     )
