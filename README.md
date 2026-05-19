@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Ash-Shu'ara 26:166–195 (30 verses)
+Today's reading: Ash-Shu'ara 26:196–225 (30 verses)
 
-[█████░░░░░] 50.1% (3120/6229 verses)
+[█████░░░░░] 50.6% (3150/6229 verses)
 
-📊 **Stats:** 3120 verses read | 101 days active
+📊 **Stats:** 3150 verses read | 102 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Ash-Shu'ara 26:166–195 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Ya Sin • Makkah • 83 Ayat_</sub><br>
-**Surah Ya-Sin** (36:82)
+<sub>_The Poets • Makkah • 227 Ayat_</sub><br>
+**Surah Ash-Shu'ara** (26:177)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: Ash-Shu'ara 26:166–195 (30 verses)
 
 </div>
 
-إِنَّمَا أَمْرُهُ إِذَا أَرَادَ شَيْئًا أَن يَقُولَ لَهُ كُن فَيَكُونُ
+إِذْ قَالَ لَهُمْ شُعَيْبٌ أَلَا تَتَّقُونَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Innama amruhu itha arada shayan an yaqoola lahu kun fayakoonu_
+> _Ith qala lahum shuAAaybun ala tattaqoona_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _All it takes, when He wills something ˹to be˺, is simply to say to it: “Be!” And it is!_
+> _when Shu’aib said to them, “Will you not fear ˹Allah˺?_
 
-🔗 Source: https://quran.com/36/82
+🔗 Source: https://quran.com/26/177
 
-— Dhu al-Hijjah 1, 1447H
+— Dhu al-Hijjah 2, 1447H
 <!-- AYAHADAY:END -->
