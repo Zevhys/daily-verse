@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Ash-Shu'ara 26:196–225 (30 verses)
+Today's reading: Ash-Shu'ara 26:226 → An-Naml 27:28 (30 verses)
 
-[█████░░░░░] 50.6% (3150/6229 verses)
+[█████░░░░░] 51.1% (3180/6229 verses)
 
-📊 **Stats:** 3150 verses read | 102 days active
+📊 **Stats:** 3180 verses read | 103 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Ash-Shu'ara 26:196–225 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Poets • Makkah • 227 Ayat_</sub><br>
-**Surah Ash-Shu'ara** (26:177)
+<sub>_The Cave • Makkah • 110 Ayat_</sub><br>
+**Surah Al-Kahf** (18:72)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: Ash-Shu'ara 26:196–225 (30 verses)
 
 </div>
 
-إِذْ قَالَ لَهُمْ شُعَيْبٌ أَلَا تَتَّقُونَ
+قَالَ أَلَمْ أَقُلْ إِنَّكَ لَن تَسْتَطِيعَ مَعِيَ صَبْرًا
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Ith qala lahum shuAAaybun ala tattaqoona_
+> _Qala alam aqul innaka lan tastateeAAa maAAiya sabran_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _when Shu’aib said to them, “Will you not fear ˹Allah˺?_
+> _He replied, “Did I not say that you cannot have patience with me?”_
 
-🔗 Source: https://quran.com/26/177
+🔗 Source: https://quran.com/18/72
 
-— Dhu al-Hijjah 2, 1447H
+— Dhu al-Hijjah 3, 1447H
 <!-- AYAHADAY:END -->
