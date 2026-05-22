@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: An-Naml 27:29–58 (30 verses)
+Today's reading: An-Naml 27:59–88 (30 verses)
 
-[█████░░░░░] 51.5% (3210/6229 verses)
+[█████░░░░░] 52.0% (3240/6229 verses)
 
-📊 **Stats:** 3210 verses read | 104 days active
+📊 **Stats:** 3240 verses read | 105 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: An-Naml 27:29–58 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Sovereignty • Makkah • 30 Ayat_</sub><br>
-**Surah Al-Mulk** (67:2)
+<sub>_The Emissaries • Makkah • 50 Ayat_</sub><br>
+**Surah Al-Mursalat** (77:16)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: An-Naml 27:29–58 (30 verses)
 
 </div>
 
-الَّذِي خَلَقَ الْمَوْتَ وَالْحَيَاةَ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا ۚ وَهُوَ الْعَزِيزُ الْغَفُورُ
+أَلَمْ نُهْلِكِ الْأَوَّلِينَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Allathee khalaqa almawta waalhayata liyabluwakum ayyukum ahsanu AAamalan wahuwa alAAazeezu alghafooru_
+> _Alam nuhliki alawwaleena_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _˹He is the One˺ Who created death and life in order to test which of you is best in deeds. And He is the Almighty, All-Forgiving._
+> _Did We not destroy earlier disbelievers?_
 
-🔗 Source: https://quran.com/67/2
+🔗 Source: https://quran.com/77/16
 
-— Dhu al-Hijjah 4, 1447H
+— Dhu al-Hijjah 5, 1447H
 <!-- AYAHADAY:END -->
