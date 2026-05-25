@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Qasas 28:26–55 (30 verses)
+Today's reading: Al-Qasas 28:56–85 (30 verses)
 
-[█████░░░░░] 53.0% (3300/6229 verses)
+[█████░░░░░] 53.5% (3330/6229 verses)
 
-📊 **Stats:** 3300 verses read | 107 days active
+📊 **Stats:** 3330 verses read | 108 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Al-Qasas 28:26–55 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Abrahim • Makkah • 52 Ayat_</sub><br>
-**Surah Ibrahim** (14:50)
+<sub>_The Man • Madinah • 31 Ayat_</sub><br>
+**Surah Al-Insan** (76:18)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: Al-Qasas 28:26–55 (30 verses)
 
 </div>
 
-سَرَابِيلُهُم مِّن قَطِرَانٍ وَتَغْشَىٰ وُجُوهَهُمُ النَّارُ
+عَيْنًا فِيهَا تُسَمَّىٰ سَلْسَبِيلًا
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Sarabeeluhum min qatranin wataghsha wujoohahumu alnnaru_
+> _AAaynan feeha tusamma salsabeelan_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _with garments of tar, and their faces covered with flames._
+> _from a spring there, called Salsabîl._
 
-🔗 Source: https://quran.com/14/50
+🔗 Source: https://quran.com/76/18
 
-— Dhu al-Hijjah 7, 1447H
+— Dhu al-Hijjah 8, 1447H
 <!-- AYAHADAY:END -->
