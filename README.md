@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Qasas 28:56–85 (30 verses)
+Today's reading: Al-Qasas 28:86 → Al-'Ankabut 29:27 (30 verses)
 
-[█████░░░░░] 53.5% (3330/6229 verses)
+[█████░░░░░] 53.9% (3360/6229 verses)
 
-📊 **Stats:** 3330 verses read | 108 days active
+📊 **Stats:** 3360 verses read | 109 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Al-Qasas 28:56–85 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Man • Madinah • 31 Ayat_</sub><br>
-**Surah Al-Insan** (76:18)
+<sub>_The Pilgrimage • Madinah • 78 Ayat_</sub><br>
+**Surah Al-Haj** (22:62)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: Al-Qasas 28:56–85 (30 verses)
 
 </div>
 
-عَيْنًا فِيهَا تُسَمَّىٰ سَلْسَبِيلًا
+ذَٰلِكَ بِأَنَّ اللَّهَ هُوَ الْحَقُّ وَأَنَّ مَا يَدْعُونَ مِن دُونِهِ هُوَ الْبَاطِلُ وَأَنَّ اللَّهَ هُوَ الْعَلِيُّ الْكَبِيرُ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _AAaynan feeha tusamma salsabeelan_
+> _Thalika bianna Allaha huwa alhaqqu waanna ma yadAAoona min doonihi huwa albatilu waanna Allaha huwa alAAaliyyu alkabeeru_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _from a spring there, called Salsabîl._
+> _That is because Allah ˹alone˺ is the Truth and what they invoke besides Him is falsehood, and Allah ˹alone˺ is truly the Most High, All-Great._
 
-🔗 Source: https://quran.com/76/18
+🔗 Source: https://quran.com/22/62
 
-— Dhu al-Hijjah 8, 1447H
+— Dhu al-Hijjah 9, 1447H
 <!-- AYAHADAY:END -->
