@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Ar-Rum 30:19–48 (30 verses)
+Today's reading: Ar-Rum 30:49 → Luqman 31:18 (30 verses)
 
-[█████░░░░░] 55.4% (3450/6229 verses)
+[█████░░░░░] 55.9% (3480/6229 verses)
 
-📊 **Stats:** 3450 verses read | 112 days active
+📊 **Stats:** 3480 verses read | 113 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Ar-Rum 30:19–48 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cow • Madinah • 286 Ayat_</sub><br>
-**Surah Al-Baqarah** (2:256)
+<sub>_The Prophets • Makkah • 112 Ayat_</sub><br>
+**Surah Al-Anbya** (21:102)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: Ar-Rum 30:19–48 (30 verses)
 
 </div>
 
-لَا إِكْرَاهَ فِي الدِّينِ ۖ قَد تَّبَيَّنَ الرُّشْدُ مِنَ الْغَيِّ ۚ فَمَن يَكْفُرْ بِالطَّاغُوتِ وَيُؤْمِن بِاللَّهِ فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَىٰ لَا انفِصَامَ لَهَا ۗ وَاللَّهُ سَمِيعٌ عَلِيمٌ
+لَا يَسْمَعُونَ حَسِيسَهَا ۖ وَهُمْ فِي مَا اشْتَهَتْ أَنفُسُهُمْ خَالِدُونَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _La ikraha fee alddeeni qad tabayyana alrrushdu mina alghayyi faman yakfur bialttaghooti wayumin biAllahi faqadi istamsaka bialAAurwati alwuthqa la infisama laha waAllahu sameeAAun AAaleemun_
+> _La yasmaAAoona haseesaha wahum fee ma ishtahat anfusuhum khalidoona_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _Let there be no compulsion in religion, for the truth stands out clearly from falsehood. So whoever renounces false gods and believes in Allah has certainly grasped the firmest, unfailing hand-hold. And Allah is All-Hearing, All-Knowing._
+> _not even hearing the slightest hissing from it. And they will delight forever in what their souls desire._
 
-🔗 Source: https://quran.com/2/256
+🔗 Source: https://quran.com/21/102
 
-— Dhu al-Hijjah 12, 1447H
+— Dhu al-Hijjah 13, 1447H
 <!-- AYAHADAY:END -->
