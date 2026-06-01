@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Luqman 31:19 → As-Sajdah 32:14 (30 verses)
+Today's reading: As-Sajdah 32:15 → Al-Ahzab 33:14 (30 verses)
 
-[█████░░░░░] 56.3% (3510/6229 verses)
+[█████░░░░░] 56.8% (3540/6229 verses)
 
-📊 **Stats:** 3510 verses read | 114 days active
+📊 **Stats:** 3540 verses read | 115 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Luqman 31:19 → As-Sajdah 32:14 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Stories • Makkah • 88 Ayat_</sub><br>
-**Surah Al-Qasas** (28:35)
+<sub>_The Cave • Makkah • 110 Ayat_</sub><br>
+**Surah Al-Kahf** (18:54)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: Luqman 31:19 → As-Sajdah 32:14 (30 verses)
 
 </div>
 
-قَالَ سَنَشُدُّ عَضُدَكَ بِأَخِيكَ وَنَجْعَلُ لَكُمَا سُلْطَانًا فَلَا يَصِلُونَ إِلَيْكُمَا ۚ بِآيَاتِنَا أَنتُمَا وَمَنِ اتَّبَعَكُمَا الْغَالِبُونَ
+وَلَقَدْ صَرَّفْنَا فِي هَٰذَا الْقُرْآنِ لِلنَّاسِ مِن كُلِّ مَثَلٍ ۚ وَكَانَ الْإِنسَانُ أَكْثَرَ شَيْءٍ جَدَلًا
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Qala sanashuddu AAadudaka biakheeka wanajAAalu lakuma sultanan fala yasiloona ilaykuma biayatina antuma wamani ittabaAAakuma alghaliboona_
+> _Walaqad sarrafna fee hatha alqurani lilnnasi min kulli mathalin wakana alinsanu akthara shayin jadalan_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _Allah responded, “We will assist you with your brother and grant you both authority, so they cannot harm you. With Our signs, you and those who follow you will ˹certainly˺ prevail.”_
+> _We have surely set forth in this Quran every ˹kind of˺ lesson for people, but humankind is the most argumentative of all beings._
 
-🔗 Source: https://quran.com/28/35
+🔗 Source: https://quran.com/18/54
 
-— Dhu al-Hijjah 14, 1447H
+— Dhu al-Hijjah 15, 1447H
 <!-- AYAHADAY:END -->
