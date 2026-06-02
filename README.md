@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: As-Sajdah 32:15 → Al-Ahzab 33:14 (30 verses)
+Today's reading: Al-Ahzab 33:15–44 (30 verses)
 
-[█████░░░░░] 56.8% (3540/6229 verses)
+[█████░░░░░] 57.3% (3570/6229 verses)
 
-📊 **Stats:** 3540 verses read | 115 days active
+📊 **Stats:** 3570 verses read | 116 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: As-Sajdah 32:15 → Al-Ahzab 33:14 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cave • Makkah • 110 Ayat_</sub><br>
-**Surah Al-Kahf** (18:54)
+<sub>_The Women • Madinah • 176 Ayat_</sub><br>
+**Surah An-Nisa** (4:50)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: As-Sajdah 32:15 → Al-Ahzab 33:14 (30 verses)
 
 </div>
 
-وَلَقَدْ صَرَّفْنَا فِي هَٰذَا الْقُرْآنِ لِلنَّاسِ مِن كُلِّ مَثَلٍ ۚ وَكَانَ الْإِنسَانُ أَكْثَرَ شَيْءٍ جَدَلًا
+انظُرْ كَيْفَ يَفْتَرُونَ عَلَى اللَّهِ الْكَذِبَ ۖ وَكَفَىٰ بِهِ إِثْمًا مُّبِينًا
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Walaqad sarrafna fee hatha alqurani lilnnasi min kulli mathalin wakana alinsanu akthara shayin jadalan_
+> _Onthur kayfa yaftaroona AAala Allahi alkathiba wakafa bihi ithman mubeenan_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _We have surely set forth in this Quran every ˹kind of˺ lesson for people, but humankind is the most argumentative of all beings._
+> _See how they fabricate lies against Allah—this alone is a blatant sin._
 
-🔗 Source: https://quran.com/18/54
+🔗 Source: https://quran.com/4/50
 
-— Dhu al-Hijjah 15, 1447H
+— Dhu al-Hijjah 16, 1447H
 <!-- AYAHADAY:END -->
