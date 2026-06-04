@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Ahzab 33:45 → Saba 34:1 (30 verses)
+Today's reading: Saba 34:2–31 (30 verses)
 
-[█████░░░░░] 57.8% (3600/6229 verses)
+[█████░░░░░] 58.3% (3630/6229 verses)
 
-📊 **Stats:** 3600 verses read | 117 days active
+📊 **Stats:** 3630 verses read | 118 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Al-Ahzab 33:45 → Saba 34:1 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Thunder • Makkah • 43 Ayat_</sub><br>
-**Surah Ar-Ra'd** (13:22)
+<sub>_The Letter "Qaf" • Makkah • 45 Ayat_</sub><br>
+**Surah Qaf** (50:17)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: Al-Ahzab 33:45 → Saba 34:1 (30 verses)
 
 </div>
 
-وَالَّذِينَ صَبَرُوا ابْتِغَاءَ وَجْهِ رَبِّهِمْ وَأَقَامُوا الصَّلَاةَ وَأَنفَقُوا مِمَّا رَزَقْنَاهُمْ سِرًّا وَعَلَانِيَةً وَيَدْرَءُونَ بِالْحَسَنَةِ السَّيِّئَةَ أُولَٰئِكَ لَهُمْ عُقْبَى الدَّارِ
+إِذْ يَتَلَقَّى الْمُتَلَقِّيَانِ عَنِ الْيَمِينِ وَعَنِ الشِّمَالِ قَعِيدٌ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Waallatheena sabaroo ibtighaa wajhi rabbihim waaqamoo alssalata waanfaqoo mimma razaqnahum sirran waAAalaniyatan wayadraoona bialhasanati alssayyiata olaika lahum AAuqba alddari_
+> _Ith yatalaqqa almutalaqqiyani AAani alyameeni waAAani alshshimali qaAAeedun_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _And ˹they are˺ those who endure patiently, seeking their Lord’s pleasure, establish prayer, donate from what We have provided for them—secretly and openly—and respond to evil with good. It is they who will have the ultimate abode:_
+> _As the two recording-angels—˹one˺ sitting to the right, and ˹the other to˺ the left—note ˹everything˺,_
 
-🔗 Source: https://quran.com/13/22
+🔗 Source: https://quran.com/50/17
 
-— Dhu al-Hijjah 17, 1447H
+— Dhu al-Hijjah 18, 1447H
 <!-- AYAHADAY:END -->
