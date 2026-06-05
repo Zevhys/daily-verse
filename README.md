@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Saba 34:2–31 (30 verses)
+Today's reading: Saba 34:32 → Fatir 35:7 (30 verses)
 
-[█████░░░░░] 58.3% (3630/6229 verses)
+[█████░░░░░] 58.8% (3660/6229 verses)
 
-📊 **Stats:** 3630 verses read | 118 days active
+📊 **Stats:** 3660 verses read | 119 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Saba 34:2–31 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Letter "Qaf" • Makkah • 45 Ayat_</sub><br>
-**Surah Qaf** (50:17)
+<sub>_The Defrauding • Makkah • 36 Ayat_</sub><br>
+**Surah Al-Mutaffifin** (83:34)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: Saba 34:2–31 (30 verses)
 
 </div>
 
-إِذْ يَتَلَقَّى الْمُتَلَقِّيَانِ عَنِ الْيَمِينِ وَعَنِ الشِّمَالِ قَعِيدٌ
+فَالْيَوْمَ الَّذِينَ آمَنُوا مِنَ الْكُفَّارِ يَضْحَكُونَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Ith yatalaqqa almutalaqqiyani AAani alyameeni waAAani alshshimali qaAAeedun_
+> _Faalyawma allatheena amanoo mina alkuffari yadhakoona_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _As the two recording-angels—˹one˺ sitting to the right, and ˹the other to˺ the left—note ˹everything˺,_
+> _But on that Day the believers will be laughing at the disbelievers,_
 
-🔗 Source: https://quran.com/50/17
+🔗 Source: https://quran.com/83/34
 
-— Dhu al-Hijjah 18, 1447H
+— Dhu al-Hijjah 19, 1447H
 <!-- AYAHADAY:END -->
