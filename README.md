@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Saba 34:32 → Fatir 35:7 (30 verses)
+Today's reading: Fatir 35:8–37 (30 verses)
 
-[█████░░░░░] 58.8% (3660/6229 verses)
+[█████░░░░░] 59.2% (3690/6229 verses)
 
-📊 **Stats:** 3660 verses read | 119 days active
+📊 **Stats:** 3690 verses read | 120 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Saba 34:32 → Fatir 35:7 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Defrauding • Makkah • 36 Ayat_</sub><br>
-**Surah Al-Mutaffifin** (83:34)
+<sub>_The Prophets • Makkah • 112 Ayat_</sub><br>
+**Surah Al-Anbya** (21:95)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: Saba 34:32 → Fatir 35:7 (30 verses)
 
 </div>
 
-فَالْيَوْمَ الَّذِينَ آمَنُوا مِنَ الْكُفَّارِ يَضْحَكُونَ
+وَحَرَامٌ عَلَىٰ قَرْيَةٍ أَهْلَكْنَاهَا أَنَّهُمْ لَا يَرْجِعُونَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Faalyawma allatheena amanoo mina alkuffari yadhakoona_
+> _Waharamun AAala qaryatin ahlaknaha annahum la yarjiAAoona_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _But on that Day the believers will be laughing at the disbelievers,_
+> _It is impossible for a society which We have destroyed to ever rise again,_
 
-🔗 Source: https://quran.com/83/34
+🔗 Source: https://quran.com/21/95
 
-— Dhu al-Hijjah 19, 1447H
+— Dhu al-Hijjah 20, 1447H
 <!-- AYAHADAY:END -->
