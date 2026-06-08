@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Fatir 35:38 → Ya-Sin 36:22 (30 verses)
+Today's reading: Ya-Sin 36:23–52 (30 verses)
 
-[█████░░░░░] 59.7% (3720/6229 verses)
+[██████░░░░] 60.2% (3750/6229 verses)
 
-📊 **Stats:** 3720 verses read | 121 days active
+📊 **Stats:** 3750 verses read | 122 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Fatir 35:38 → Ya-Sin 36:22 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Thunder • Makkah • 43 Ayat_</sub><br>
-**Surah Ar-Ra'd** (13:35)
+<sub>_The Reality • Makkah • 52 Ayat_</sub><br>
+**Surah Al-Haqqah** (69:47)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: Fatir 35:38 → Ya-Sin 36:22 (30 verses)
 
 </div>
 
-مَّثَلُ الْجَنَّةِ الَّتِي وُعِدَ الْمُتَّقُونَ ۖ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ ۖ أُكُلُهَا دَائِمٌ وَظِلُّهَا ۚ تِلْكَ عُقْبَى الَّذِينَ اتَّقَوا ۖ وَّعُقْبَى الْكَافِرِينَ النَّارُ
+فَمَا مِنكُم مِّنْ أَحَدٍ عَنْهُ حَاجِزِينَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Mathalu aljannati allatee wuAAida almuttaqoona tajree min tahtiha alanharu okuluha daimun wathilluha tilka AAuqba allatheena ittaqaw waAAuqba alkafireena alnnaru_
+> _Fama minkum min ahadin AAanhu hajizeena_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _The description of the Paradise promised to the righteous is that under it rivers flow; eternal is its fruit as well as its shade. That is the ˹ultimate˺ outcome for the righteous. But the outcome for the disbelievers is the Fire!_
+> _and none of you could have shielded him ˹from Us˺!_
 
-🔗 Source: https://quran.com/13/35
+🔗 Source: https://quran.com/69/47
 
-— Dhu al-Hijjah 21, 1447H
+— Dhu al-Hijjah 22, 1447H
 <!-- AYAHADAY:END -->
