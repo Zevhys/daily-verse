@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Ya-Sin 36:23–52 (30 verses)
+Today's reading: Ya-Sin 36:53–82 (30 verses)
 
-[██████░░░░] 60.2% (3750/6229 verses)
+[██████░░░░] 60.7% (3780/6229 verses)
 
-📊 **Stats:** 3750 verses read | 122 days active
+📊 **Stats:** 3780 verses read | 123 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Ya-Sin 36:23–52 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Reality • Makkah • 52 Ayat_</sub><br>
-**Surah Al-Haqqah** (69:47)
+<sub>_The Troops • Makkah • 75 Ayat_</sub><br>
+**Surah Az-Zumar** (39:32)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: Ya-Sin 36:23–52 (30 verses)
 
 </div>
 
-فَمَا مِنكُم مِّنْ أَحَدٍ عَنْهُ حَاجِزِينَ
+فَمَنْ أَظْلَمُ مِمَّن كَذَبَ عَلَى اللَّهِ وَكَذَّبَ بِالصِّدْقِ إِذْ جَاءَهُ ۚ أَلَيْسَ فِي جَهَنَّمَ مَثْوًى لِّلْكَافِرِينَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Fama minkum min ahadin AAanhu hajizeena_
+> _Faman athlamu mimman kathaba AAala Allahi wakaththaba bialssidqi ith jaahu alaysa fee jahannama mathwan lilkafireena_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _and none of you could have shielded him ˹from Us˺!_
+> _Who then does more wrong than those who lie about Allah and reject the truth after it has reached them? Is Hell not a ˹fitting˺ home for the disbelievers?_
 
-🔗 Source: https://quran.com/69/47
+🔗 Source: https://quran.com/39/32
 
-— Dhu al-Hijjah 22, 1447H
+— Dhu al-Hijjah 23, 1447H
 <!-- AYAHADAY:END -->
