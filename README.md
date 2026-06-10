@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Ya-Sin 36:53–82 (30 verses)
+Today's reading: Ya-Sin 36:83 → As-Saffat 37:29 (30 verses)
 
-[██████░░░░] 60.7% (3780/6229 verses)
+[██████░░░░] 61.2% (3810/6229 verses)
 
-📊 **Stats:** 3780 verses read | 123 days active
+📊 **Stats:** 3810 verses read | 124 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Ya-Sin 36:53–82 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Troops • Makkah • 75 Ayat_</sub><br>
-**Surah Az-Zumar** (39:32)
+<sub>_The Ant • Makkah • 93 Ayat_</sub><br>
+**Surah An-Naml** (27:83)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: Ya-Sin 36:53–82 (30 verses)
 
 </div>
 
-فَمَنْ أَظْلَمُ مِمَّن كَذَبَ عَلَى اللَّهِ وَكَذَّبَ بِالصِّدْقِ إِذْ جَاءَهُ ۚ أَلَيْسَ فِي جَهَنَّمَ مَثْوًى لِّلْكَافِرِينَ
+وَيَوْمَ نَحْشُرُ مِن كُلِّ أُمَّةٍ فَوْجًا مِّمَّن يُكَذِّبُ بِآيَاتِنَا فَهُمْ يُوزَعُونَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Faman athlamu mimman kathaba AAala Allahi wakaththaba bialssidqi ith jaahu alaysa fee jahannama mathwan lilkafireena_
+> _Wayawma nahshuru min kulli ommatin fawjan mimman yukaththibu biayatina fahum yoozaAAoona_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _Who then does more wrong than those who lie about Allah and reject the truth after it has reached them? Is Hell not a ˹fitting˺ home for the disbelievers?_
+> _˹Watch for˺ the Day We will gather from every faith-community a group of those who denied Our revelations, and they will be driven in ranks._
 
-🔗 Source: https://quran.com/39/32
+🔗 Source: https://quran.com/27/83
 
-— Dhu al-Hijjah 23, 1447H
+— Dhu al-Hijjah 24, 1447H
 <!-- AYAHADAY:END -->
