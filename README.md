@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Ya-Sin 36:83 → As-Saffat 37:29 (30 verses)
+Today's reading: As-Saffat 37:30–59 (30 verses)
 
-[██████░░░░] 61.2% (3810/6229 verses)
+[██████░░░░] 61.6% (3840/6229 verses)
 
-📊 **Stats:** 3810 verses read | 124 days active
+📊 **Stats:** 3840 verses read | 125 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Ya-Sin 36:83 → As-Saffat 37:29 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Ant • Makkah • 93 Ayat_</sub><br>
-**Surah An-Naml** (27:83)
+<sub>_The Sovereignty • Makkah • 30 Ayat_</sub><br>
+**Surah Al-Mulk** (67:26)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: Ya-Sin 36:83 → As-Saffat 37:29 (30 verses)
 
 </div>
 
-وَيَوْمَ نَحْشُرُ مِن كُلِّ أُمَّةٍ فَوْجًا مِّمَّن يُكَذِّبُ بِآيَاتِنَا فَهُمْ يُوزَعُونَ
+قُلْ إِنَّمَا الْعِلْمُ عِندَ اللَّهِ وَإِنَّمَا أَنَا نَذِيرٌ مُّبِينٌ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Wayawma nahshuru min kulli ommatin fawjan mimman yukaththibu biayatina fahum yoozaAAoona_
+> _Qul innama alAAilmu AAinda Allahi wainnama ana natheerun mubeenun_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _˹Watch for˺ the Day We will gather from every faith-community a group of those who denied Our revelations, and they will be driven in ranks._
+> _Say, ˹O Prophet,˺ “That knowledge is with Allah alone, and I am only sent with a clear warning.”_
 
-🔗 Source: https://quran.com/27/83
+🔗 Source: https://quran.com/67/26
 
-— Dhu al-Hijjah 24, 1447H
+— Dhu al-Hijjah 25, 1447H
 <!-- AYAHADAY:END -->
