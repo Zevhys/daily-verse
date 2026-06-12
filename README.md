@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: As-Saffat 37:30–59 (30 verses)
+Today's reading: As-Saffat 37:60–89 (30 verses)
 
-[██████░░░░] 61.6% (3840/6229 verses)
+[██████░░░░] 62.1% (3870/6229 verses)
 
-📊 **Stats:** 3840 verses read | 125 days active
+📊 **Stats:** 3870 verses read | 126 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: As-Saffat 37:30–59 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Sovereignty • Makkah • 30 Ayat_</sub><br>
-**Surah Al-Mulk** (67:26)
+<sub>_Ya Sin • Makkah • 83 Ayat_</sub><br>
+**Surah Ya-Sin** (36:54)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: As-Saffat 37:30–59 (30 verses)
 
 </div>
 
-قُلْ إِنَّمَا الْعِلْمُ عِندَ اللَّهِ وَإِنَّمَا أَنَا نَذِيرٌ مُّبِينٌ
+فَالْيَوْمَ لَا تُظْلَمُ نَفْسٌ شَيْئًا وَلَا تُجْزَوْنَ إِلَّا مَا كُنتُمْ تَعْمَلُونَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Qul innama alAAilmu AAinda Allahi wainnama ana natheerun mubeenun_
+> _Faalyawma la tuthlamu nafsun shayan wala tujzawna illa ma kuntum taAAmaloona_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _Say, ˹O Prophet,˺ “That knowledge is with Allah alone, and I am only sent with a clear warning.”_
+> _On that Day no soul will be wronged in the least, nor will you be rewarded except for what you used to do._
 
-🔗 Source: https://quran.com/67/26
+🔗 Source: https://quran.com/36/54
 
-— Dhu al-Hijjah 25, 1447H
+— Dhu al-Hijjah 26, 1447H
 <!-- AYAHADAY:END -->
