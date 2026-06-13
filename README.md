@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: As-Saffat 37:60–89 (30 verses)
+Today's reading: As-Saffat 37:90–119 (30 verses)
 
-[██████░░░░] 62.1% (3870/6229 verses)
+[██████░░░░] 62.6% (3900/6229 verses)
 
-📊 **Stats:** 3870 verses read | 126 days active
+📊 **Stats:** 3900 verses read | 127 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: As-Saffat 37:60–89 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Ya Sin • Makkah • 83 Ayat_</sub><br>
-**Surah Ya-Sin** (36:54)
+<sub>_The Spoils of War • Madinah • 75 Ayat_</sub><br>
+**Surah Al-Anfal** (8:11)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: As-Saffat 37:60–89 (30 verses)
 
 </div>
 
-فَالْيَوْمَ لَا تُظْلَمُ نَفْسٌ شَيْئًا وَلَا تُجْزَوْنَ إِلَّا مَا كُنتُمْ تَعْمَلُونَ
+إِذْ يُغَشِّيكُمُ النُّعَاسَ أَمَنَةً مِّنْهُ وَيُنَزِّلُ عَلَيْكُم مِّنَ السَّمَاءِ مَاءً لِّيُطَهِّرَكُم بِهِ وَيُذْهِبَ عَنكُمْ رِجْزَ الشَّيْطَانِ وَلِيَرْبِطَ عَلَىٰ قُلُوبِكُمْ وَيُثَبِّتَ بِهِ الْأَقْدَامَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Faalyawma la tuthlamu nafsun shayan wala tujzawna illa ma kuntum taAAmaloona_
+> _Ith yughashsheekumu alnnuAAasa amanatan minhu wayunazzilu AAalaykum mina alssamai maan liyutahhirakum bihi wayuthhiba AAankum rijza alshshaytani waliyarbita AAala quloobikum wayuthabbita bihi alaqdama_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _On that Day no soul will be wronged in the least, nor will you be rewarded except for what you used to do._
+> _˹Remember˺ when He caused drowsiness to overcome you, giving you serenity. And He sent down rain from the sky to purify you, free you from Satan’s whispers, strengthen your hearts, and make ˹your˺ steps firm._
 
-🔗 Source: https://quran.com/36/54
+🔗 Source: https://quran.com/8/11
 
-— Dhu al-Hijjah 26, 1447H
+— Dhu al-Hijjah 27, 1447H
 <!-- AYAHADAY:END -->
