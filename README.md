@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: As-Saffat 37:90–119 (30 verses)
+Today's reading: As-Saffat 37:120–149 (30 verses)
 
-[██████░░░░] 62.6% (3900/6229 verses)
+[██████░░░░] 63.1% (3930/6229 verses)
 
-📊 **Stats:** 3900 verses read | 127 days active
+📊 **Stats:** 3930 verses read | 128 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: As-Saffat 37:90–119 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Spoils of War • Madinah • 75 Ayat_</sub><br>
-**Surah Al-Anfal** (8:11)
+<sub>_The Cave • Makkah • 110 Ayat_</sub><br>
+**Surah Al-Kahf** (18:30)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: As-Saffat 37:90–119 (30 verses)
 
 </div>
 
-إِذْ يُغَشِّيكُمُ النُّعَاسَ أَمَنَةً مِّنْهُ وَيُنَزِّلُ عَلَيْكُم مِّنَ السَّمَاءِ مَاءً لِّيُطَهِّرَكُم بِهِ وَيُذْهِبَ عَنكُمْ رِجْزَ الشَّيْطَانِ وَلِيَرْبِطَ عَلَىٰ قُلُوبِكُمْ وَيُثَبِّتَ بِهِ الْأَقْدَامَ
+إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ إِنَّا لَا نُضِيعُ أَجْرَ مَنْ أَحْسَنَ عَمَلًا
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Ith yughashsheekumu alnnuAAasa amanatan minhu wayunazzilu AAalaykum mina alssamai maan liyutahhirakum bihi wayuthhiba AAankum rijza alshshaytani waliyarbita AAala quloobikum wayuthabbita bihi alaqdama_
+> _Inna allatheena amanoo waAAamiloo alssalihati inna la nudeeAAu ajra man ahsana AAamalan_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _˹Remember˺ when He caused drowsiness to overcome you, giving you serenity. And He sent down rain from the sky to purify you, free you from Satan’s whispers, strengthen your hearts, and make ˹your˺ steps firm._
+> _As for those who believe and do good, We certainly never deny the reward of those who are best in deeds._
 
-🔗 Source: https://quran.com/8/11
+🔗 Source: https://quran.com/18/30
 
-— Dhu al-Hijjah 27, 1447H
+— Dhu al-Hijjah 28, 1447H
 <!-- AYAHADAY:END -->
