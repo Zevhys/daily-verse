@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: As-Saffat 37:120–149 (30 verses)
+Today's reading: As-Saffat 37:150–179 (30 verses)
 
-[██████░░░░] 63.1% (3930/6229 verses)
+[██████░░░░] 63.6% (3960/6229 verses)
 
-📊 **Stats:** 3930 verses read | 128 days active
+📊 **Stats:** 3960 verses read | 129 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: As-Saffat 37:120–149 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cave • Makkah • 110 Ayat_</sub><br>
-**Surah Al-Kahf** (18:30)
+<sub>_The Heights • Makkah • 206 Ayat_</sub><br>
+**Surah Al-A'raf** (7:190)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: As-Saffat 37:120–149 (30 verses)
 
 </div>
 
-إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ إِنَّا لَا نُضِيعُ أَجْرَ مَنْ أَحْسَنَ عَمَلًا
+فَلَمَّا آتَاهُمَا صَالِحًا جَعَلَا لَهُ شُرَكَاءَ فِيمَا آتَاهُمَا ۚ فَتَعَالَى اللَّهُ عَمَّا يُشْرِكُونَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Inna allatheena amanoo waAAamiloo alssalihati inna la nudeeAAu ajra man ahsana AAamalan_
+> _Falamma atahuma salihan jaAAala lahu shurakaa feema atahuma fataAAala Allahu AAamma yushrikoona_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _As for those who believe and do good, We certainly never deny the reward of those who are best in deeds._
+> _But when He granted their descendants good offspring, they associated false gods in what He has given them. Exalted is Allah above what they associate ˹with Him˺!_
 
-🔗 Source: https://quran.com/18/30
+🔗 Source: https://quran.com/7/190
 
-— Dhu al-Hijjah 28, 1447H
+— Dhu al-Hijjah 29, 1447H
 <!-- AYAHADAY:END -->
