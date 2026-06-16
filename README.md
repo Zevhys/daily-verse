@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: As-Saffat 37:150–179 (30 verses)
+Today's reading: As-Saffat 37:180 → Sad 38:27 (30 verses)
 
-[██████░░░░] 63.6% (3960/6229 verses)
+[██████░░░░] 64.1% (3990/6229 verses)
 
-📊 **Stats:** 3960 verses read | 129 days active
+📊 **Stats:** 3990 verses read | 130 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: As-Saffat 37:150–179 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Heights • Makkah • 206 Ayat_</sub><br>
-**Surah Al-A'raf** (7:190)
+<sub>_The Bee • Makkah • 128 Ayat_</sub><br>
+**Surah An-Nahl** (16:120)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: As-Saffat 37:150–179 (30 verses)
 
 </div>
 
-فَلَمَّا آتَاهُمَا صَالِحًا جَعَلَا لَهُ شُرَكَاءَ فِيمَا آتَاهُمَا ۚ فَتَعَالَى اللَّهُ عَمَّا يُشْرِكُونَ
+إِنَّ إِبْرَاهِيمَ كَانَ أُمَّةً قَانِتًا لِّلَّهِ حَنِيفًا وَلَمْ يَكُ مِنَ الْمُشْرِكِينَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Falamma atahuma salihan jaAAala lahu shurakaa feema atahuma fataAAala Allahu AAamma yushrikoona_
+> _Inna ibraheema kana ommatan qanitan lillahi haneefan walam yaku mina almushrikeena_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _But when He granted their descendants good offspring, they associated false gods in what He has given them. Exalted is Allah above what they associate ˹with Him˺!_
+> _Indeed, Abraham was a model of excellence: devoted to Allah, ˹perfectly˺ upright—not a polytheist—_
 
-🔗 Source: https://quran.com/7/190
+🔗 Source: https://quran.com/16/120
 
-— Dhu al-Hijjah 29, 1447H
+— Muharram 1, 1448H
 <!-- AYAHADAY:END -->
