@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: As-Saffat 37:180 → Sad 38:27 (30 verses)
+Today's reading: Sad 38:28–57 (30 verses)
 
-[██████░░░░] 64.1% (3990/6229 verses)
+[██████░░░░] 64.5% (4020/6229 verses)
 
-📊 **Stats:** 3990 verses read | 130 days active
+📊 **Stats:** 4020 verses read | 131 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: As-Saffat 37:180 → Sad 38:27 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Bee • Makkah • 128 Ayat_</sub><br>
-**Surah An-Nahl** (16:120)
+<sub>_The Fig • Makkah • 8 Ayat_</sub><br>
+**Surah At-Tin** (95:5)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: As-Saffat 37:180 → Sad 38:27 (30 verses)
 
 </div>
 
-إِنَّ إِبْرَاهِيمَ كَانَ أُمَّةً قَانِتًا لِّلَّهِ حَنِيفًا وَلَمْ يَكُ مِنَ الْمُشْرِكِينَ
+ثُمَّ رَدَدْنَاهُ أَسْفَلَ سَافِلِينَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Inna ibraheema kana ommatan qanitan lillahi haneefan walam yaku mina almushrikeena_
+> _Thumma radadnahu asfala safileena_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _Indeed, Abraham was a model of excellence: devoted to Allah, ˹perfectly˺ upright—not a polytheist—_
+> _But We will reduce them to the lowest of the low ˹in Hell˺,_
 
-🔗 Source: https://quran.com/16/120
+🔗 Source: https://quran.com/95/5
 
-— Muharram 1, 1448H
+— Muharram 2, 1448H
 <!-- AYAHADAY:END -->
