@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Sad 38:88 → Az-Zumar 39:29 (30 verses)
+Today's reading: Az-Zumar 39:30–59 (30 verses)
 
-[██████░░░░] 65.5% (4080/6229 verses)
+[██████░░░░] 66.0% (4110/6229 verses)
 
-📊 **Stats:** 4080 verses read | 133 days active
+📊 **Stats:** 4110 verses read | 134 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Sad 38:88 → Az-Zumar 39:29 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Smoke • Makkah • 59 Ayat_</sub><br>
-**Surah Ad-Dukhan** (44:2)
+<sub>_The Cave • Makkah • 110 Ayat_</sub><br>
+**Surah Al-Kahf** (18:13)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: Sad 38:88 → Az-Zumar 39:29 (30 verses)
 
 </div>
 
-وَالْكِتَابِ الْمُبِينِ
+نَّحْنُ نَقُصُّ عَلَيْكَ نَبَأَهُم بِالْحَقِّ ۚ إِنَّهُمْ فِتْيَةٌ آمَنُوا بِرَبِّهِمْ وَزِدْنَاهُمْ هُدًى
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Waalkitabi almubeeni_
+> _Nahnu naqussu AAalayka nabaahum bialhaqqi innahum fityatun amanoo birabbihim wazidnahum hudan_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _By the clear Book!_
+> _We relate to you ˹O Prophet˺ their story in truth. They were youths who truly believed in their Lord, and We increased them in guidance._
 
-🔗 Source: https://quran.com/44/2
+🔗 Source: https://quran.com/18/13
 
-— Muharram 4, 1448H
+— Muharram 5, 1448H
 <!-- AYAHADAY:END -->
