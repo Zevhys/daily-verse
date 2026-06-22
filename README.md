@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Az-Zumar 39:60 → Ghafir 40:14 (30 verses)
+Today's reading: Ghafir 40:15–44 (30 verses)
 
-[██████░░░░] 66.5% (4140/6229 verses)
+[██████░░░░] 66.9% (4170/6229 verses)
 
-📊 **Stats:** 4140 verses read | 135 days active
+📊 **Stats:** 4170 verses read | 136 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Az-Zumar 39:60 → Ghafir 40:14 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Clot • Makkah • 19 Ayat_</sub><br>
-**Surah Al-'Alaq** (96:14)
+<sub>_The Star • Makkah • 62 Ayat_</sub><br>
+**Surah An-Najm** (53:5)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: Az-Zumar 39:60 → Ghafir 40:14 (30 verses)
 
 </div>
 
-أَلَمْ يَعْلَم بِأَنَّ اللَّهَ يَرَىٰ
+عَلَّمَهُ شَدِيدُ الْقُوَىٰ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Alam yaAAlam bianna Allaha yara_
+> _AAallamahu shadeedu alquwa_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _Does he not know that Allah sees ˹all˺?_
+> _He has been taught by one ˹angel˺ of mighty power_
 
-🔗 Source: https://quran.com/96/14
+🔗 Source: https://quran.com/53/5
 
-— Muharram 6, 1448H
+— Muharram 7, 1448H
 <!-- AYAHADAY:END -->
