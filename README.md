@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Ghafir 40:15–44 (30 verses)
+Today's reading: Ghafir 40:45–74 (30 verses)
 
-[██████░░░░] 66.9% (4170/6229 verses)
+[██████░░░░] 67.4% (4200/6229 verses)
 
-📊 **Stats:** 4170 verses read | 136 days active
+📊 **Stats:** 4200 verses read | 137 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Ghafir 40:15–44 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Star • Makkah • 62 Ayat_</sub><br>
-**Surah An-Najm** (53:5)
+<sub>_The Prostration • Makkah • 30 Ayat_</sub><br>
+**Surah As-Sajdah** (32:7)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: Ghafir 40:15–44 (30 verses)
 
 </div>
 
-عَلَّمَهُ شَدِيدُ الْقُوَىٰ
+الَّذِي أَحْسَنَ كُلَّ شَيْءٍ خَلَقَهُ ۖ وَبَدَأَ خَلْقَ الْإِنسَانِ مِن طِينٍ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _AAallamahu shadeedu alquwa_
+> _Allathee ahsana kulla shayin khalaqahu wabadaa khalqa alinsani min teenin_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _He has been taught by one ˹angel˺ of mighty power_
+> _Who has perfected everything He created. And He originated the creation of humankind from clay._
 
-🔗 Source: https://quran.com/53/5
+🔗 Source: https://quran.com/32/7
 
-— Muharram 7, 1448H
+— Muharram 8, 1448H
 <!-- AYAHADAY:END -->
