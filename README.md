@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Ghafir 40:45–74 (30 verses)
+Today's reading: Ghafir 40:75 → Fussilat 41:19 (30 verses)
 
-[██████░░░░] 67.4% (4200/6229 verses)
+[██████░░░░] 67.9% (4230/6229 verses)
 
-📊 **Stats:** 4200 verses read | 137 days active
+📊 **Stats:** 4230 verses read | 138 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Ghafir 40:45–74 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Prostration • Makkah • 30 Ayat_</sub><br>
-**Surah As-Sajdah** (32:7)
+<sub>_The Mount • Makkah • 49 Ayat_</sub><br>
+**Surah At-Tur** (52:46)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: Ghafir 40:45–74 (30 verses)
 
 </div>
 
-الَّذِي أَحْسَنَ كُلَّ شَيْءٍ خَلَقَهُ ۖ وَبَدَأَ خَلْقَ الْإِنسَانِ مِن طِينٍ
+يَوْمَ لَا يُغْنِي عَنْهُمْ كَيْدُهُمْ شَيْئًا وَلَا هُمْ يُنصَرُونَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Allathee ahsana kulla shayin khalaqahu wabadaa khalqa alinsani min teenin_
+> _Yawma la yughnee AAanhum kayduhum shayan wala hum yunsaroona_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _Who has perfected everything He created. And He originated the creation of humankind from clay._
+> _the Day their scheming will be of no benefit to them whatsoever, nor will they be helped._
 
-🔗 Source: https://quran.com/32/7
+🔗 Source: https://quran.com/52/46
 
-— Muharram 8, 1448H
+— Muharram 9, 1448H
 <!-- AYAHADAY:END -->
