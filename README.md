@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Ghafir 40:75 → Fussilat 41:19 (30 verses)
+Today's reading: Fussilat 41:20–49 (30 verses)
 
-[██████░░░░] 67.9% (4230/6229 verses)
+[██████░░░░] 68.4% (4260/6229 verses)
 
-📊 **Stats:** 4230 verses read | 138 days active
+📊 **Stats:** 4260 verses read | 139 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Ghafir 40:75 → Fussilat 41:19 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Mount • Makkah • 49 Ayat_</sub><br>
-**Surah At-Tur** (52:46)
+<sub>_The Stories • Makkah • 88 Ayat_</sub><br>
+**Surah Al-Qasas** (28:20)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: Ghafir 40:75 → Fussilat 41:19 (30 verses)
 
 </div>
 
-يَوْمَ لَا يُغْنِي عَنْهُمْ كَيْدُهُمْ شَيْئًا وَلَا هُمْ يُنصَرُونَ
+وَجَاءَ رَجُلٌ مِّنْ أَقْصَى الْمَدِينَةِ يَسْعَىٰ قَالَ يَا مُوسَىٰ إِنَّ الْمَلَأَ يَأْتَمِرُونَ بِكَ لِيَقْتُلُوكَ فَاخْرُجْ إِنِّي لَكَ مِنَ النَّاصِحِينَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Yawma la yughnee AAanhum kayduhum shayan wala hum yunsaroona_
+> _Wajaa rajulun min aqsa almadeenati yasAAa qala ya moosa inna almalaa yatamiroona bika liyaqtulooka faokhruj innee laka mina alnnasiheena_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _the Day their scheming will be of no benefit to them whatsoever, nor will they be helped._
+> _And there came a man, rushing from the farthest end of the city. He said, “O Moses! The chiefs are actually conspiring against you to put you to death, so leave ˹the city˺. I really advise you ˹to do so˺.”_
 
-🔗 Source: https://quran.com/52/46
+🔗 Source: https://quran.com/28/20
 
-— Muharram 9, 1448H
+— Muharram 10, 1448H
 <!-- AYAHADAY:END -->
