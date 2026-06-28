@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Ash-Shura 42:26 → Az-Zukhruf 43:2 (30 verses)
+Today's reading: Az-Zukhruf 43:3–32 (30 verses)
 
-[██████░░░░] 69.4% (4320/6229 verses)
+[██████░░░░] 69.8% (4350/6229 verses)
 
-📊 **Stats:** 4320 verses read | 141 days active
+📊 **Stats:** 4350 verses read | 142 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Ash-Shura 42:26 → Az-Zukhruf 43:2 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Abrahim • Makkah • 52 Ayat_</sub><br>
-**Surah Ibrahim** (14:47)
+<sub>_The Heights • Makkah • 206 Ayat_</sub><br>
+**Surah Al-A'raf** (7:180)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: Ash-Shura 42:26 → Az-Zukhruf 43:2 (30 verses)
 
 </div>
 
-فَلَا تَحْسَبَنَّ اللَّهَ مُخْلِفَ وَعْدِهِ رُسُلَهُ ۗ إِنَّ اللَّهَ عَزِيزٌ ذُو انتِقَامٍ
+وَلِلَّهِ الْأَسْمَاءُ الْحُسْنَىٰ فَادْعُوهُ بِهَا ۖ وَذَرُوا الَّذِينَ يُلْحِدُونَ فِي أَسْمَائِهِ ۚ سَيُجْزَوْنَ مَا كَانُوا يَعْمَلُونَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Fala tahsabanna Allaha mukhlifa waAAdihi rusulahu inna Allaha AAazeezun thoo intiqamin_
+> _Walillahi alasmao alhusna faodAAoohu biha watharoo allatheena yulhidoona fee asmaihi sayujzawna ma kanoo yaAAmaloona_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _So do not think ˹O Prophet˺ that Allah will fail to keep His promise to His messengers. Allah is indeed Almighty, capable of punishment._
+> _Allah has the Most Beautiful Names. So call upon Him by them, and keep away from those who abuse His Names. They will be punished for what they used to do._
 
-🔗 Source: https://quran.com/14/47
+🔗 Source: https://quran.com/7/180
 
-— Muharram 12, 1448H
+— Muharram 13, 1448H
 <!-- AYAHADAY:END -->
