@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Az-Zukhruf 43:3–32 (30 verses)
+Today's reading: Az-Zukhruf 43:33–62 (30 verses)
 
-[██████░░░░] 69.8% (4350/6229 verses)
+[███████░░░] 70.3% (4380/6229 verses)
 
-📊 **Stats:** 4350 verses read | 142 days active
+📊 **Stats:** 4380 verses read | 143 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Az-Zukhruf 43:3–32 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Heights • Makkah • 206 Ayat_</sub><br>
-**Surah Al-A'raf** (7:180)
+<sub>_The Forgiver • Makkah • 85 Ayat_</sub><br>
+**Surah Ghafir** (40:42)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: Az-Zukhruf 43:3–32 (30 verses)
 
 </div>
 
-وَلِلَّهِ الْأَسْمَاءُ الْحُسْنَىٰ فَادْعُوهُ بِهَا ۖ وَذَرُوا الَّذِينَ يُلْحِدُونَ فِي أَسْمَائِهِ ۚ سَيُجْزَوْنَ مَا كَانُوا يَعْمَلُونَ
+تَدْعُونَنِي لِأَكْفُرَ بِاللَّهِ وَأُشْرِكَ بِهِ مَا لَيْسَ لِي بِهِ عِلْمٌ وَأَنَا أَدْعُوكُمْ إِلَى الْعَزِيزِ الْغَفَّارِ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Walillahi alasmao alhusna faodAAoohu biha watharoo allatheena yulhidoona fee asmaihi sayujzawna ma kanoo yaAAmaloona_
+> _TadAAoonanee liakfura biAllahi waoshrika bihi ma laysa lee bihi AAilmun waana adAAookum ila alAAazeezi alghaffari_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _Allah has the Most Beautiful Names. So call upon Him by them, and keep away from those who abuse His Names. They will be punished for what they used to do._
+> _You invite me to disbelieve in Allah and associate with Him what I have no knowledge of, while I invite you to the Almighty, Most Forgiving._
 
-🔗 Source: https://quran.com/7/180
+🔗 Source: https://quran.com/40/42
 
-— Muharram 13, 1448H
+— Muharram 14, 1448H
 <!-- AYAHADAY:END -->
