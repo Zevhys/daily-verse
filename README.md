@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Az-Zukhruf 43:33–62 (30 verses)
+Today's reading: Az-Zukhruf 43:63 → Ad-Dukhan 44:3 (30 verses)
 
-[███████░░░] 70.3% (4380/6229 verses)
+[███████░░░] 70.8% (4410/6229 verses)
 
-📊 **Stats:** 4380 verses read | 143 days active
+📊 **Stats:** 4410 verses read | 144 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Az-Zukhruf 43:33–62 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Forgiver • Makkah • 85 Ayat_</sub><br>
-**Surah Ghafir** (40:42)
+<sub>_The Letter "Saad" • Makkah • 88 Ayat_</sub><br>
+**Surah Sad** (38:73)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: Az-Zukhruf 43:33–62 (30 verses)
 
 </div>
 
-تَدْعُونَنِي لِأَكْفُرَ بِاللَّهِ وَأُشْرِكَ بِهِ مَا لَيْسَ لِي بِهِ عِلْمٌ وَأَنَا أَدْعُوكُمْ إِلَى الْعَزِيزِ الْغَفَّارِ
+فَسَجَدَ الْمَلَائِكَةُ كُلُّهُمْ أَجْمَعُونَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _TadAAoonanee liakfura biAllahi waoshrika bihi ma laysa lee bihi AAilmun waana adAAookum ila alAAazeezi alghaffari_
+> _Fasajada almalaikatu kulluhum ajmaAAoona_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _You invite me to disbelieve in Allah and associate with Him what I have no knowledge of, while I invite you to the Almighty, Most Forgiving._
+> _So the angels prostrated all together—_
 
-🔗 Source: https://quran.com/40/42
+🔗 Source: https://quran.com/38/73
 
-— Muharram 14, 1448H
+— Muharram 15, 1448H
 <!-- AYAHADAY:END -->
