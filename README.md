@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Az-Zukhruf 43:63 → Ad-Dukhan 44:3 (30 verses)
+Today's reading: Ad-Dukhan 44:4–33 (30 verses)
 
-[███████░░░] 70.8% (4410/6229 verses)
+[███████░░░] 71.3% (4440/6229 verses)
 
-📊 **Stats:** 4410 verses read | 144 days active
+📊 **Stats:** 4440 verses read | 145 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Az-Zukhruf 43:63 → Ad-Dukhan 44:3 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Letter "Saad" • Makkah • 88 Ayat_</sub><br>
-**Surah Sad** (38:73)
+<sub>_The Table Spread • Madinah • 120 Ayat_</sub><br>
+**Surah Al-Ma'idah** (5:76)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: Az-Zukhruf 43:63 → Ad-Dukhan 44:3 (30 verses)
 
 </div>
 
-فَسَجَدَ الْمَلَائِكَةُ كُلُّهُمْ أَجْمَعُونَ
+قُلْ أَتَعْبُدُونَ مِن دُونِ اللَّهِ مَا لَا يَمْلِكُ لَكُمْ ضَرًّا وَلَا نَفْعًا ۚ وَاللَّهُ هُوَ السَّمِيعُ الْعَلِيمُ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Fasajada almalaikatu kulluhum ajmaAAoona_
+> _Qul ataAAbudoona min dooni Allahi ma la yamliku lakum darran wala nafAAan waAllahu huwa alssameeAAu alAAaleemu_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _So the angels prostrated all together—_
+> _Say, ˹O Prophet,˺ “How can you worship besides Allah those who can neither harm nor benefit you? And Allah ˹alone˺ is the All-Hearing, All-Knowing.”_
 
-🔗 Source: https://quran.com/38/73
+🔗 Source: https://quran.com/5/76
 
-— Muharram 15, 1448H
+— Muharram 16, 1448H
 <!-- AYAHADAY:END -->
