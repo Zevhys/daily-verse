@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Ad-Dukhan 44:34 → Al-Jathiyah 45:4 (30 verses)
+Today's reading: Al-Jathiyah 45:5–34 (30 verses)
 
-[███████░░░] 71.8% (4470/6229 verses)
+[███████░░░] 72.2% (4500/6229 verses)
 
-📊 **Stats:** 4470 verses read | 146 days active
+📊 **Stats:** 4500 verses read | 147 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Ad-Dukhan 44:34 → Al-Jathiyah 45:4 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Elephant • Makkah • 5 Ayat_</sub><br>
-**Surah Al-Fil** (105:4)
+<sub>_Family of Imran • Madinah • 200 Ayat_</sub><br>
+**Surah Ali 'Imran** (3:93)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: Ad-Dukhan 44:34 → Al-Jathiyah 45:4 (30 verses)
 
 </div>
 
-تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ
+كُلُّ الطَّعَامِ كَانَ حِلًّا لِّبَنِي إِسْرَائِيلَ إِلَّا مَا حَرَّمَ إِسْرَائِيلُ عَلَىٰ نَفْسِهِ مِن قَبْلِ أَن تُنَزَّلَ التَّوْرَاةُ ۗ قُلْ فَأْتُوا بِالتَّوْرَاةِ فَاتْلُوهَا إِن كُنتُمْ صَادِقِينَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Tarmeehim bihijaratin min sijjeelin_
+> _Kullu alttaAAami kana hillan libanee israeela illa ma harrama israeelu AAala nafsihi min qabli an tunazzala alttawratu qul fatoo bialttawrati faotlooha in kuntum sadiqeena_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _that pelted them with stones of baked clay,_
+> _All food was lawful for the children of Israel, except what Israel made unlawful for himself before the Torah was revealed. Say, ˹O Prophet,˺ “Bring the Torah and read it, if your claims are true.”_
 
-🔗 Source: https://quran.com/105/4
+🔗 Source: https://quran.com/3/93
 
-— Muharram 17, 1448H
+— Muharram 18, 1448H
 <!-- AYAHADAY:END -->
