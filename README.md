@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Jathiyah 45:5–34 (30 verses)
+Today's reading: Al-Jathiyah 45:35 → Al-Ahqaf 46:27 (30 verses)
 
-[███████░░░] 72.2% (4500/6229 verses)
+[███████░░░] 72.7% (4530/6229 verses)
 
-📊 **Stats:** 4500 verses read | 147 days active
+📊 **Stats:** 4530 verses read | 148 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Al-Jathiyah 45:5–34 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Family of Imran • Madinah • 200 Ayat_</sub><br>
-**Surah Ali 'Imran** (3:93)
+<sub>_The Cattle • Makkah • 165 Ayat_</sub><br>
+**Surah Al-An'am** (6:110)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: Al-Jathiyah 45:5–34 (30 verses)
 
 </div>
 
-كُلُّ الطَّعَامِ كَانَ حِلًّا لِّبَنِي إِسْرَائِيلَ إِلَّا مَا حَرَّمَ إِسْرَائِيلُ عَلَىٰ نَفْسِهِ مِن قَبْلِ أَن تُنَزَّلَ التَّوْرَاةُ ۗ قُلْ فَأْتُوا بِالتَّوْرَاةِ فَاتْلُوهَا إِن كُنتُمْ صَادِقِينَ
+وَنُقَلِّبُ أَفْئِدَتَهُمْ وَأَبْصَارَهُمْ كَمَا لَمْ يُؤْمِنُوا بِهِ أَوَّلَ مَرَّةٍ وَنَذَرُهُمْ فِي طُغْيَانِهِمْ يَعْمَهُونَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Kullu alttaAAami kana hillan libanee israeela illa ma harrama israeelu AAala nafsihi min qabli an tunazzala alttawratu qul fatoo bialttawrati faotlooha in kuntum sadiqeena_
+> _Wanuqallibu afidatahum waabsarahum kama lam yuminoo bihi awwala marratin wanatharuhum fee tughyanihim yaAAmahoona_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _All food was lawful for the children of Israel, except what Israel made unlawful for himself before the Torah was revealed. Say, ˹O Prophet,˺ “Bring the Torah and read it, if your claims are true.”_
+> _We turn their hearts and eyes away ˹from the truth˺ as they refused to believe at first, leaving them to wander blindly in their defiance._
 
-🔗 Source: https://quran.com/3/93
+🔗 Source: https://quran.com/6/110
 
-— Muharram 18, 1448H
+— Muharram 19, 1448H
 <!-- AYAHADAY:END -->
