@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Jathiyah 45:35 → Al-Ahqaf 46:27 (30 verses)
+Today's reading: Al-Ahqaf 46:28 → Muhammad 47:22 (30 verses)
 
-[███████░░░] 72.7% (4530/6229 verses)
+[███████░░░] 73.2% (4560/6229 verses)
 
-📊 **Stats:** 4530 verses read | 148 days active
+📊 **Stats:** 4560 verses read | 149 days active
 <!-- READING:END -->
 
 ---
@@ -13,26 +13,20 @@ Today's reading: Al-Jathiyah 45:35 → Al-Ahqaf 46:27 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cattle • Makkah • 165 Ayat_</sub><br>
-**Surah Al-An'am** (6:110)
+<sub>_The Repentance • Madinah • 129 Ayat_</sub><br>
+**Surah At-Tawbah** (9:18)
 
-<div align="center">
-
-بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
-
-</div>
-
-وَنُقَلِّبُ أَفْئِدَتَهُمْ وَأَبْصَارَهُمْ كَمَا لَمْ يُؤْمِنُوا بِهِ أَوَّلَ مَرَّةٍ وَنَذَرُهُمْ فِي طُغْيَانِهِمْ يَعْمَهُونَ
+إِنَّمَا يَعْمُرُ مَسَاجِدَ اللَّهِ مَنْ آمَنَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ وَأَقَامَ الصَّلَاةَ وَآتَى الزَّكَاةَ وَلَمْ يَخْشَ إِلَّا اللَّهَ ۖ فَعَسَىٰ أُولَٰئِكَ أَن يَكُونُوا مِنَ الْمُهْتَدِينَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Wanuqallibu afidatahum waabsarahum kama lam yuminoo bihi awwala marratin wanatharuhum fee tughyanihim yaAAmahoona_
+> _Innama yaAAmuru masajida Allahi man amana biAllahi waalyawmi alakhiri waaqama alssalata waata alzzakata walam yakhsha illa Allaha faAAasa olaika an yakoonoo mina almuhtadeena_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _We turn their hearts and eyes away ˹from the truth˺ as they refused to believe at first, leaving them to wander blindly in their defiance._
+> _The mosques of Allah should only be maintained by those who believe in Allah and the Last Day, establish prayer, pay alms-tax, and fear none but Allah. It is right to hope that they will be among the ˹truly˺ guided._
 
-🔗 Source: https://quran.com/6/110
+🔗 Source: https://quran.com/9/18
 
-— Muharram 19, 1448H
+— Muharram 20, 1448H
 <!-- AYAHADAY:END -->
