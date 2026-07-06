@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Ahqaf 46:28 → Muhammad 47:22 (30 verses)
+Today's reading: Muhammad 47:23 → Al-Fath 48:14 (30 verses)
 
-[███████░░░] 73.2% (4560/6229 verses)
+[███████░░░] 73.7% (4590/6229 verses)
 
-📊 **Stats:** 4560 verses read | 149 days active
+📊 **Stats:** 4590 verses read | 150 days active
 <!-- READING:END -->
 
 ---
@@ -13,20 +13,26 @@ Today's reading: Al-Ahqaf 46:28 → Muhammad 47:22 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Repentance • Madinah • 129 Ayat_</sub><br>
-**Surah At-Tawbah** (9:18)
+<sub>_The Exile • Madinah • 24 Ayat_</sub><br>
+**Surah Al-Hashr** (59:15)
 
-إِنَّمَا يَعْمُرُ مَسَاجِدَ اللَّهِ مَنْ آمَنَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ وَأَقَامَ الصَّلَاةَ وَآتَى الزَّكَاةَ وَلَمْ يَخْشَ إِلَّا اللَّهَ ۖ فَعَسَىٰ أُولَٰئِكَ أَن يَكُونُوا مِنَ الْمُهْتَدِينَ
+<div align="center">
+
+بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
+
+</div>
+
+كَمَثَلِ الَّذِينَ مِن قَبْلِهِمْ قَرِيبًا ۖ ذَاقُوا وَبَالَ أَمْرِهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Innama yaAAmuru masajida Allahi man amana biAllahi waalyawmi alakhiri waaqama alssalata waata alzzakata walam yakhsha illa Allaha faAAasa olaika an yakoonoo mina almuhtadeena_
+> _Kamathali allatheena min qablihim qareeban thaqoo wabala amrihim walahum AAathabun aleemun_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _The mosques of Allah should only be maintained by those who believe in Allah and the Last Day, establish prayer, pay alms-tax, and fear none but Allah. It is right to hope that they will be among the ˹truly˺ guided._
+> _They are ˹both just˺ like those who recently went down before them: they tasted the evil consequences of their doings. And they will suffer a painful punishment._
 
-🔗 Source: https://quran.com/9/18
+🔗 Source: https://quran.com/59/15
 
-— Muharram 20, 1448H
+— Muharram 21, 1448H
 <!-- AYAHADAY:END -->
