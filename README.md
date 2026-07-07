@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Muhammad 47:23 → Al-Fath 48:14 (30 verses)
+Today's reading: Al-Fath 48:15 → Al-Hujurat 49:15 (30 verses)
 
-[███████░░░] 73.7% (4590/6229 verses)
+[███████░░░] 74.2% (4620/6229 verses)
 
-📊 **Stats:** 4590 verses read | 150 days active
+📊 **Stats:** 4620 verses read | 151 days active
 <!-- READING:END -->
 
 ---
@@ -13,26 +13,20 @@ Today's reading: Muhammad 47:23 → Al-Fath 48:14 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Exile • Madinah • 24 Ayat_</sub><br>
-**Surah Al-Hashr** (59:15)
+<sub>_The Repentance • Madinah • 129 Ayat_</sub><br>
+**Surah At-Tawbah** (9:76)
 
-<div align="center">
-
-بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
-
-</div>
-
-كَمَثَلِ الَّذِينَ مِن قَبْلِهِمْ قَرِيبًا ۖ ذَاقُوا وَبَالَ أَمْرِهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ
+فَلَمَّا آتَاهُم مِّن فَضْلِهِ بَخِلُوا بِهِ وَتَوَلَّوا وَّهُم مُّعْرِضُونَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Kamathali allatheena min qablihim qareeban thaqoo wabala amrihim walahum AAathabun aleemun_
+> _Falamma atahum min fadlihi bakhiloo bihi watawallaw wahum muAAridoona_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _They are ˹both just˺ like those who recently went down before them: they tasted the evil consequences of their doings. And they will suffer a painful punishment._
+> _But when He gave them out of His bounty, they withheld it and turned away indifferently._
 
-🔗 Source: https://quran.com/59/15
+🔗 Source: https://quran.com/9/76
 
-— Muharram 21, 1448H
+— Muharram 22, 1448H
 <!-- AYAHADAY:END -->
