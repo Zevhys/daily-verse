@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Fath 48:15 → Al-Hujurat 49:15 (30 verses)
+Today's reading: Al-Hujurat 49:16 → Qaf 50:27 (30 verses)
 
-[███████░░░] 74.2% (4620/6229 verses)
+[███████░░░] 74.7% (4650/6229 verses)
 
-📊 **Stats:** 4620 verses read | 151 days active
+📊 **Stats:** 4650 verses read | 152 days active
 <!-- READING:END -->
 
 ---
@@ -13,20 +13,26 @@ Today's reading: Al-Fath 48:15 → Al-Hujurat 49:15 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Repentance • Madinah • 129 Ayat_</sub><br>
-**Surah At-Tawbah** (9:76)
+<sub>_The Resurrection • Makkah • 40 Ayat_</sub><br>
+**Surah Al-Qiyamah** (75:24)
 
-فَلَمَّا آتَاهُم مِّن فَضْلِهِ بَخِلُوا بِهِ وَتَوَلَّوا وَّهُم مُّعْرِضُونَ
+<div align="center">
+
+بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
+
+</div>
+
+وَوُجُوهٌ يَوْمَئِذٍ بَاسِرَةٌ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Falamma atahum min fadlihi bakhiloo bihi watawallaw wahum muAAridoona_
+> _Wawujoohun yawmaithin basiratun_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _But when He gave them out of His bounty, they withheld it and turned away indifferently._
+> _And ˹other˺ faces will be gloomy,_
 
-🔗 Source: https://quran.com/9/76
+🔗 Source: https://quran.com/75/24
 
-— Muharram 22, 1448H
+— Muharram 23, 1448H
 <!-- AYAHADAY:END -->
