@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Hujurat 49:16 → Qaf 50:27 (30 verses)
+Today's reading: Qaf 50:28 → Adh-Dhariyat 51:12 (30 verses)
 
-[███████░░░] 74.7% (4650/6229 verses)
+[███████░░░] 75.1% (4680/6229 verses)
 
-📊 **Stats:** 4650 verses read | 152 days active
+📊 **Stats:** 4680 verses read | 153 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Al-Hujurat 49:16 → Qaf 50:27 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Resurrection • Makkah • 40 Ayat_</sub><br>
-**Surah Al-Qiyamah** (75:24)
+<sub>_The Romans • Makkah • 60 Ayat_</sub><br>
+**Surah Ar-Rum** (30:50)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: Al-Hujurat 49:16 → Qaf 50:27 (30 verses)
 
 </div>
 
-وَوُجُوهٌ يَوْمَئِذٍ بَاسِرَةٌ
+فَانظُرْ إِلَىٰ آثَارِ رَحْمَتِ اللَّهِ كَيْفَ يُحْيِي الْأَرْضَ بَعْدَ مَوْتِهَا ۚ إِنَّ ذَٰلِكَ لَمُحْيِي الْمَوْتَىٰ ۖ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Wawujoohun yawmaithin basiratun_
+> _Faonthur ila athari rahmati Allahi kayfa yuhyee alarda baAAda mawtiha inna thalika lamuhyee almawta wahuwa AAala kulli shayin qadeerun_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _And ˹other˺ faces will be gloomy,_
+> _See then the impact of Allah’s mercy: how He gives life to the earth after its death! Surely That ˹same God˺ can raise the dead. For He is Most Capable of everything._
 
-🔗 Source: https://quran.com/75/24
+🔗 Source: https://quran.com/30/50
 
-— Muharram 23, 1448H
+— Muharram 24, 1448H
 <!-- AYAHADAY:END -->
