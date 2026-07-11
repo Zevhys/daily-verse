@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Adh-Dhariyat 51:13–42 (30 verses)
+Today's reading: Adh-Dhariyat 51:43 → At-Tur 52:12 (30 verses)
 
-[███████░░░] 75.6% (4710/6229 verses)
+[███████░░░] 76.1% (4740/6229 verses)
 
-📊 **Stats:** 4710 verses read | 154 days active
+📊 **Stats:** 4740 verses read | 155 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Adh-Dhariyat 51:13–42 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Moon • Makkah • 55 Ayat_</sub><br>
-**Surah Al-Qamar** (54:40)
+<sub>_The Women • Madinah • 176 Ayat_</sub><br>
+**Surah An-Nisa** (4:28)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: Adh-Dhariyat 51:13–42 (30 verses)
 
 </div>
 
-وَلَقَدْ يَسَّرْنَا الْقُرْآنَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ
+يُرِيدُ اللَّهُ أَن يُخَفِّفَ عَنكُمْ ۚ وَخُلِقَ الْإِنسَانُ ضَعِيفًا
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Walaqad yassarna alqurana lilththikri fahal min muddakirin_
+> _Yureedu Allahu an yukhaffifa AAankum wakhuliqa alinsanu daAAeefan_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _And We have certainly made the Quran easy to remember. So is there anyone who will be mindful?_
+> _And it is Allah’s Will to lighten your burdens, for humankind was created weak._
 
-🔗 Source: https://quran.com/54/40
+🔗 Source: https://quran.com/4/28
 
-— Muharram 25, 1448H
+— Muharram 26, 1448H
 <!-- AYAHADAY:END -->
