@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Adh-Dhariyat 51:43 → At-Tur 52:12 (30 verses)
+Today's reading: At-Tur 52:13–42 (30 verses)
 
-[███████░░░] 76.1% (4740/6229 verses)
+[███████░░░] 76.6% (4770/6229 verses)
 
-📊 **Stats:** 4740 verses read | 155 days active
+📊 **Stats:** 4770 verses read | 156 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Adh-Dhariyat 51:43 → At-Tur 52:12 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Women • Madinah • 176 Ayat_</sub><br>
-**Surah An-Nisa** (4:28)
+<sub>_The Poets • Makkah • 227 Ayat_</sub><br>
+**Surah Ash-Shu'ara** (26:221)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: Adh-Dhariyat 51:43 → At-Tur 52:12 (30 verses)
 
 </div>
 
-يُرِيدُ اللَّهُ أَن يُخَفِّفَ عَنكُمْ ۚ وَخُلِقَ الْإِنسَانُ ضَعِيفًا
+هَلْ أُنَبِّئُكُمْ عَلَىٰ مَن تَنَزَّلُ الشَّيَاطِينُ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Yureedu Allahu an yukhaffifa AAankum wakhuliqa alinsanu daAAeefan_
+> _Hal onabbiokum AAala man tanazzalu alshshayateenu_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _And it is Allah’s Will to lighten your burdens, for humankind was created weak._
+> _Shall I inform you of whom the devils ˹actually˺ descend upon?_
 
-🔗 Source: https://quran.com/4/28
+🔗 Source: https://quran.com/26/221
 
-— Muharram 26, 1448H
+— Muharram 27, 1448H
 <!-- AYAHADAY:END -->
