@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: An-Najm 53:24–53 (30 verses)
+Today's reading: An-Najm 53:54 → Al-Qamar 54:21 (30 verses)
 
-[███████░░░] 77.5% (4830/6229 verses)
+[███████░░░] 78.0% (4860/6229 verses)
 
-📊 **Stats:** 4830 verses read | 158 days active
+📊 **Stats:** 4860 verses read | 159 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: An-Najm 53:24–53 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Moon • Makkah • 55 Ayat_</sub><br>
-**Surah Al-Qamar** (54:36)
+<sub>_Those who set the Ranks • Makkah • 182 Ayat_</sub><br>
+**Surah As-Saffat** (37:47)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: An-Najm 53:24–53 (30 verses)
 
 </div>
 
-وَلَقَدْ أَنذَرَهُم بَطْشَتَنَا فَتَمَارَوْا بِالنُّذُرِ
+لَا فِيهَا غَوْلٌ وَلَا هُمْ عَنْهَا يُنزَفُونَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Walaqad antharahum batshatana fatamaraw bialnnuthuri_
+> _La feeha ghawlun wala hum AAanha yunzafoona_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _He had already warned them of Our ˹crushing˺ blow but they disputed the warnings._
+> _It will neither harm ˹them˺, nor will they be intoxicated by it._
 
-🔗 Source: https://quran.com/54/36
+🔗 Source: https://quran.com/37/47
 
-— Muharram 29, 1448H
+— Safar 1, 1448H
 <!-- AYAHADAY:END -->
