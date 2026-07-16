@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: An-Najm 53:54 → Al-Qamar 54:21 (30 verses)
+Today's reading: Al-Qamar 54:22–51 (30 verses)
 
-[███████░░░] 78.0% (4860/6229 verses)
+[███████░░░] 78.5% (4890/6229 verses)
 
-📊 **Stats:** 4860 verses read | 159 days active
+📊 **Stats:** 4890 verses read | 160 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: An-Najm 53:54 → Al-Qamar 54:21 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Those who set the Ranks • Makkah • 182 Ayat_</sub><br>
-**Surah As-Saffat** (37:47)
+<sub>_The Ornaments of Gold • Makkah • 89 Ayat_</sub><br>
+**Surah Az-Zukhruf** (43:10)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: An-Najm 53:54 → Al-Qamar 54:21 (30 verses)
 
 </div>
 
-لَا فِيهَا غَوْلٌ وَلَا هُمْ عَنْهَا يُنزَفُونَ
+الَّذِي جَعَلَ لَكُمُ الْأَرْضَ مَهْدًا وَجَعَلَ لَكُمْ فِيهَا سُبُلًا لَّعَلَّكُمْ تَهْتَدُونَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _La feeha ghawlun wala hum AAanha yunzafoona_
+> _Allathee jaAAala lakumu alarda mahdan wajaAAala lakum feeha subulan laAAallakum tahtadoona_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _It will neither harm ˹them˺, nor will they be intoxicated by it._
+> _˹He is the One˺ Who has laid out the earth for you, and set in it pathways for you so that you may find your way._
 
-🔗 Source: https://quran.com/37/47
+🔗 Source: https://quran.com/43/10
 
-— Safar 1, 1448H
+— Safar 2, 1448H
 <!-- AYAHADAY:END -->
