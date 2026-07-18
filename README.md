@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Qamar 54:52 → Ar-Rahman 55:26 (30 verses)
+Today's reading: Ar-Rahman 55:27–56 (30 verses)
 
-[███████░░░] 79.0% (4920/6229 verses)
+[███████░░░] 79.5% (4950/6229 verses)
 
-📊 **Stats:** 4920 verses read | 161 days active
+📊 **Stats:** 4950 verses read | 162 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Al-Qamar 54:52 → Ar-Rahman 55:26 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Night Journey • Makkah • 111 Ayat_</sub><br>
-**Surah Al-Isra** (17:31)
+<sub>_The Wind-Curved Sandhills • Makkah • 35 Ayat_</sub><br>
+**Surah Al-Ahqaf** (46:23)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: Al-Qamar 54:52 → Ar-Rahman 55:26 (30 verses)
 
 </div>
 
-وَلَا تَقْتُلُوا أَوْلَادَكُمْ خَشْيَةَ إِمْلَاقٍ ۖ نَّحْنُ نَرْزُقُهُمْ وَإِيَّاكُمْ ۚ إِنَّ قَتْلَهُمْ كَانَ خِطْئًا كَبِيرًا
+قَالَ إِنَّمَا الْعِلْمُ عِندَ اللَّهِ وَأُبَلِّغُكُم مَّا أُرْسِلْتُ بِهِ وَلَٰكِنِّي أَرَاكُمْ قَوْمًا تَجْهَلُونَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Wala taqtuloo awladakum khashyata imlaqin nahnu narzuquhum waiyyakum inna qatlahum kana khitan kabeeran_
+> _Qala innama alAAilmu AAinda Allahi waoballighukum ma orsiltu bihi walakinnee arakum qawman tajhaloona_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _Do not kill your children for fear of poverty. We provide for them and for you. Surely killing them is a heinous sin._
+> _He responded, “The knowledge ˹of its time˺ is only with Allah. I only convey to you what I have been sent with. But I can see that you are a people acting ignorantly.”_
 
-🔗 Source: https://quran.com/17/31
+🔗 Source: https://quran.com/46/23
 
-— Safar 3, 1448H
+— Safar 4, 1448H
 <!-- AYAHADAY:END -->
