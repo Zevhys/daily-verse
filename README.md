@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Ar-Rahman 55:27–56 (30 verses)
+Today's reading: Ar-Rahman 55:57 → Al-Waqi'ah 56:8 (30 verses)
 
-[███████░░░] 79.5% (4950/6229 verses)
+[███████░░░] 79.9% (4980/6229 verses)
 
-📊 **Stats:** 4950 verses read | 162 days active
+📊 **Stats:** 4980 verses read | 163 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Ar-Rahman 55:27–56 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Wind-Curved Sandhills • Makkah • 35 Ayat_</sub><br>
-**Surah Al-Ahqaf** (46:23)
+<sub>_The Cow • Madinah • 286 Ayat_</sub><br>
+**Surah Al-Baqarah** (2:88)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: Ar-Rahman 55:27–56 (30 verses)
 
 </div>
 
-قَالَ إِنَّمَا الْعِلْمُ عِندَ اللَّهِ وَأُبَلِّغُكُم مَّا أُرْسِلْتُ بِهِ وَلَٰكِنِّي أَرَاكُمْ قَوْمًا تَجْهَلُونَ
+وَقَالُوا قُلُوبُنَا غُلْفٌ ۚ بَل لَّعَنَهُمُ اللَّهُ بِكُفْرِهِمْ فَقَلِيلًا مَّا يُؤْمِنُونَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Qala innama alAAilmu AAinda Allahi waoballighukum ma orsiltu bihi walakinnee arakum qawman tajhaloona_
+> _Waqaloo quloobuna ghulfun bal laAAanahumu Allahu bikufrihim faqaleelan ma yuminoona_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _He responded, “The knowledge ˹of its time˺ is only with Allah. I only convey to you what I have been sent with. But I can see that you are a people acting ignorantly.”_
+> _They say, “Our hearts are unreceptive!” In fact, Allah has condemned them for their disbelief. They have but little faith._
 
-🔗 Source: https://quran.com/46/23
+🔗 Source: https://quran.com/2/88
 
-— Safar 4, 1448H
+— Safar 5, 1448H
 <!-- AYAHADAY:END -->
