@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Ar-Rahman 55:57 → Al-Waqi'ah 56:8 (30 verses)
+Today's reading: Al-Waqi'ah 56:9–38 (30 verses)
 
-[███████░░░] 79.9% (4980/6229 verses)
+[████████░░] 80.4% (5010/6229 verses)
 
-📊 **Stats:** 4980 verses read | 163 days active
+📊 **Stats:** 5010 verses read | 164 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Ar-Rahman 55:57 → Al-Waqi'ah 56:8 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cow • Madinah • 286 Ayat_</sub><br>
-**Surah Al-Baqarah** (2:88)
+<sub>_The Resurrection • Makkah • 40 Ayat_</sub><br>
+**Surah Al-Qiyamah** (75:22)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: Ar-Rahman 55:57 → Al-Waqi'ah 56:8 (30 verses)
 
 </div>
 
-وَقَالُوا قُلُوبُنَا غُلْفٌ ۚ بَل لَّعَنَهُمُ اللَّهُ بِكُفْرِهِمْ فَقَلِيلًا مَّا يُؤْمِنُونَ
+وُجُوهٌ يَوْمَئِذٍ نَّاضِرَةٌ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Waqaloo quloobuna ghulfun bal laAAanahumu Allahu bikufrihim faqaleelan ma yuminoona_
+> _Wujoohun yawmaithin nadiratun_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _They say, “Our hearts are unreceptive!” In fact, Allah has condemned them for their disbelief. They have but little faith._
+> _On that Day ˹some˺ faces will be bright,_
 
-🔗 Source: https://quran.com/2/88
+🔗 Source: https://quran.com/75/22
 
-— Safar 5, 1448H
+— Safar 6, 1448H
 <!-- AYAHADAY:END -->
