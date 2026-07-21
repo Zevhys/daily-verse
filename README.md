@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Waqi'ah 56:9–38 (30 verses)
+Today's reading: Al-Waqi'ah 56:39–68 (30 verses)
 
-[████████░░] 80.4% (5010/6229 verses)
+[████████░░] 80.9% (5040/6229 verses)
 
-📊 **Stats:** 5010 verses read | 164 days active
+📊 **Stats:** 5040 verses read | 165 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Al-Waqi'ah 56:9–38 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Resurrection • Makkah • 40 Ayat_</sub><br>
-**Surah Al-Qiyamah** (75:22)
+<sub>_The Sundering • Makkah • 25 Ayat_</sub><br>
+**Surah Al-Inshiqaq** (84:21)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: Al-Waqi'ah 56:9–38 (30 verses)
 
 </div>
 
-وُجُوهٌ يَوْمَئِذٍ نَّاضِرَةٌ
+وَإِذَا قُرِئَ عَلَيْهِمُ الْقُرْآنُ لَا يَسْجُدُونَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Wujoohun yawmaithin nadiratun_
+> _Waitha quria AAalayhimu alquranu la yasjudoona_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _On that Day ˹some˺ faces will be bright,_
+> _and when the Quran is recited to them, they do not bow down ˹in submission˺?_
 
-🔗 Source: https://quran.com/75/22
+🔗 Source: https://quran.com/84/21
 
-— Safar 6, 1448H
+— Safar 7, 1448H
 <!-- AYAHADAY:END -->
