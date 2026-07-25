@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Mujadila 58:4 → Al-Hashr 59:11 (30 verses)
+Today's reading: Al-Hashr 59:12 → As-Saff 61:4 (30 verses)
 
-[████████░░] 82.4% (5130/6229 verses)
+[████████░░] 82.8% (5160/6229 verses)
 
-📊 **Stats:** 5130 verses read | 168 days active
+📊 **Stats:** 5160 verses read | 169 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Al-Mujadila 58:4 → Al-Hashr 59:11 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Ornaments of Gold • Makkah • 89 Ayat_</sub><br>
-**Surah Az-Zukhruf** (43:74)
+<sub>_The Courser • Makkah • 11 Ayat_</sub><br>
+**Surah Al-'Adiyat** (100:6)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: Al-Mujadila 58:4 → Al-Hashr 59:11 (30 verses)
 
 </div>
 
-إِنَّ الْمُجْرِمِينَ فِي عَذَابِ جَهَنَّمَ خَالِدُونَ
+إِنَّ الْإِنسَانَ لِرَبِّهِ لَكَنُودٌ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Inna almujrimeena fee AAathabi jahannama khalidoona_
+> _Inna alinsana lirabbihi lakanoodun_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _Indeed, the wicked will be in the torment of Hell forever._
+> _Surely humankind is ungrateful to their Lord—_
 
-🔗 Source: https://quran.com/43/74
+🔗 Source: https://quran.com/100/6
 
-— Safar 10, 1448H
+— Safar 11, 1448H
 <!-- AYAHADAY:END -->
