@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: As-Saff 61:5 → Al-Munafiqun 63:9 (30 verses)
+Today's reading: Al-Munafiqun 63:10 → At-Talaq 65:10 (30 verses)
 
-[████████░░] 83.3% (5190/6229 verses)
+[████████░░] 83.8% (5220/6229 verses)
 
-📊 **Stats:** 5190 verses read | 170 days active
+📊 **Stats:** 5220 verses read | 171 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: As-Saff 61:5 → Al-Munafiqun 63:9 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cave • Makkah • 110 Ayat_</sub><br>
-**Surah Al-Kahf** (18:46)
+<sub>_The Sovereignty • Makkah • 30 Ayat_</sub><br>
+**Surah Al-Mulk** (67:10)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: As-Saff 61:5 → Al-Munafiqun 63:9 (30 verses)
 
 </div>
 
-الْمَالُ وَالْبَنُونَ زِينَةُ الْحَيَاةِ الدُّنْيَا ۖ وَالْبَاقِيَاتُ الصَّالِحَاتُ خَيْرٌ عِندَ رَبِّكَ ثَوَابًا وَخَيْرٌ أَمَلًا
+وَقَالُوا لَوْ كُنَّا نَسْمَعُ أَوْ نَعْقِلُ مَا كُنَّا فِي أَصْحَابِ السَّعِيرِ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Almalu waalbanoona zeenatu alhayati alddunya waalbaqiyatu alssalihatu khayrun AAinda rabbika thawaban wakhayrun amalan_
+> _Waqaloo law kunna nasmaAAu aw naAAqilu ma kunna fee ashabi alssaAAeeri_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _Wealth and children are the adornment of this worldly life, but the everlasting good deeds are far better with your Lord in reward and in hope. _
+> _And they will lament, “If only we had listened and reasoned, we would not be among the residents of the Blaze!”_
 
-🔗 Source: https://quran.com/18/46
+🔗 Source: https://quran.com/67/10
 
-— Safar 12, 1448H
+— Safar 13, 1448H
 <!-- AYAHADAY:END -->
