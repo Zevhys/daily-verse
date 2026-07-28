@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Munafiqun 63:10 → At-Talaq 65:10 (30 verses)
+Today's reading: At-Talaq 65:11 → Al-Mulk 67:16 (30 verses)
 
-[████████░░] 83.8% (5220/6229 verses)
+[████████░░] 84.3% (5250/6229 verses)
 
-📊 **Stats:** 5220 verses read | 171 days active
+📊 **Stats:** 5250 verses read | 172 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Al-Munafiqun 63:10 → At-Talaq 65:10 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Sovereignty • Makkah • 30 Ayat_</sub><br>
-**Surah Al-Mulk** (67:10)
+<sub>_The Believers • Makkah • 118 Ayat_</sub><br>
+**Surah Al-Mu'minun** (23:114)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: Al-Munafiqun 63:10 → At-Talaq 65:10 (30 verses)
 
 </div>
 
-وَقَالُوا لَوْ كُنَّا نَسْمَعُ أَوْ نَعْقِلُ مَا كُنَّا فِي أَصْحَابِ السَّعِيرِ
+قَالَ إِن لَّبِثْتُمْ إِلَّا قَلِيلًا ۖ لَّوْ أَنَّكُمْ كُنتُمْ تَعْلَمُونَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Waqaloo law kunna nasmaAAu aw naAAqilu ma kunna fee ashabi alssaAAeeri_
+> _Qala in labithtum illa qaleelan law annakum kuntum taAAlamoona_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _And they will lament, “If only we had listened and reasoned, we would not be among the residents of the Blaze!”_
+> _He will say, “You only remained for a little while, if only you knew._
 
-🔗 Source: https://quran.com/67/10
+🔗 Source: https://quran.com/23/114
 
-— Safar 13, 1448H
+— Safar 14, 1448H
 <!-- AYAHADAY:END -->
