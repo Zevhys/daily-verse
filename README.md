@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: At-Talaq 65:11 → Al-Mulk 67:16 (30 verses)
+Today's reading: Al-Mulk 67:17 → Al-Qalam 68:16 (30 verses)
 
-[████████░░] 84.3% (5250/6229 verses)
+[████████░░] 84.8% (5280/6229 verses)
 
-📊 **Stats:** 5250 verses read | 172 days active
+📊 **Stats:** 5280 verses read | 173 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: At-Talaq 65:11 → Al-Mulk 67:16 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Believers • Makkah • 118 Ayat_</sub><br>
-**Surah Al-Mu'minun** (23:114)
+<sub>_The Cattle • Makkah • 165 Ayat_</sub><br>
+**Surah Al-An'am** (6:125)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: At-Talaq 65:11 → Al-Mulk 67:16 (30 verses)
 
 </div>
 
-قَالَ إِن لَّبِثْتُمْ إِلَّا قَلِيلًا ۖ لَّوْ أَنَّكُمْ كُنتُمْ تَعْلَمُونَ
+فَمَن يُرِدِ اللَّهُ أَن يَهْدِيَهُ يَشْرَحْ صَدْرَهُ لِلْإِسْلَامِ ۖ وَمَن يُرِدْ أَن يُضِلَّهُ يَجْعَلْ صَدْرَهُ ضَيِّقًا حَرَجًا كَأَنَّمَا يَصَّعَّدُ فِي السَّمَاءِ ۚ كَذَٰلِكَ يَجْعَلُ اللَّهُ الرِّجْسَ عَلَى الَّذِينَ لَا يُؤْمِنُونَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Qala in labithtum illa qaleelan law annakum kuntum taAAlamoona_
+> _Faman yuridi Allahu an yahdiyahu yashrah sadrahu lilislami waman yurid an yudillahu yajAAal sadrahu dayyiqan harajan kaannama yassaAAAAadu fee alssamai kathalika yajAAalu Allahu alrrijsa AAala allatheena la yuminoona_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _He will say, “You only remained for a little while, if only you knew._
+> _Whoever Allah wills to guide, He opens their heart to Islam. But whoever He wills to leave astray, He makes their chest tight and constricted as if they were climbing up into the sky. This is how Allah dooms those who disbelieve._
 
-🔗 Source: https://quran.com/23/114
+🔗 Source: https://quran.com/6/125
 
-— Safar 14, 1448H
+— Safar 15, 1448H
 <!-- AYAHADAY:END -->
