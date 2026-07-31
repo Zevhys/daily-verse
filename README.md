@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Qalam 68:17–46 (30 verses)
+Today's reading: Al-Qalam 68:47 → Al-Haqqah 69:24 (30 verses)
 
-[████████░░] 85.2% (5310/6229 verses)
+[████████░░] 85.7% (5340/6229 verses)
 
-📊 **Stats:** 5310 verses read | 174 days active
+📊 **Stats:** 5340 verses read | 175 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Al-Qalam 68:17–46 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Ta-Ha • Makkah • 135 Ayat_</sub><br>
-**Surah Taha** (20:57)
+<sub>_The Combined Forces • Madinah • 73 Ayat_</sub><br>
+**Surah Al-Ahzab** (33:29)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: Al-Qalam 68:17–46 (30 verses)
 
 </div>
 
-قَالَ أَجِئْتَنَا لِتُخْرِجَنَا مِنْ أَرْضِنَا بِسِحْرِكَ يَا مُوسَىٰ
+وَإِن كُنتُنَّ تُرِدْنَ اللَّهَ وَرَسُولَهُ وَالدَّارَ الْآخِرَةَ فَإِنَّ اللَّهَ أَعَدَّ لِلْمُحْسِنَاتِ مِنكُنَّ أَجْرًا عَظِيمًا
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Qala ajitana litukhrijana min ardina bisihrika ya moosa_
+> _Wain kuntunna turidna Allaha warasoolahu waalddara alakhirata fainna Allaha aAAadda lilmuhsinati minkunna ajran AAatheeman_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _He said, “Have you come to drive us out of our land with your magic, O  Moses?_
+> _But if you desire Allah and His Messenger and the ˹everlasting˺ Home of the Hereafter, then surely Allah has prepared a great reward for those of you who do good.”_
 
-🔗 Source: https://quran.com/20/57
+🔗 Source: https://quran.com/33/29
 
-— Safar 16, 1448H
+— Safar 17, 1448H
 <!-- AYAHADAY:END -->
