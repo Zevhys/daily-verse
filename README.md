@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Qalam 68:47 → Al-Haqqah 69:24 (30 verses)
+Today's reading: Al-Haqqah 69:25 → Al-Ma'arij 70:2 (30 verses)
 
-[████████░░] 85.7% (5340/6229 verses)
+[████████░░] 86.2% (5370/6229 verses)
 
-📊 **Stats:** 5340 verses read | 175 days active
+📊 **Stats:** 5370 verses read | 176 days active
 <!-- READING:END -->
 
 ---
@@ -13,26 +13,20 @@ Today's reading: Al-Qalam 68:47 → Al-Haqqah 69:24 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Combined Forces • Madinah • 73 Ayat_</sub><br>
-**Surah Al-Ahzab** (33:29)
+<sub>_The Repentance • Madinah • 129 Ayat_</sub><br>
+**Surah At-Tawbah** (9:61)
 
-<div align="center">
-
-بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
-
-</div>
-
-وَإِن كُنتُنَّ تُرِدْنَ اللَّهَ وَرَسُولَهُ وَالدَّارَ الْآخِرَةَ فَإِنَّ اللَّهَ أَعَدَّ لِلْمُحْسِنَاتِ مِنكُنَّ أَجْرًا عَظِيمًا
+وَمِنْهُمُ الَّذِينَ يُؤْذُونَ النَّبِيَّ وَيَقُولُونَ هُوَ أُذُنٌ ۚ قُلْ أُذُنُ خَيْرٍ لَّكُمْ يُؤْمِنُ بِاللَّهِ وَيُؤْمِنُ لِلْمُؤْمِنِينَ وَرَحْمَةٌ لِّلَّذِينَ آمَنُوا مِنكُمْ ۚ وَالَّذِينَ يُؤْذُونَ رَسُولَ اللَّهِ لَهُمْ عَذَابٌ أَلِيمٌ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Wain kuntunna turidna Allaha warasoolahu waalddara alakhirata fainna Allaha aAAadda lilmuhsinati minkunna ajran AAatheeman_
+> _Waminhumu allatheena yuthoona alnnabiyya wayaqooloona huwa othunun qul othunu khayrin lakum yuminu biAllahi wayuminu lilmumineena warahmatun lillatheena amanoo minkum waallatheena yuthoona rasoola Allahi lahum AAathabun aleemun_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _But if you desire Allah and His Messenger and the ˹everlasting˺ Home of the Hereafter, then surely Allah has prepared a great reward for those of you who do good.”_
+> _And there are others who hurt the Prophet by saying, “He listens to anyone.” Say, ˹O Prophet,˺ “He listens to what is best for you. He believes in Allah, has faith in the believers, and is a mercy for those who believe among you.” Those who hurt Allah’s Messenger will suffer a painful punishment._
 
-🔗 Source: https://quran.com/33/29
+🔗 Source: https://quran.com/9/61
 
-— Safar 17, 1448H
+— Safar 18, 1448H
 <!-- AYAHADAY:END -->
