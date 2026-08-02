@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Haqqah 69:25 → Al-Ma'arij 70:2 (30 verses)
+Today's reading: Al-Ma'arij 70:3–32 (30 verses)
 
-[████████░░] 86.2% (5370/6229 verses)
+[████████░░] 86.7% (5400/6229 verses)
 
-📊 **Stats:** 5370 verses read | 176 days active
+📊 **Stats:** 5400 verses read | 177 days active
 <!-- READING:END -->
 
 ---
@@ -13,20 +13,26 @@ Today's reading: Al-Haqqah 69:25 → Al-Ma'arij 70:2 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Repentance • Madinah • 129 Ayat_</sub><br>
-**Surah At-Tawbah** (9:61)
+<sub>_The Cow • Madinah • 286 Ayat_</sub><br>
+**Surah Al-Baqarah** (2:198)
 
-وَمِنْهُمُ الَّذِينَ يُؤْذُونَ النَّبِيَّ وَيَقُولُونَ هُوَ أُذُنٌ ۚ قُلْ أُذُنُ خَيْرٍ لَّكُمْ يُؤْمِنُ بِاللَّهِ وَيُؤْمِنُ لِلْمُؤْمِنِينَ وَرَحْمَةٌ لِّلَّذِينَ آمَنُوا مِنكُمْ ۚ وَالَّذِينَ يُؤْذُونَ رَسُولَ اللَّهِ لَهُمْ عَذَابٌ أَلِيمٌ
+<div align="center">
+
+بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
+
+</div>
+
+لَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَبْتَغُوا فَضْلًا مِّن رَّبِّكُمْ ۚ فَإِذَا أَفَضْتُم مِّنْ عَرَفَاتٍ فَاذْكُرُوا اللَّهَ عِندَ الْمَشْعَرِ الْحَرَامِ ۖ وَاذْكُرُوهُ كَمَا هَدَاكُمْ وَإِن كُنتُم مِّن قَبْلِهِ لَمِنَ الضَّالِّينَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Waminhumu allatheena yuthoona alnnabiyya wayaqooloona huwa othunun qul othunu khayrin lakum yuminu biAllahi wayuminu lilmumineena warahmatun lillatheena amanoo minkum waallatheena yuthoona rasoola Allahi lahum AAathabun aleemun_
+> _Laysa AAalaykum junahun an tabtaghoo fadlan min rabbikum faitha afadtum min AAarafatin faothkuroo Allaha AAinda almashAAari alharami waothkuroohu kama hadakum wain kuntum min qablihi lamina alddalleena_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _And there are others who hurt the Prophet by saying, “He listens to anyone.” Say, ˹O Prophet,˺ “He listens to what is best for you. He believes in Allah, has faith in the believers, and is a mercy for those who believe among you.” Those who hurt Allah’s Messenger will suffer a painful punishment._
+> _There is no blame on you for seeking the bounty of your Lord ˹during this journey˺. When you return from ’Arafât, praise Allah near the sacred place and praise Him for having guided you, for surely before this ˹guidance˺ you were astray._
 
-🔗 Source: https://quran.com/9/61
+🔗 Source: https://quran.com/2/198
 
-— Safar 18, 1448H
+— Safar 19, 1448H
 <!-- AYAHADAY:END -->
