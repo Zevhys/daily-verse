@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Nuh 71:19 → Al-Jinn 72:20 (30 verses)
+Today's reading: Al-Jinn 72:21 → Al-Muddaththir 74:2 (30 verses)
 
-[████████░░] 87.7% (5460/6229 verses)
+[████████░░] 88.1% (5490/6229 verses)
 
-📊 **Stats:** 5460 verses read | 179 days active
+📊 **Stats:** 5490 verses read | 180 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Nuh 71:19 → Al-Jinn 72:20 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Mary • Makkah • 98 Ayat_</sub><br>
-**Surah Maryam** (19:4)
+<sub>_The Bee • Makkah • 128 Ayat_</sub><br>
+**Surah An-Nahl** (16:106)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: Nuh 71:19 → Al-Jinn 72:20 (30 verses)
 
 </div>
 
-قَالَ رَبِّ إِنِّي وَهَنَ الْعَظْمُ مِنِّي وَاشْتَعَلَ الرَّأْسُ شَيْبًا وَلَمْ أَكُن بِدُعَائِكَ رَبِّ شَقِيًّا
+مَن كَفَرَ بِاللَّهِ مِن بَعْدِ إِيمَانِهِ إِلَّا مَنْ أُكْرِهَ وَقَلْبُهُ مُطْمَئِنٌّ بِالْإِيمَانِ وَلَٰكِن مَّن شَرَحَ بِالْكُفْرِ صَدْرًا فَعَلَيْهِمْ غَضَبٌ مِّنَ اللَّهِ وَلَهُمْ عَذَابٌ عَظِيمٌ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Qala rabbi innee wahana alAAathmu minnee waishtaAAala alrrasu shayban walam akun biduAAaika rabbi shaqiyyan_
+> _Man kafara biAllahi min baAAdi eemanihi illa man okriha waqalbuhu mutmainnun bialeemani walakin man sharaha bialkufri sadran faAAalayhim ghadabun mina Allahi walahum AAathabun AAatheemun_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _saying, “My Lord! Surely my bones have become brittle, and grey hair has spread across my head, but I have never been disappointed in my prayer to You, my Lord!_
+> _Whoever disbelieves in Allah after their belief—not those who are forced while their hearts are firm in faith, but those who embrace disbelief wholeheartedly—they will be condemned by Allah and suffer a tremendous punishment._
 
-🔗 Source: https://quran.com/19/4
+🔗 Source: https://quran.com/16/106
 
-— Safar 21, 1448H
+— Safar 22, 1448H
 <!-- AYAHADAY:END -->
