@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Jinn 72:21 → Al-Muddaththir 74:2 (30 verses)
+Today's reading: Al-Muddaththir 74:3–32 (30 verses)
 
-[████████░░] 88.1% (5490/6229 verses)
+[████████░░] 88.6% (5520/6229 verses)
 
-📊 **Stats:** 5490 verses read | 180 days active
+📊 **Stats:** 5520 verses read | 181 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Al-Jinn 72:21 → Al-Muddaththir 74:2 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Bee • Makkah • 128 Ayat_</sub><br>
-**Surah An-Nahl** (16:106)
+<sub>_The Rocky Tract • Makkah • 99 Ayat_</sub><br>
+**Surah Al-Hijr** (15:27)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: Al-Jinn 72:21 → Al-Muddaththir 74:2 (30 verses)
 
 </div>
 
-مَن كَفَرَ بِاللَّهِ مِن بَعْدِ إِيمَانِهِ إِلَّا مَنْ أُكْرِهَ وَقَلْبُهُ مُطْمَئِنٌّ بِالْإِيمَانِ وَلَٰكِن مَّن شَرَحَ بِالْكُفْرِ صَدْرًا فَعَلَيْهِمْ غَضَبٌ مِّنَ اللَّهِ وَلَهُمْ عَذَابٌ عَظِيمٌ
+وَالْجَانَّ خَلَقْنَاهُ مِن قَبْلُ مِن نَّارِ السَّمُومِ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Man kafara biAllahi min baAAdi eemanihi illa man okriha waqalbuhu mutmainnun bialeemani walakin man sharaha bialkufri sadran faAAalayhim ghadabun mina Allahi walahum AAathabun AAatheemun_
+> _Waaljanna khalaqnahu min qablu min nari alssamoomi_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _Whoever disbelieves in Allah after their belief—not those who are forced while their hearts are firm in faith, but those who embrace disbelief wholeheartedly—they will be condemned by Allah and suffer a tremendous punishment._
+> _As for the jinn, We created them earlier from smokeless fire._
 
-🔗 Source: https://quran.com/16/106
+🔗 Source: https://quran.com/15/27
 
-— Safar 22, 1448H
+— Safar 23, 1448H
 <!-- AYAHADAY:END -->
