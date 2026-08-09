@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Qiyamah 75:7–36 (30 verses)
+Today's reading: Al-Qiyamah 75:37 → Al-Insan 76:26 (30 verses)
 
-[████████░░] 89.6% (5580/6229 verses)
+[█████████░] 90.1% (5610/6229 verses)
 
-📊 **Stats:** 5580 verses read | 183 days active
+📊 **Stats:** 5610 verses read | 184 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Al-Qiyamah 75:7–36 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The City • Makkah • 20 Ayat_</sub><br>
-**Surah Al-Balad** (90:11)
+<sub>_The Cattle • Makkah • 165 Ayat_</sub><br>
+**Surah Al-An'am** (6:51)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: Al-Qiyamah 75:7–36 (30 verses)
 
 </div>
 
-فَلَا اقْتَحَمَ الْعَقَبَةَ
+وَأَنذِرْ بِهِ الَّذِينَ يَخَافُونَ أَن يُحْشَرُوا إِلَىٰ رَبِّهِمْ ۙ لَيْسَ لَهُم مِّن دُونِهِ وَلِيٌّ وَلَا شَفِيعٌ لَّعَلَّهُمْ يَتَّقُونَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Fala iqtahama alAAaqabata_
+> _Waanthir bihi allatheena yakhafoona an yuhsharoo ila rabbihim laysa lahum min doonihi waliyyun wala shafeeAAun laAAallahum yattaqoona_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _If only they had attempted the challenging path ˹of goodness instead˺!_
+> _Warn with this ˹Quran˺ those who are awed by the prospect of being gathered before their Lord—when they will have no protector or intercessor besides Him—so perhaps they will be mindful ˹of Him˺._
 
-🔗 Source: https://quran.com/90/11
+🔗 Source: https://quran.com/6/51
 
-— Safar 25, 1448H
+— Safar 26, 1448H
 <!-- AYAHADAY:END -->
