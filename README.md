@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Qiyamah 75:37 → Al-Insan 76:26 (30 verses)
+Today's reading: Al-Insan 76:27 → Al-Mursalat 77:25 (30 verses)
 
-[█████████░] 90.1% (5610/6229 verses)
+[█████████░] 90.5% (5640/6229 verses)
 
-📊 **Stats:** 5610 verses read | 184 days active
+📊 **Stats:** 5640 verses read | 185 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Al-Qiyamah 75:37 → Al-Insan 76:26 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cattle • Makkah • 165 Ayat_</sub><br>
-**Surah Al-An'am** (6:51)
+<sub>_The Cloaked One • Makkah • 56 Ayat_</sub><br>
+**Surah Al-Muddaththir** (74:49)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: Al-Qiyamah 75:37 → Al-Insan 76:26 (30 verses)
 
 </div>
 
-وَأَنذِرْ بِهِ الَّذِينَ يَخَافُونَ أَن يُحْشَرُوا إِلَىٰ رَبِّهِمْ ۙ لَيْسَ لَهُم مِّن دُونِهِ وَلِيٌّ وَلَا شَفِيعٌ لَّعَلَّهُمْ يَتَّقُونَ
+فَمَا لَهُمْ عَنِ التَّذْكِرَةِ مُعْرِضِينَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Waanthir bihi allatheena yakhafoona an yuhsharoo ila rabbihim laysa lahum min doonihi waliyyun wala shafeeAAun laAAallahum yattaqoona_
+> _Fama lahum AAani alttathkirati muAArideena_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _Warn with this ˹Quran˺ those who are awed by the prospect of being gathered before their Lord—when they will have no protector or intercessor besides Him—so perhaps they will be mindful ˹of Him˺._
+> _Now, what is the matter with them that they are turning away from the reminder,_
 
-🔗 Source: https://quran.com/6/51
+🔗 Source: https://quran.com/74/49
 
-— Safar 26, 1448H
+— Safar 27, 1448H
 <!-- AYAHADAY:END -->
