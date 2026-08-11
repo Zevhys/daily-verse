@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Insan 76:27 → Al-Mursalat 77:25 (30 verses)
+Today's reading: Al-Mursalat 77:26 → An-Naba 78:5 (30 verses)
 
-[█████████░] 90.5% (5640/6229 verses)
+[█████████░] 91.0% (5670/6229 verses)
 
-📊 **Stats:** 5640 verses read | 185 days active
+📊 **Stats:** 5670 verses read | 186 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Al-Insan 76:27 → Al-Mursalat 77:25 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cloaked One • Makkah • 56 Ayat_</sub><br>
-**Surah Al-Muddaththir** (74:49)
+<sub>_The Night • Makkah • 21 Ayat_</sub><br>
+**Surah Al-Layl** (92:10)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: Al-Insan 76:27 → Al-Mursalat 77:25 (30 verses)
 
 </div>
 
-فَمَا لَهُمْ عَنِ التَّذْكِرَةِ مُعْرِضِينَ
+فَسَنُيَسِّرُهُ لِلْعُسْرَىٰ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Fama lahum AAani alttathkirati muAArideena_
+> _Fasanuyassiruhu lilAAusra_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _Now, what is the matter with them that they are turning away from the reminder,_
+> _We will facilitate for them the path of hardship._
 
-🔗 Source: https://quran.com/74/49
+🔗 Source: https://quran.com/92/10
 
-— Safar 27, 1448H
+— Safar 28, 1448H
 <!-- AYAHADAY:END -->
