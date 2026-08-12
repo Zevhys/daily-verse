@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Mursalat 77:26 → An-Naba 78:5 (30 verses)
+Today's reading: An-Naba 78:6–35 (30 verses)
 
-[█████████░] 91.0% (5670/6229 verses)
+[█████████░] 91.5% (5700/6229 verses)
 
-📊 **Stats:** 5670 verses read | 186 days active
+📊 **Stats:** 5700 verses read | 187 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Al-Mursalat 77:26 → An-Naba 78:5 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Night • Makkah • 21 Ayat_</sub><br>
-**Surah Al-Layl** (92:10)
+<sub>_The Smoke • Makkah • 59 Ayat_</sub><br>
+**Surah Ad-Dukhan** (44:54)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: Al-Mursalat 77:26 → An-Naba 78:5 (30 verses)
 
 </div>
 
-فَسَنُيَسِّرُهُ لِلْعُسْرَىٰ
+كَذَٰلِكَ وَزَوَّجْنَاهُم بِحُورٍ عِينٍ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Fasanuyassiruhu lilAAusra_
+> _Kathalika wazawwajnahum bihoorin AAeenin_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _We will facilitate for them the path of hardship._
+> _So it will be. And We will pair them to maidens with gorgeous eyes._
 
-🔗 Source: https://quran.com/92/10
+🔗 Source: https://quran.com/44/54
 
-— Safar 28, 1448H
+— Safar 29, 1448H
 <!-- AYAHADAY:END -->
