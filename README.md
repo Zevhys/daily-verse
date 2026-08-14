@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: An-Naba 78:36 → An-Nazi'at 79:25 (30 verses)
+Today's reading: An-Nazi'at 79:26 → 'Abasa 80:9 (30 verses)
 
-[█████████░] 92.0% (5730/6229 verses)
+[█████████░] 92.5% (5760/6229 verses)
 
-📊 **Stats:** 5730 verses read | 188 days active
+📊 **Stats:** 5760 verses read | 189 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: An-Naba 78:36 → An-Nazi'at 79:25 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Table Spread • Madinah • 120 Ayat_</sub><br>
-**Surah Al-Ma'idah** (5:44)
+<sub>_The Star • Makkah • 62 Ayat_</sub><br>
+**Surah An-Najm** (53:54)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: An-Naba 78:36 → An-Nazi'at 79:25 (30 verses)
 
 </div>
 
-إِنَّا أَنزَلْنَا التَّوْرَاةَ فِيهَا هُدًى وَنُورٌ ۚ يَحْكُمُ بِهَا النَّبِيُّونَ الَّذِينَ أَسْلَمُوا لِلَّذِينَ هَادُوا وَالرَّبَّانِيُّونَ وَالْأَحْبَارُ بِمَا اسْتُحْفِظُوا مِن كِتَابِ اللَّهِ وَكَانُوا عَلَيْهِ شُهَدَاءَ ۚ فَلَا تَخْشَوُا النَّاسَ وَاخْشَوْنِ وَلَا تَشْتَرُوا بِآيَاتِي ثَمَنًا قَلِيلًا ۚ وَمَن لَّمْ يَحْكُم بِمَا أَنزَلَ اللَّهُ فَأُولَٰئِكَ هُمُ الْكَافِرُونَ
+فَغَشَّاهَا مَا غَشَّىٰ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Inna anzalna alttawrata feeha hudan wanoorun yahkumu biha alnnabiyyoona allatheena aslamoo lillatheena hadoo waalrrabbaniyyoona waalahbaru bima istuhfithoo min kitabi Allahi wakanoo AAalayhi shuhadaa fala takhshawoo alnnasa waikhshawni wala tashtaroo biayatee thamanan qaleelan waman lam yahkum bima anzala Allahu faolaika humu alkafiroona_
+> _Faghashshaha ma ghashsha_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _Indeed, We revealed the Torah, containing guidance and light, by which the prophets, who submitted themselves to Allah, made judgments for Jews. So too did the rabbis and scholars judge according to Allah’s Book, with which they were entrusted and of which they were made keepers. So do not fear the people; fear Me! Nor trade my revelations for a fleeting gain. And those who do not judge by what Allah has revealed are ˹truly˺ the disbelievers._
+> _How overwhelming was what covered ˹them˺!_
 
-🔗 Source: https://quran.com/5/44
+🔗 Source: https://quran.com/53/54
 
-— Safar 30, 1448H
+— Rabi' al-Awwal 1, 1448H
 <!-- AYAHADAY:END -->
