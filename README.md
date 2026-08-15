@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: An-Nazi'at 79:26 → 'Abasa 80:9 (30 verses)
+Today's reading: 'Abasa 80:10–39 (30 verses)
 
-[█████████░] 92.5% (5760/6229 verses)
+[█████████░] 93.0% (5790/6229 verses)
 
-📊 **Stats:** 5760 verses read | 189 days active
+📊 **Stats:** 5790 verses read | 190 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: An-Nazi'at 79:26 → 'Abasa 80:9 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Star • Makkah • 62 Ayat_</sub><br>
-**Surah An-Najm** (53:54)
+<sub>_The Romans • Makkah • 60 Ayat_</sub><br>
+**Surah Ar-Rum** (30:48)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: An-Nazi'at 79:26 → 'Abasa 80:9 (30 verses)
 
 </div>
 
-فَغَشَّاهَا مَا غَشَّىٰ
+اللَّهُ الَّذِي يُرْسِلُ الرِّيَاحَ فَتُثِيرُ سَحَابًا فَيَبْسُطُهُ فِي السَّمَاءِ كَيْفَ يَشَاءُ وَيَجْعَلُهُ كِسَفًا فَتَرَى الْوَدْقَ يَخْرُجُ مِنْ خِلَالِهِ ۖ فَإِذَا أَصَابَ بِهِ مَن يَشَاءُ مِنْ عِبَادِهِ إِذَا هُمْ يَسْتَبْشِرُونَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Faghashshaha ma ghashsha_
+> _Allahu allathee yursilu alrriyaha fatutheeru sahaban fayabsutuhu fee alssamai kayfa yashao wayajAAaluhu kisafan fatara alwadqa yakhruju min khilalihi faitha asaba bihi man yashao min AAibadihi itha hum yastabshiroona_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _How overwhelming was what covered ˹them˺!_
+> _It is Allah Who sends the winds, which then stir up ˹vapour, forming˺ clouds, which He then spreads out in the sky or piles up into masses as He wills, from which you see rain come forth. Then as soon as He causes it to fall on whoever He wills of His servants, they rejoice,_
 
-🔗 Source: https://quran.com/53/54
+🔗 Source: https://quran.com/30/48
 
-— Rabi' al-Awwal 1, 1448H
+— Rabi' al-Awwal 2, 1448H
 <!-- AYAHADAY:END -->
