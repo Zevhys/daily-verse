@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: 'Abasa 80:10–39 (30 verses)
+Today's reading: 'Abasa 80:40 → At-Takwir 81:27 (30 verses)
 
-[█████████░] 93.0% (5790/6229 verses)
+[█████████░] 93.4% (5820/6229 verses)
 
-📊 **Stats:** 5790 verses read | 190 days active
+📊 **Stats:** 5820 verses read | 191 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: 'Abasa 80:10–39 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Romans • Makkah • 60 Ayat_</sub><br>
-**Surah Ar-Rum** (30:48)
+<sub>_The Cow • Madinah • 286 Ayat_</sub><br>
+**Surah Al-Baqarah** (2:254)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: 'Abasa 80:10–39 (30 verses)
 
 </div>
 
-اللَّهُ الَّذِي يُرْسِلُ الرِّيَاحَ فَتُثِيرُ سَحَابًا فَيَبْسُطُهُ فِي السَّمَاءِ كَيْفَ يَشَاءُ وَيَجْعَلُهُ كِسَفًا فَتَرَى الْوَدْقَ يَخْرُجُ مِنْ خِلَالِهِ ۖ فَإِذَا أَصَابَ بِهِ مَن يَشَاءُ مِنْ عِبَادِهِ إِذَا هُمْ يَسْتَبْشِرُونَ
+يَا أَيُّهَا الَّذِينَ آمَنُوا أَنفِقُوا مِمَّا رَزَقْنَاكُم مِّن قَبْلِ أَن يَأْتِيَ يَوْمٌ لَّا بَيْعٌ فِيهِ وَلَا خُلَّةٌ وَلَا شَفَاعَةٌ ۗ وَالْكَافِرُونَ هُمُ الظَّالِمُونَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Allahu allathee yursilu alrriyaha fatutheeru sahaban fayabsutuhu fee alssamai kayfa yashao wayajAAaluhu kisafan fatara alwadqa yakhruju min khilalihi faitha asaba bihi man yashao min AAibadihi itha hum yastabshiroona_
+> _Ya ayyuha allatheena amanoo anfiqoo mimma razaqnakum min qabli an yatiya yawmun la bayAAun feehi wala khullatun wala shafaAAatun waalkafiroona humu alththalimoona_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _It is Allah Who sends the winds, which then stir up ˹vapour, forming˺ clouds, which He then spreads out in the sky or piles up into masses as He wills, from which you see rain come forth. Then as soon as He causes it to fall on whoever He wills of His servants, they rejoice,_
+> _O believers! Donate from what We have provided for you before the arrival of a Day when there will be no bargaining, friendship, or intercession. Those who disbelieve are ˹truly˺ the wrongdoers._
 
-🔗 Source: https://quran.com/30/48
+🔗 Source: https://quran.com/2/254
 
-— Rabi' al-Awwal 2, 1448H
+— Rabi' al-Awwal 3, 1448H
 <!-- AYAHADAY:END -->
