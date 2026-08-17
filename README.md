@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: 'Abasa 80:40 → At-Takwir 81:27 (30 verses)
+Today's reading: At-Takwir 81:28 → Al-Mutaffifin 83:9 (30 verses)
 
-[█████████░] 93.4% (5820/6229 verses)
+[█████████░] 93.9% (5850/6229 verses)
 
-📊 **Stats:** 5820 verses read | 191 days active
+📊 **Stats:** 5850 verses read | 192 days active
 <!-- READING:END -->
 
 ---
@@ -14,7 +14,7 @@ Today's reading: 'Abasa 80:40 → At-Takwir 81:27 (30 verses)
 
 <!-- AYAHADAY:START -->
 <sub>_The Cow • Madinah • 286 Ayat_</sub><br>
-**Surah Al-Baqarah** (2:254)
+**Surah Al-Baqarah** (2:238)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: 'Abasa 80:40 → At-Takwir 81:27 (30 verses)
 
 </div>
 
-يَا أَيُّهَا الَّذِينَ آمَنُوا أَنفِقُوا مِمَّا رَزَقْنَاكُم مِّن قَبْلِ أَن يَأْتِيَ يَوْمٌ لَّا بَيْعٌ فِيهِ وَلَا خُلَّةٌ وَلَا شَفَاعَةٌ ۗ وَالْكَافِرُونَ هُمُ الظَّالِمُونَ
+حَافِظُوا عَلَى الصَّلَوَاتِ وَالصَّلَاةِ الْوُسْطَىٰ وَقُومُوا لِلَّهِ قَانِتِينَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Ya ayyuha allatheena amanoo anfiqoo mimma razaqnakum min qabli an yatiya yawmun la bayAAun feehi wala khullatun wala shafaAAatun waalkafiroona humu alththalimoona_
+> _Hafithoo AAala alssalawati waalssalati alwusta waqoomoo lillahi qaniteena_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _O believers! Donate from what We have provided for you before the arrival of a Day when there will be no bargaining, friendship, or intercession. Those who disbelieve are ˹truly˺ the wrongdoers._
+> _Observe the ˹five obligatory˺ prayers—especially the middle prayer—and stand in true devotion to Allah._
 
-🔗 Source: https://quran.com/2/254
+🔗 Source: https://quran.com/2/238
 
-— Rabi' al-Awwal 3, 1448H
+— Rabi' al-Awwal 4, 1448H
 <!-- AYAHADAY:END -->
