@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Mutaffifin 83:10 → Al-Inshiqaq 84:3 (30 verses)
+Today's reading: Al-Inshiqaq 84:4 → Al-Buruj 85:8 (30 verses)
 
-[█████████░] 94.4% (5880/6229 verses)
+[█████████░] 94.9% (5910/6229 verses)
 
-📊 **Stats:** 5880 verses read | 193 days active
+📊 **Stats:** 5910 verses read | 194 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Al-Mutaffifin 83:10 → Al-Inshiqaq 84:3 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Table Spread • Madinah • 120 Ayat_</sub><br>
-**Surah Al-Ma'idah** (5:99)
+<sub>_Abrahim • Makkah • 52 Ayat_</sub><br>
+**Surah Ibrahim** (14:42)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: Al-Mutaffifin 83:10 → Al-Inshiqaq 84:3 (30 verses)
 
 </div>
 
-مَّا عَلَى الرَّسُولِ إِلَّا الْبَلَاغُ ۗ وَاللَّهُ يَعْلَمُ مَا تُبْدُونَ وَمَا تَكْتُمُونَ
+وَلَا تَحْسَبَنَّ اللَّهَ غَافِلًا عَمَّا يَعْمَلُ الظَّالِمُونَ ۚ إِنَّمَا يُؤَخِّرُهُمْ لِيَوْمٍ تَشْخَصُ فِيهِ الْأَبْصَارُ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Ma AAala alrrasooli illa albalaghu waAllahu yaAAlamu ma tubdoona wama taktumoona_
+> _Wala tahsabanna Allaha ghafilan AAamma yaAAmalu alththalimoona innama yuakhkhiruhum liyawmin tashkhasu feehi alabsaru_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _The Messenger’s duty is only to deliver ˹the message˺. And Allah ˹fully˺ knows what you reveal and what you conceal._
+> _Do not think ˹O Prophet˺ that Allah is unaware of what the wrongdoers do. He only delays them until a Day when ˹their˺ eyes will stare in horror—_
 
-🔗 Source: https://quran.com/5/99
+🔗 Source: https://quran.com/14/42
 
-— Rabi' al-Awwal 5, 1448H
+— Rabi' al-Awwal 6, 1448H
 <!-- AYAHADAY:END -->
