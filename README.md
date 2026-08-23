@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Ghashiyah 88:11 → Al-Fajr 89:14 (30 verses)
+Today's reading: Al-Fajr 89:15 → Al-Balad 90:14 (30 verses)
 
-[█████████░] 96.3% (6000/6229 verses)
+[█████████░] 96.8% (6030/6229 verses)
 
-📊 **Stats:** 6000 verses read | 197 days active
+📊 **Stats:** 6030 verses read | 198 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Al-Ghashiyah 88:11 → Al-Fajr 89:14 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Beneficent • Makkah • 78 Ayat_</sub><br>
-**Surah Ar-Rahman** (55:31)
+<sub>_The Cow • Madinah • 286 Ayat_</sub><br>
+**Surah Al-Baqarah** (2:211)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: Al-Ghashiyah 88:11 → Al-Fajr 89:14 (30 verses)
 
 </div>
 
-سَنَفْرُغُ لَكُمْ أَيُّهَ الثَّقَلَانِ
+سَلْ بَنِي إِسْرَائِيلَ كَمْ آتَيْنَاهُم مِّنْ آيَةٍ بَيِّنَةٍ ۗ وَمَن يُبَدِّلْ نِعْمَةَ اللَّهِ مِن بَعْدِ مَا جَاءَتْهُ فَإِنَّ اللَّهَ شَدِيدُ الْعِقَابِ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Sanafrughu lakum ayyuha alththaqalani_
+> _Sal banee israeela kam ataynahum min ayatin bayyinatin waman yubaddil niAAmata Allahi min baAAdi ma jaathu fainna Allaha shadeedu alAAiqabi_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _We will soon attend to you ˹for judgment˺, O  two multitudes ˹of jinn and humans˺!_
+> _Ask the Children of Israel how many clear signs We have given them. And whoever trades Allah’s favour—after receiving it—˹for disbelief˺ should know that Allah is indeed severe in punishment._
 
-🔗 Source: https://quran.com/55/31
+🔗 Source: https://quran.com/2/211
 
-— Rabi' al-Awwal 9, 1448H
+— Rabi' al-Awwal 10, 1448H
 <!-- AYAHADAY:END -->
