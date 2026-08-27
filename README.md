@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Ash-Sharh 94:8 → Al-Qadr 97:2 (30 verses)
+Today's reading: Al-Qadr 97:3 → Al-'Adiyat 100:11 (30 verses)
 
-[█████████░] 98.3% (6120/6229 verses)
+[█████████░] 98.7% (6150/6229 verses)
 
-📊 **Stats:** 6120 verses read | 201 days active
+📊 **Stats:** 6150 verses read | 202 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Ash-Sharh 94:8 → Al-Qadr 97:2 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Defrauding • Makkah • 36 Ayat_</sub><br>
-**Surah Al-Mutaffifin** (83:18)
+<sub>_The Reality • Makkah • 52 Ayat_</sub><br>
+**Surah Al-Haqqah** (69:1)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: Ash-Sharh 94:8 → Al-Qadr 97:2 (30 verses)
 
 </div>
 
-كَلَّا إِنَّ كِتَابَ الْأَبْرَارِ لَفِي عِلِّيِّينَ
+الْحَاقَّةُ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Kalla inna kitaba alabrari lafee AAilliyyeena_
+> _Alhaqqatu_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _But no! The virtuous are certainly bound for ’Illiyûn ˹in elevated Gardens˺—_
+> _The Inevitable Hour!_
 
-🔗 Source: https://quran.com/83/18
+🔗 Source: https://quran.com/69/1
 
-— Rabi' al-Awwal 13, 1448H
+— Rabi' al-Awwal 14, 1448H
 <!-- AYAHADAY:END -->
