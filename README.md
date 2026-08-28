@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Qadr 97:3 → Al-'Adiyat 100:11 (30 verses)
+Today's reading: Al-Qari'ah 101:1 → Al-Humazah 104:8 (30 verses)
 
-[█████████░] 98.7% (6150/6229 verses)
+[█████████░] 99.2% (6180/6229 verses)
 
-📊 **Stats:** 6150 verses read | 202 days active
+📊 **Stats:** 6180 verses read | 203 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Al-Qadr 97:3 → Al-'Adiyat 100:11 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Reality • Makkah • 52 Ayat_</sub><br>
-**Surah Al-Haqqah** (69:1)
+<sub>_Those who drag forth • Makkah • 46 Ayat_</sub><br>
+**Surah An-Nazi'at** (79:34)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: Al-Qadr 97:3 → Al-'Adiyat 100:11 (30 verses)
 
 </div>
 
-الْحَاقَّةُ
+فَإِذَا جَاءَتِ الطَّامَّةُ الْكُبْرَىٰ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Alhaqqatu_
+> _Faitha jaati alttammatu alkubra_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _The Inevitable Hour!_
+> _But, when the Supreme Disaster comes to pass—_
 
-🔗 Source: https://quran.com/69/1
+🔗 Source: https://quran.com/79/34
 
-— Rabi' al-Awwal 14, 1448H
+— Rabi' al-Awwal 15, 1448H
 <!-- AYAHADAY:END -->
