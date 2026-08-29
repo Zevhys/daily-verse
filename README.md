@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Qari'ah 101:1 → Al-Humazah 104:8 (30 verses)
+Today's reading: Al-Humazah 104:9 → Al-Masad 111:1 (30 verses)
 
-[█████████░] 99.2% (6180/6229 verses)
+[█████████░] 99.7% (6210/6229 verses)
 
-📊 **Stats:** 6180 verses read | 203 days active
+📊 **Stats:** 6210 verses read | 204 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Al-Qari'ah 101:1 → Al-Humazah 104:8 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Those who drag forth • Makkah • 46 Ayat_</sub><br>
-**Surah An-Nazi'at** (79:34)
+<sub>_The Smoke • Makkah • 59 Ayat_</sub><br>
+**Surah Ad-Dukhan** (44:51)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: Al-Qari'ah 101:1 → Al-Humazah 104:8 (30 verses)
 
 </div>
 
-فَإِذَا جَاءَتِ الطَّامَّةُ الْكُبْرَىٰ
+إِنَّ الْمُتَّقِينَ فِي مَقَامٍ أَمِينٍ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Faitha jaati alttammatu alkubra_
+> _Inna almuttaqeena fee maqamin ameenin_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _But, when the Supreme Disaster comes to pass—_
+> _Indeed, the righteous will be in a secure place,_
 
-🔗 Source: https://quran.com/79/34
+🔗 Source: https://quran.com/44/51
 
-— Rabi' al-Awwal 15, 1448H
+— Rabi' al-Awwal 16, 1448H
 <!-- AYAHADAY:END -->
