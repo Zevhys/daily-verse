@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Humazah 104:9 → Al-Masad 111:1 (30 verses)
+Today's reading: Al-Masad 111:2 → Al-Baqarah 2:11 (30 verses)
 
-[█████████░] 99.7% (6210/6229 verses)
+[██████████] 100.2% (6240/6229 verses)
 
-📊 **Stats:** 6210 verses read | 204 days active
+📊 **Stats:** 6240 verses read | 205 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Al-Humazah 104:9 → Al-Masad 111:1 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Smoke • Makkah • 59 Ayat_</sub><br>
-**Surah Ad-Dukhan** (44:51)
+<sub>_The Romans • Makkah • 60 Ayat_</sub><br>
+**Surah Ar-Rum** (30:28)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: Al-Humazah 104:9 → Al-Masad 111:1 (30 verses)
 
 </div>
 
-إِنَّ الْمُتَّقِينَ فِي مَقَامٍ أَمِينٍ
+ضَرَبَ لَكُم مَّثَلًا مِّنْ أَنفُسِكُمْ ۖ هَل لَّكُم مِّن مَّا مَلَكَتْ أَيْمَانُكُم مِّن شُرَكَاءَ فِي مَا رَزَقْنَاكُمْ فَأَنتُمْ فِيهِ سَوَاءٌ تَخَافُونَهُمْ كَخِيفَتِكُمْ أَنفُسَكُمْ ۚ كَذَٰلِكَ نُفَصِّلُ الْآيَاتِ لِقَوْمٍ يَعْقِلُونَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Inna almuttaqeena fee maqamin ameenin_
+> _Daraba lakum mathalan min anfusikum hal lakum mi mma malakat aymanukum min shurakaa fee ma razaqnakum faantum feehi sawaon takhafoonahum kakheefatikum anfusakum kathalika nufassilu alayati liqawmin yaAAqiloona_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _Indeed, the righteous will be in a secure place,_
+> _He sets forth for you an example ˹drawn˺ from your own lives: would you allow some of those ˹bondspeople˺ in your possession to be your equal partners in whatever ˹wealth˺ We have provided you, keeping them in mind as you are mindful of your peers? This is how We make the signs clear for people who understand._
 
-🔗 Source: https://quran.com/44/51
+🔗 Source: https://quran.com/30/28
 
-— Rabi' al-Awwal 16, 1448H
+— Rabi' al-Awwal 17, 1448H
 <!-- AYAHADAY:END -->
