@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Baqarah 2:12–41 (30 verses)
+Today's reading: Al-Baqarah 2:42–71 (30 verses)
 
-[██████████] 100.7% (6270/6229 verses)
+[██████████] 101.1% (6300/6229 verses)
 
-📊 **Stats:** 6270 verses read | 206 days active
+📊 **Stats:** 6300 verses read | 207 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Al-Baqarah 2:12–41 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Rocky Tract • Makkah • 99 Ayat_</sub><br>
-**Surah Al-Hijr** (15:4)
+<sub>_Originator • Makkah • 45 Ayat_</sub><br>
+**Surah Fatir** (35:20)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: Al-Baqarah 2:12–41 (30 verses)
 
 </div>
 
-وَمَا أَهْلَكْنَا مِن قَرْيَةٍ إِلَّا وَلَهَا كِتَابٌ مَّعْلُومٌ
+وَلَا الظُّلُمَاتُ وَلَا النُّورُ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Wama ahlakna min qaryatin illa walaha kitabun maAAloomun_
+> _Wala alththulumatu wala alnnooru_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _We have never destroyed a society without a destined term._
+> _nor are the darkness and the light,_
 
-🔗 Source: https://quran.com/15/4
+🔗 Source: https://quran.com/35/20
 
-— Rabi' al-Awwal 18, 1448H
+— Rabi' al-Awwal 19, 1448H
 <!-- AYAHADAY:END -->
