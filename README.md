@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Baqarah 2:42–71 (30 verses)
+Today's reading: Al-Baqarah 2:72–101 (30 verses)
 
-[██████████] 101.1% (6300/6229 verses)
+[██████████] 101.6% (6330/6229 verses)
 
-📊 **Stats:** 6300 verses read | 207 days active
+📊 **Stats:** 6330 verses read | 208 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Al-Baqarah 2:42–71 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Originator • Makkah • 45 Ayat_</sub><br>
-**Surah Fatir** (35:20)
+<sub>_The Star • Makkah • 62 Ayat_</sub><br>
+**Surah An-Najm** (53:44)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: Al-Baqarah 2:42–71 (30 verses)
 
 </div>
 
-وَلَا الظُّلُمَاتُ وَلَا النُّورُ
+وَأَنَّهُ هُوَ أَمَاتَ وَأَحْيَا
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Wala alththulumatu wala alnnooru_
+> _Waannahu huwa amata waahya_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _nor are the darkness and the light,_
+> _And He is the One Who gives life and causes death._
 
-🔗 Source: https://quran.com/35/20
+🔗 Source: https://quran.com/53/44
 
-— Rabi' al-Awwal 19, 1448H
+— Rabi' al-Awwal 20, 1448H
 <!-- AYAHADAY:END -->
