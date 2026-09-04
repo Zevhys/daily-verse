@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Baqarah 2:102–131 (30 verses)
+Today's reading: Al-Baqarah 2:132–161 (30 verses)
 
-[██████████] 102.1% (6360/6229 verses)
+[██████████] 102.6% (6390/6229 verses)
 
-📊 **Stats:** 6360 verses read | 209 days active
+📊 **Stats:** 6390 verses read | 210 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Al-Baqarah 2:102–131 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Mary • Makkah • 98 Ayat_</sub><br>
-**Surah Maryam** (19:29)
+<sub>_The Cow • Madinah • 286 Ayat_</sub><br>
+**Surah Al-Baqarah** (2:47)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: Al-Baqarah 2:102–131 (30 verses)
 
 </div>
 
-فَأَشَارَتْ إِلَيْهِ ۖ قَالُوا كَيْفَ نُكَلِّمُ مَن كَانَ فِي الْمَهْدِ صَبِيًّا
+يَا بَنِي إِسْرَائِيلَ اذْكُرُوا نِعْمَتِيَ الَّتِي أَنْعَمْتُ عَلَيْكُمْ وَأَنِّي فَضَّلْتُكُمْ عَلَى الْعَالَمِينَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Faasharat ilayhi qaloo kayfa nukallimu man kana fee almahdi sabiyyan_
+> _Ya banee israeela othkuroo niAAmatiya allatee anAAamtu AAalaykum waannee faddaltukum AAala alAAalameena_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _So she pointed to the baby. They exclaimed, “How can we talk to someone who is an infant in the cradle?”_
+> _O Children of Israel! Remember ˹all˺ the favours I granted you and how I honoured you above the others._
 
-🔗 Source: https://quran.com/19/29
+🔗 Source: https://quran.com/2/47
 
-— Rabi' al-Awwal 21, 1448H
+— Rabi' al-Awwal 22, 1448H
 <!-- AYAHADAY:END -->
