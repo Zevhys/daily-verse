@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Baqarah 2:162–191 (30 verses)
+Today's reading: Al-Baqarah 2:192–221 (30 verses)
 
-[██████████] 103.1% (6420/6229 verses)
+[██████████] 103.5% (6450/6229 verses)
 
-📊 **Stats:** 6420 verses read | 211 days active
+📊 **Stats:** 6450 verses read | 212 days active
 <!-- READING:END -->
 
 ---
@@ -13,26 +13,20 @@ Today's reading: Al-Baqarah 2:162–191 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Palm Fiber • Makkah • 5 Ayat_</sub><br>
-**Surah Al-Masad** (111:1)
+<sub>_The Repentance • Madinah • 129 Ayat_</sub><br>
+**Surah At-Tawbah** (9:73)
 
-<div align="center">
-
-بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
-
-</div>
-
-تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ
+يَا أَيُّهَا النَّبِيُّ جَاهِدِ الْكُفَّارَ وَالْمُنَافِقِينَ وَاغْلُظْ عَلَيْهِمْ ۚ وَمَأْوَاهُمْ جَهَنَّمُ ۖ وَبِئْسَ الْمَصِيرُ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Tabbat yada abee lahabin watabba_
+> _Ya ayyuha alnnabiyyu jahidi alkuffara waalmunafiqeena waoghluth AAalayhim wamawahum jahannamu wabisa almaseeru_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _May the hands of Abu Lahab perish, and he ˹himself˺ perish!_
+> _O Prophet! Struggle against the disbelievers and the hypocrites, and be firm with them. Hell will be their home. What an evil destination!_
 
-🔗 Source: https://quran.com/111/1
+🔗 Source: https://quran.com/9/73
 
-— Rabi' al-Awwal 23, 1448H
+— Rabi' al-Awwal 24, 1448H
 <!-- AYAHADAY:END -->
