@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Baqarah 2:252–281 (30 verses)
+Today's reading: Al-Baqarah 2:282 → Ali 'Imran 3:25 (30 verses)
 
-[██████████] 104.5% (6510/6229 verses)
+[██████████] 105.0% (6540/6229 verses)
 
-📊 **Stats:** 6510 verses read | 214 days active
+📊 **Stats:** 6540 verses read | 215 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Al-Baqarah 2:252–281 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Romans • Makkah • 60 Ayat_</sub><br>
-**Surah Ar-Rum** (30:54)
+<sub>_The Believers • Makkah • 118 Ayat_</sub><br>
+**Surah Al-Mu'minun** (23:115)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: Al-Baqarah 2:252–281 (30 verses)
 
 </div>
 
-اللَّهُ الَّذِي خَلَقَكُم مِّن ضَعْفٍ ثُمَّ جَعَلَ مِن بَعْدِ ضَعْفٍ قُوَّةً ثُمَّ جَعَلَ مِن بَعْدِ قُوَّةٍ ضَعْفًا وَشَيْبَةً ۚ يَخْلُقُ مَا يَشَاءُ ۖ وَهُوَ الْعَلِيمُ الْقَدِيرُ
+أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَاكُمْ عَبَثًا وَأَنَّكُمْ إِلَيْنَا لَا تُرْجَعُونَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Allahu allathee khalaqakum min daAAfin thumma jaAAala min baAAdi daAAfin quwwatan thumma jaAAala min baAAdi quwwatin daAAfan washaybatan yakhluqu ma yashao wahuwa alAAaleemu alqadeeru_
+> _Afahasibtum annama khalaqnakum AAabathan waannakum ilayna la turjaAAoona_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _It is Allah Who created you in a state of weakness, then developed ˹your˺ weakness into strength, then developed ˹your˺ strength into weakness and old age. He creates whatever He wills. For He is the All-Knowing, Most Capable._
+> _Did you then think that We had created you without purpose, and that you would never be returned to Us?”_
 
-🔗 Source: https://quran.com/30/54
+🔗 Source: https://quran.com/23/115
 
-— Rabi' al-Awwal 26, 1448H
+— Rabi' al-Awwal 27, 1448H
 <!-- AYAHADAY:END -->
