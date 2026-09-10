@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Baqarah 2:282 → Ali 'Imran 3:25 (30 verses)
+Today's reading: Ali 'Imran 3:26–55 (30 verses)
 
-[██████████] 105.0% (6540/6229 verses)
+[██████████] 105.5% (6570/6229 verses)
 
-📊 **Stats:** 6540 verses read | 215 days active
+📊 **Stats:** 6570 verses read | 216 days active
 <!-- READING:END -->
 
 ---
@@ -13,8 +13,8 @@ Today's reading: Al-Baqarah 2:282 → Ali 'Imran 3:25 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Believers • Makkah • 118 Ayat_</sub><br>
-**Surah Al-Mu'minun** (23:115)
+<sub>_Mary • Makkah • 98 Ayat_</sub><br>
+**Surah Maryam** (19:27)
 
 <div align="center">
 
@@ -22,17 +22,17 @@ Today's reading: Al-Baqarah 2:282 → Ali 'Imran 3:25 (30 verses)
 
 </div>
 
-أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَاكُمْ عَبَثًا وَأَنَّكُمْ إِلَيْنَا لَا تُرْجَعُونَ
+فَأَتَتْ بِهِ قَوْمَهَا تَحْمِلُهُ ۖ قَالُوا يَا مَرْيَمُ لَقَدْ جِئْتِ شَيْئًا فَرِيًّا
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Afahasibtum annama khalaqnakum AAabathan waannakum ilayna la turjaAAoona_
+> _Faatat bihi qawmaha tahmiluhu qaloo ya maryamu laqad jiti shayan fariyyan_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _Did you then think that We had created you without purpose, and that you would never be returned to Us?”_
+> _Then she returned to her people, carrying him. They said ˹in shock˺, “O Mary! You have certainly done a horrible thing!_
 
-🔗 Source: https://quran.com/23/115
+🔗 Source: https://quran.com/19/27
 
-— Rabi' al-Awwal 27, 1448H
+— Rabi' al-Awwal 28, 1448H
 <!-- AYAHADAY:END -->
