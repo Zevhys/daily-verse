@@ -1,11 +1,11 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Ali 'Imran 3:26–55 (30 verses)
+Today's reading: Ali 'Imran 3:56–85 (30 verses)
 
-[██████████] 105.5% (6570/6229 verses)
+[██████████] 106.0% (6600/6229 verses)
 
-📊 **Stats:** 6570 verses read | 216 days active
+📊 **Stats:** 6600 verses read | 217 days active
 <!-- READING:END -->
 
 ---
@@ -13,26 +13,20 @@ Today's reading: Ali 'Imran 3:26–55 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Mary • Makkah • 98 Ayat_</sub><br>
-**Surah Maryam** (19:27)
+<sub>_The Repentance • Madinah • 129 Ayat_</sub><br>
+**Surah At-Tawbah** (9:39)
 
-<div align="center">
-
-بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
-
-</div>
-
-فَأَتَتْ بِهِ قَوْمَهَا تَحْمِلُهُ ۖ قَالُوا يَا مَرْيَمُ لَقَدْ جِئْتِ شَيْئًا فَرِيًّا
+إِلَّا تَنفِرُوا يُعَذِّبْكُمْ عَذَابًا أَلِيمًا وَيَسْتَبْدِلْ قَوْمًا غَيْرَكُمْ وَلَا تَضُرُّوهُ شَيْئًا ۗ وَاللَّهُ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Faatat bihi qawmaha tahmiluhu qaloo ya maryamu laqad jiti shayan fariyyan_
+> _Illa tanfiroo yuAAaththibkum AAathaban aleeman wayastabdil qawman ghayrakum wala tadurroohu shayan waAllahu AAala kulli shayin qadeerun_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _Then she returned to her people, carrying him. They said ˹in shock˺, “O Mary! You have certainly done a horrible thing!_
+> _If you do not march forth, He will afflict you with a painful torment and replace you with other people. You are not harming Him in the least. And Allah is Most Capable of everything._
 
-🔗 Source: https://quran.com/19/27
+🔗 Source: https://quran.com/9/39
 
-— Rabi' al-Awwal 28, 1448H
+— Rabi' al-Awwal 29, 1448H
 <!-- AYAHADAY:END -->
