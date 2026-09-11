@@ -223,13 +223,6 @@ def compute_daily_reading(
     return line, (next_surah, next_ayah)
 
 
-def create_progress_bar(current: int, total: int, length: int = 10) -> str:
-    percent = (current / total) * 100 if total > 0 else 0
-    filled = int((current / total) * length) if total > 0 else 0
-    bar = "█" * filled + "░" * (length - filled)
-    return f"[{bar}] {percent:.1f}% ({current}/{total} verses)"
-
-
 def fetch_ayah_of_the_day(meta: Dict[int, SurahMeta]) -> str:
     response = requests.get("https://api.tarteel.io/v1/aad/schedule/", timeout=30)
     response.raise_for_status()
@@ -300,12 +293,11 @@ def main() -> None:
     )
 
     total_verses_read = state["total_verses_read"] + DAILY_VERSES
-    progress_bar = create_progress_bar(total_verses_read, TOTAL_VERSES)
     stats_line = (
         f"📊 **Stats:** {total_verses_read} verses read | {days_active} days active"
     )
 
-    reading_block = f"{reading_line}\n\n{progress_bar}\n\n{stats_line}"
+    reading_block = f"{reading_line}\n\n{stats_line}"
     ayahaday_block = fetch_ayah_of_the_day(meta)
 
     md = README_PATH.read_text(encoding="utf-8")
