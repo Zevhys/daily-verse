@@ -3,8 +3,6 @@
 <!-- READING:START -->
 Today's reading: Ali 'Imran 3:56–85 (30 verses)
 
-[██████████] 106.0% (6600/6229 verses)
-
 📊 **Stats:** 6600 verses read | 217 days active
 <!-- READING:END -->
 
