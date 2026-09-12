@@ -1,9 +1,9 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Ali 'Imran 3:56–85 (30 verses)
+Today's reading: Ali 'Imran 3:86–115 (30 verses)
 
-📊 **Stats:** 6600 verses read | 217 days active
+📊 **Stats:** 6630 verses read | 218 days active
 <!-- READING:END -->
 
 ---
@@ -11,20 +11,26 @@ Today's reading: Ali 'Imran 3:56–85 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Repentance • Madinah • 129 Ayat_</sub><br>
-**Surah At-Tawbah** (9:39)
+<sub>_Abrahim • Makkah • 52 Ayat_</sub><br>
+**Surah Ibrahim** (14:14)
 
-إِلَّا تَنفِرُوا يُعَذِّبْكُمْ عَذَابًا أَلِيمًا وَيَسْتَبْدِلْ قَوْمًا غَيْرَكُمْ وَلَا تَضُرُّوهُ شَيْئًا ۗ وَاللَّهُ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ
+<div align="center">
+
+بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
+
+</div>
+
+وَلَنُسْكِنَنَّكُمُ الْأَرْضَ مِن بَعْدِهِمْ ۚ ذَٰلِكَ لِمَنْ خَافَ مَقَامِي وَخَافَ وَعِيدِ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Illa tanfiroo yuAAaththibkum AAathaban aleeman wayastabdil qawman ghayrakum wala tadurroohu shayan waAllahu AAala kulli shayin qadeerun_
+> _Walanuskinannakumu alarda min baAAdihim thalika liman khafa maqamee wakhafa waAAeedi_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _If you do not march forth, He will afflict you with a painful torment and replace you with other people. You are not harming Him in the least. And Allah is Most Capable of everything._
+> _and make you reside in the land after them. This is for whoever is in awe of standing before Me and fears My warning.”_
 
-🔗 Source: https://quran.com/9/39
+🔗 Source: https://quran.com/14/14
 
-— Rabi' al-Awwal 29, 1448H
+— Rabi' al-Thani 1, 1448H
 <!-- AYAHADAY:END -->
