@@ -1,9 +1,9 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Ali 'Imran 3:86–115 (30 verses)
+Today's reading: Ali 'Imran 3:116–145 (30 verses)
 
-📊 **Stats:** 6630 verses read | 218 days active
+📊 **Stats:** 6660 verses read | 219 days active
 <!-- READING:END -->
 
 ---
@@ -11,8 +11,8 @@ Today's reading: Ali 'Imran 3:86–115 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Abrahim • Makkah • 52 Ayat_</sub><br>
-**Surah Ibrahim** (14:14)
+<sub>_The Believers • Makkah • 118 Ayat_</sub><br>
+**Surah Al-Mu'minun** (23:85)
 
 <div align="center">
 
@@ -20,17 +20,17 @@ Today's reading: Ali 'Imran 3:86–115 (30 verses)
 
 </div>
 
-وَلَنُسْكِنَنَّكُمُ الْأَرْضَ مِن بَعْدِهِمْ ۚ ذَٰلِكَ لِمَنْ خَافَ مَقَامِي وَخَافَ وَعِيدِ
+سَيَقُولُونَ لِلَّهِ ۚ قُلْ أَفَلَا تَذَكَّرُونَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Walanuskinannakumu alarda min baAAdihim thalika liman khafa maqamee wakhafa waAAeedi_
+> _Sayaqooloona lillahi qul afala tathakkaroona_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _and make you reside in the land after them. This is for whoever is in awe of standing before Me and fears My warning.”_
+> _They will reply, “To Allah!” Say, “Why are you not then mindful?”_
 
-🔗 Source: https://quran.com/14/14
+🔗 Source: https://quran.com/23/85
 
-— Rabi' al-Thani 1, 1448H
+— Rabi' al-Thani 2, 1448H
 <!-- AYAHADAY:END -->
