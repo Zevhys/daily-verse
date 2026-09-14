@@ -1,9 +1,9 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Ali 'Imran 3:116–145 (30 verses)
+Today's reading: Ali 'Imran 3:146–175 (30 verses)
 
-📊 **Stats:** 6660 verses read | 219 days active
+📊 **Stats:** 6690 verses read | 220 days active
 <!-- READING:END -->
 
 ---
@@ -11,8 +11,8 @@ Today's reading: Ali 'Imran 3:116–145 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Believers • Makkah • 118 Ayat_</sub><br>
-**Surah Al-Mu'minun** (23:85)
+<sub>_The Cattle • Makkah • 165 Ayat_</sub><br>
+**Surah Al-An'am** (6:49)
 
 <div align="center">
 
@@ -20,17 +20,17 @@ Today's reading: Ali 'Imran 3:116–145 (30 verses)
 
 </div>
 
-سَيَقُولُونَ لِلَّهِ ۚ قُلْ أَفَلَا تَذَكَّرُونَ
+وَالَّذِينَ كَذَّبُوا بِآيَاتِنَا يَمَسُّهُمُ الْعَذَابُ بِمَا كَانُوا يَفْسُقُونَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Sayaqooloona lillahi qul afala tathakkaroona_
+> _Waallatheena kaththaboo biayatina yamassuhumu alAAathabu bima kanoo yafsuqoona_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _They will reply, “To Allah!” Say, “Why are you not then mindful?”_
+> _But those who deny Our signs will be afflicted with punishment for their rebelliousness._
 
-🔗 Source: https://quran.com/23/85
+🔗 Source: https://quran.com/6/49
 
-— Rabi' al-Thani 2, 1448H
+— Rabi' al-Thani 3, 1448H
 <!-- AYAHADAY:END -->
