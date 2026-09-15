@@ -1,9 +1,9 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Ali 'Imran 3:146–175 (30 verses)
+Today's reading: Ali 'Imran 3:176 → An-Nisa 4:5 (30 verses)
 
-📊 **Stats:** 6690 verses read | 220 days active
+📊 **Stats:** 6720 verses read | 221 days active
 <!-- READING:END -->
 
 ---
@@ -11,8 +11,8 @@ Today's reading: Ali 'Imran 3:146–175 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cattle • Makkah • 165 Ayat_</sub><br>
-**Surah Al-An'am** (6:49)
+<sub>_The Table Spread • Madinah • 120 Ayat_</sub><br>
+**Surah Al-Ma'idah** (5:91)
 
 <div align="center">
 
@@ -20,17 +20,17 @@ Today's reading: Ali 'Imran 3:146–175 (30 verses)
 
 </div>
 
-وَالَّذِينَ كَذَّبُوا بِآيَاتِنَا يَمَسُّهُمُ الْعَذَابُ بِمَا كَانُوا يَفْسُقُونَ
+إِنَّمَا يُرِيدُ الشَّيْطَانُ أَن يُوقِعَ بَيْنَكُمُ الْعَدَاوَةَ وَالْبَغْضَاءَ فِي الْخَمْرِ وَالْمَيْسِرِ وَيَصُدَّكُمْ عَن ذِكْرِ اللَّهِ وَعَنِ الصَّلَاةِ ۖ فَهَلْ أَنتُم مُّنتَهُونَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Waallatheena kaththaboo biayatina yamassuhumu alAAathabu bima kanoo yafsuqoona_
+> _Innama yureedu alshshaytanu an yooqiAAa baynakumu alAAadawata waalbaghdaa fee alkhamri waalmaysiri wayasuddakum AAan thikri Allahi waAAani alssalati fahal antum muntahoona_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _But those who deny Our signs will be afflicted with punishment for their rebelliousness._
+> _Satan’s plan is to stir up hostility and hatred between you with intoxicants and gambling and to prevent you from remembering Allah and praying. Will you not then abstain?_
 
-🔗 Source: https://quran.com/6/49
+🔗 Source: https://quran.com/5/91
 
-— Rabi' al-Thani 3, 1448H
+— Rabi' al-Thani 4, 1448H
 <!-- AYAHADAY:END -->
