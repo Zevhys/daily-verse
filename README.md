@@ -1,9 +1,9 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Ali 'Imran 3:176 → An-Nisa 4:5 (30 verses)
+Today's reading: An-Nisa 4:6–35 (30 verses)
 
-📊 **Stats:** 6720 verses read | 221 days active
+📊 **Stats:** 6750 verses read | 222 days active
 <!-- READING:END -->
 
 ---
@@ -11,8 +11,8 @@ Today's reading: Ali 'Imran 3:176 → An-Nisa 4:5 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Table Spread • Madinah • 120 Ayat_</sub><br>
-**Surah Al-Ma'idah** (5:91)
+<sub>_The Poets • Makkah • 227 Ayat_</sub><br>
+**Surah Ash-Shu'ara** (26:181)
 
 <div align="center">
 
@@ -20,17 +20,17 @@ Today's reading: Ali 'Imran 3:176 → An-Nisa 4:5 (30 verses)
 
 </div>
 
-إِنَّمَا يُرِيدُ الشَّيْطَانُ أَن يُوقِعَ بَيْنَكُمُ الْعَدَاوَةَ وَالْبَغْضَاءَ فِي الْخَمْرِ وَالْمَيْسِرِ وَيَصُدَّكُمْ عَن ذِكْرِ اللَّهِ وَعَنِ الصَّلَاةِ ۖ فَهَلْ أَنتُم مُّنتَهُونَ
+أَوْفُوا الْكَيْلَ وَلَا تَكُونُوا مِنَ الْمُخْسِرِينَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Innama yureedu alshshaytanu an yooqiAAa baynakumu alAAadawata waalbaghdaa fee alkhamri waalmaysiri wayasuddakum AAan thikri Allahi waAAani alssalati fahal antum muntahoona_
+> _Awfoo alkayla wala takoonoo mina almukhsireena_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _Satan’s plan is to stir up hostility and hatred between you with intoxicants and gambling and to prevent you from remembering Allah and praying. Will you not then abstain?_
+> _Give full measure, and cause no loss ˹to others˺._
 
-🔗 Source: https://quran.com/5/91
+🔗 Source: https://quran.com/26/181
 
-— Rabi' al-Thani 4, 1448H
+— Rabi' al-Thani 5, 1448H
 <!-- AYAHADAY:END -->
