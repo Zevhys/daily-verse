@@ -1,9 +1,9 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: An-Nisa 4:6–35 (30 verses)
+Today's reading: An-Nisa 4:36–65 (30 verses)
 
-📊 **Stats:** 6750 verses read | 222 days active
+📊 **Stats:** 6780 verses read | 223 days active
 <!-- READING:END -->
 
 ---
@@ -11,8 +11,8 @@ Today's reading: An-Nisa 4:6–35 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Poets • Makkah • 227 Ayat_</sub><br>
-**Surah Ash-Shu'ara** (26:181)
+<sub>_The Cattle • Makkah • 165 Ayat_</sub><br>
+**Surah Al-An'am** (6:4)
 
 <div align="center">
 
@@ -20,17 +20,17 @@ Today's reading: An-Nisa 4:6–35 (30 verses)
 
 </div>
 
-أَوْفُوا الْكَيْلَ وَلَا تَكُونُوا مِنَ الْمُخْسِرِينَ
+وَمَا تَأْتِيهِم مِّنْ آيَةٍ مِّنْ آيَاتِ رَبِّهِمْ إِلَّا كَانُوا عَنْهَا مُعْرِضِينَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Awfoo alkayla wala takoonoo mina almukhsireena_
+> _Wama tateehim min ayatin min ayati rabbihim illa kanoo AAanha muAArideena_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _Give full measure, and cause no loss ˹to others˺._
+> _Whenever a sign comes to them from their Lord, they turn away from it._
 
-🔗 Source: https://quran.com/26/181
+🔗 Source: https://quran.com/6/4
 
-— Rabi' al-Thani 5, 1448H
+— Rabi' al-Thani 6, 1448H
 <!-- AYAHADAY:END -->
