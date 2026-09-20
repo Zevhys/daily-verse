@@ -1,9 +1,9 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: An-Nisa 4:96–125 (30 verses)
+Today's reading: An-Nisa 4:126–155 (30 verses)
 
-📊 **Stats:** 6840 verses read | 225 days active
+📊 **Stats:** 6870 verses read | 226 days active
 <!-- READING:END -->
 
 ---
@@ -11,8 +11,8 @@ Today's reading: An-Nisa 4:96–125 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Light • Madinah • 64 Ayat_</sub><br>
-**Surah An-Nur** (24:27)
+<sub>_The Beneficent • Makkah • 78 Ayat_</sub><br>
+**Surah Ar-Rahman** (55:45)
 
 <div align="center">
 
@@ -20,17 +20,17 @@ Today's reading: An-Nisa 4:96–125 (30 verses)
 
 </div>
 
-يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَدْخُلُوا بُيُوتًا غَيْرَ بُيُوتِكُمْ حَتَّىٰ تَسْتَأْنِسُوا وَتُسَلِّمُوا عَلَىٰ أَهْلِهَا ۚ ذَٰلِكُمْ خَيْرٌ لَّكُمْ لَعَلَّكُمْ تَذَكَّرُونَ
+فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Ya ayyuha allatheena amanoo la tadkhuloo buyootan ghayra buyootikum hatta tastanisoo watusallimoo AAala ahliha thalikum khayrun lakum laAAallakum tathakkaroona_
+> _Fabiayyi alai rabbikuma tukaththibani_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _O believers! Do not enter any house other than your own until you have asked for permission and greeted its occupants. This is best for you, so perhaps you will be mindful._
+> _Then which of your Lord’s favours will you both deny? _
 
-🔗 Source: https://quran.com/24/27
+🔗 Source: https://quran.com/55/45
 
-— Rabi' al-Thani 8, 1448H
+— Rabi' al-Thani 9, 1448H
 <!-- AYAHADAY:END -->
