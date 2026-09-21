@@ -1,9 +1,9 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: An-Nisa 4:126–155 (30 verses)
+Today's reading: An-Nisa 4:156 → Al-Ma'idah 5:9 (30 verses)
 
-📊 **Stats:** 6870 verses read | 226 days active
+📊 **Stats:** 6900 verses read | 227 days active
 <!-- READING:END -->
 
 ---
@@ -11,8 +11,8 @@ Today's reading: An-Nisa 4:126–155 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Beneficent • Makkah • 78 Ayat_</sub><br>
-**Surah Ar-Rahman** (55:45)
+<sub>_The Cave • Makkah • 110 Ayat_</sub><br>
+**Surah Al-Kahf** (18:27)
 
 <div align="center">
 
@@ -20,17 +20,17 @@ Today's reading: An-Nisa 4:126–155 (30 verses)
 
 </div>
 
-فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ
+وَاتْلُ مَا أُوحِيَ إِلَيْكَ مِن كِتَابِ رَبِّكَ ۖ لَا مُبَدِّلَ لِكَلِمَاتِهِ وَلَن تَجِدَ مِن دُونِهِ مُلْتَحَدًا
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Fabiayyi alai rabbikuma tukaththibani_
+> _Waotlu ma oohiya ilayka min kitabi rabbika la mubaddila likalimatihi walan tajida min doonihi multahadan_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _Then which of your Lord’s favours will you both deny? _
+> _Recite what has been revealed to you from the Book of your Lord. None can change His Words, nor can you find any refuge besides Him._
 
-🔗 Source: https://quran.com/55/45
+🔗 Source: https://quran.com/18/27
 
-— Rabi' al-Thani 9, 1448H
+— Rabi' al-Thani 10, 1448H
 <!-- AYAHADAY:END -->
