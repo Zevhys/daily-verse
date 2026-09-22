@@ -1,9 +1,9 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: An-Nisa 4:156 → Al-Ma'idah 5:9 (30 verses)
+Today's reading: Al-Ma'idah 5:10–39 (30 verses)
 
-📊 **Stats:** 6900 verses read | 227 days active
+📊 **Stats:** 6930 verses read | 228 days active
 <!-- READING:END -->
 
 ---
@@ -11,8 +11,8 @@ Today's reading: An-Nisa 4:156 → Al-Ma'idah 5:9 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cave • Makkah • 110 Ayat_</sub><br>
-**Surah Al-Kahf** (18:27)
+<sub>_Family of Imran • Madinah • 200 Ayat_</sub><br>
+**Surah Ali 'Imran** (3:63)
 
 <div align="center">
 
@@ -20,17 +20,17 @@ Today's reading: An-Nisa 4:156 → Al-Ma'idah 5:9 (30 verses)
 
 </div>
 
-وَاتْلُ مَا أُوحِيَ إِلَيْكَ مِن كِتَابِ رَبِّكَ ۖ لَا مُبَدِّلَ لِكَلِمَاتِهِ وَلَن تَجِدَ مِن دُونِهِ مُلْتَحَدًا
+فَإِن تَوَلَّوْا فَإِنَّ اللَّهَ عَلِيمٌ بِالْمُفْسِدِينَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Waotlu ma oohiya ilayka min kitabi rabbika la mubaddila likalimatihi walan tajida min doonihi multahadan_
+> _Fain tawallaw fainna Allaha AAaleemun bialmufsideena_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _Recite what has been revealed to you from the Book of your Lord. None can change His Words, nor can you find any refuge besides Him._
+> _If they turn away, then surely Allah has ˹perfect˺ knowledge of the corruptors._
 
-🔗 Source: https://quran.com/18/27
+🔗 Source: https://quran.com/3/63
 
-— Rabi' al-Thani 10, 1448H
+— Rabi' al-Thani 11, 1448H
 <!-- AYAHADAY:END -->
