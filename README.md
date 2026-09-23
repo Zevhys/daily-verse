@@ -1,9 +1,9 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Ma'idah 5:10–39 (30 verses)
+Today's reading: Al-Ma'idah 5:40–69 (30 verses)
 
-📊 **Stats:** 6930 verses read | 228 days active
+📊 **Stats:** 6960 verses read | 229 days active
 <!-- READING:END -->
 
 ---
@@ -11,8 +11,8 @@ Today's reading: Al-Ma'idah 5:10–39 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Family of Imran • Madinah • 200 Ayat_</sub><br>
-**Surah Ali 'Imran** (3:63)
+<sub>_The Overwhelming • Makkah • 26 Ayat_</sub><br>
+**Surah Al-Ghashiyah** (88:11)
 
 <div align="center">
 
@@ -20,17 +20,17 @@ Today's reading: Al-Ma'idah 5:10–39 (30 verses)
 
 </div>
 
-فَإِن تَوَلَّوْا فَإِنَّ اللَّهَ عَلِيمٌ بِالْمُفْسِدِينَ
+لَّا تَسْمَعُ فِيهَا لَاغِيَةً
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Fain tawallaw fainna Allaha AAaleemun bialmufsideena_
+> _La tasmaAAu feeha laghiyatan_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _If they turn away, then surely Allah has ˹perfect˺ knowledge of the corruptors._
+> _where no idle talk will be heard._
 
-🔗 Source: https://quran.com/3/63
+🔗 Source: https://quran.com/88/11
 
-— Rabi' al-Thani 11, 1448H
+— Rabi' al-Thani 12, 1448H
 <!-- AYAHADAY:END -->
