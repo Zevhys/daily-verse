@@ -1,9 +1,9 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Ma'idah 5:40–69 (30 verses)
+Today's reading: Al-Ma'idah 5:70–99 (30 verses)
 
-📊 **Stats:** 6960 verses read | 229 days active
+📊 **Stats:** 6990 verses read | 230 days active
 <!-- READING:END -->
 
 ---
@@ -11,8 +11,8 @@ Today's reading: Al-Ma'idah 5:40–69 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Overwhelming • Makkah • 26 Ayat_</sub><br>
-**Surah Al-Ghashiyah** (88:11)
+<sub>_Ya Sin • Makkah • 83 Ayat_</sub><br>
+**Surah Ya-Sin** (36:59)
 
 <div align="center">
 
@@ -20,17 +20,17 @@ Today's reading: Al-Ma'idah 5:40–69 (30 verses)
 
 </div>
 
-لَّا تَسْمَعُ فِيهَا لَاغِيَةً
+وَامْتَازُوا الْيَوْمَ أَيُّهَا الْمُجْرِمُونَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _La tasmaAAu feeha laghiyatan_
+> _Waimtazoo alyawma ayyuha almujrimoona_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _where no idle talk will be heard._
+> _˹Then the disbelievers will be told,˺ “Step away ˹from the believers˺ this Day, O  wicked ones!_
 
-🔗 Source: https://quran.com/88/11
+🔗 Source: https://quran.com/36/59
 
-— Rabi' al-Thani 12, 1448H
+— Rabi' al-Thani 13, 1448H
 <!-- AYAHADAY:END -->
