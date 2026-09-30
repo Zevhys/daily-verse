@@ -1,9 +1,9 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-An'am 6:100–129 (30 verses)
+Today's reading: Al-An'am 6:130–159 (30 verses)
 
-📊 **Stats:** 7140 verses read | 235 days active
+📊 **Stats:** 7170 verses read | 236 days active
 <!-- READING:END -->
 
 ---
@@ -11,8 +11,8 @@ Today's reading: Al-An'am 6:100–129 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Wind-Curved Sandhills • Makkah • 35 Ayat_</sub><br>
-**Surah Al-Ahqaf** (46:13)
+<sub>_Ta-Ha • Makkah • 135 Ayat_</sub><br>
+**Surah Taha** (20:54)
 
 <div align="center">
 
@@ -20,17 +20,17 @@ Today's reading: Al-An'am 6:100–129 (30 verses)
 
 </div>
 
-إِنَّ الَّذِينَ قَالُوا رَبُّنَا اللَّهُ ثُمَّ اسْتَقَامُوا فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
+كُلُوا وَارْعَوْا أَنْعَامَكُمْ ۗ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّأُولِي النُّهَىٰ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Inna allatheena qaloo rabbuna Allahu thumma istaqamoo fala khawfun AAalayhim wala hum yahzanoona_
+> _Kuloo wairAAaw anAAamakum inna fee thalika laayatin liolee alnnuha_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _Surely those who say, “Our Lord is Allah,” and then remain steadfast—there will be no fear for them, nor will they grieve._
+> _˹so˺ eat and graze your cattle. Surely in this are signs for people of sound judgment._
 
-🔗 Source: https://quran.com/46/13
+🔗 Source: https://quran.com/20/54
 
-— Rabi' al-Thani 18, 1448H
+— Rabi' al-Thani 19, 1448H
 <!-- AYAHADAY:END -->
