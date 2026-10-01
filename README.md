@@ -1,9 +1,9 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-An'am 6:130–159 (30 verses)
+Today's reading: Al-An'am 6:160 → Al-A'raf 7:24 (30 verses)
 
-📊 **Stats:** 7170 verses read | 236 days active
+📊 **Stats:** 7200 verses read | 237 days active
 <!-- READING:END -->
 
 ---
@@ -11,8 +11,8 @@ Today's reading: Al-An'am 6:130–159 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Ta-Ha • Makkah • 135 Ayat_</sub><br>
-**Surah Taha** (20:54)
+<sub>_The Exile • Madinah • 24 Ayat_</sub><br>
+**Surah Al-Hashr** (59:24)
 
 <div align="center">
 
@@ -20,17 +20,17 @@ Today's reading: Al-An'am 6:130–159 (30 verses)
 
 </div>
 
-كُلُوا وَارْعَوْا أَنْعَامَكُمْ ۗ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّأُولِي النُّهَىٰ
+هُوَ اللَّهُ الْخَالِقُ الْبَارِئُ الْمُصَوِّرُ ۖ لَهُ الْأَسْمَاءُ الْحُسْنَىٰ ۚ يُسَبِّحُ لَهُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ ۖ وَهُوَ الْعَزِيزُ الْحَكِيمُ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Kuloo wairAAaw anAAamakum inna fee thalika laayatin liolee alnnuha_
+> _Huwa Allahu alkhaliqu albario almusawwiru lahu alasmao alhusna yusabbihu lahu ma fee alssamawati waalardi wahuwa alAAazeezu alhakeemu_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _˹so˺ eat and graze your cattle. Surely in this are signs for people of sound judgment._
+> _He is Allah: the Creator, the Inventor, the Shaper. He ˹alone˺ has the Most Beautiful Names. Whatever is in the heavens and the earth ˹constantly˺ glorifies Him. And He is the Almighty, All-Wise._
 
-🔗 Source: https://quran.com/20/54
+🔗 Source: https://quran.com/59/24
 
-— Rabi' al-Thani 19, 1448H
+— Rabi' al-Thani 20, 1448H
 <!-- AYAHADAY:END -->
