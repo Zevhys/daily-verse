@@ -1,9 +1,9 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-A'raf 7:25–54 (30 verses)
+Today's reading: Al-A'raf 7:55–84 (30 verses)
 
-📊 **Stats:** 7230 verses read | 238 days active
+📊 **Stats:** 7260 verses read | 239 days active
 <!-- READING:END -->
 
 ---
@@ -11,8 +11,8 @@ Today's reading: Al-A'raf 7:25–54 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Inevitable • Makkah • 96 Ayat_</sub><br>
-**Surah Al-Waqi'ah** (56:88)
+<sub>_The Poets • Makkah • 227 Ayat_</sub><br>
+**Surah Ash-Shu'ara** (26:31)
 
 <div align="center">
 
@@ -20,17 +20,17 @@ Today's reading: Al-A'raf 7:25–54 (30 verses)
 
 </div>
 
-فَأَمَّا إِن كَانَ مِنَ الْمُقَرَّبِينَ
+قَالَ فَأْتِ بِهِ إِن كُنتَ مِنَ الصَّادِقِينَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Faamma in kana mina almuqarrabeena_
+> _Qala fati bihi in kunta mina alssadiqeena_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _So, if the deceased is one of those brought near ˹to Us˺,_
+> _Pharaoh demanded, “Bring it then, if what you say is true.”_
 
-🔗 Source: https://quran.com/56/88
+🔗 Source: https://quran.com/26/31
 
-— Rabi' al-Thani 21, 1448H
+— Rabi' al-Thani 22, 1448H
 <!-- AYAHADAY:END -->
