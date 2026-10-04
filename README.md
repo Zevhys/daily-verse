@@ -1,9 +1,9 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-A'raf 7:55–84 (30 verses)
+Today's reading: Al-A'raf 7:85–114 (30 verses)
 
-📊 **Stats:** 7260 verses read | 239 days active
+📊 **Stats:** 7290 verses read | 240 days active
 <!-- READING:END -->
 
 ---
@@ -11,8 +11,8 @@ Today's reading: Al-A'raf 7:55–84 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Poets • Makkah • 227 Ayat_</sub><br>
-**Surah Ash-Shu'ara** (26:31)
+<sub>_The Winnowing Winds • Makkah • 60 Ayat_</sub><br>
+**Surah Adh-Dhariyat** (51:55)
 
 <div align="center">
 
@@ -20,17 +20,17 @@ Today's reading: Al-A'raf 7:55–84 (30 verses)
 
 </div>
 
-قَالَ فَأْتِ بِهِ إِن كُنتَ مِنَ الصَّادِقِينَ
+وَذَكِّرْ فَإِنَّ الذِّكْرَىٰ تَنفَعُ الْمُؤْمِنِينَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Qala fati bihi in kunta mina alssadiqeena_
+> _Wathakkir fainna alththikra tanfaAAu almumineena_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _Pharaoh demanded, “Bring it then, if what you say is true.”_
+> _But ˹continue to˺ remind. For certainly reminders benefit the believers._
 
-🔗 Source: https://quran.com/26/31
+🔗 Source: https://quran.com/51/55
 
-— Rabi' al-Thani 22, 1448H
+— Rabi' al-Thani 23, 1448H
 <!-- AYAHADAY:END -->
