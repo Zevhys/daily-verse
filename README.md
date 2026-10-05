@@ -1,9 +1,9 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-A'raf 7:85–114 (30 verses)
+Today's reading: Al-A'raf 7:115–144 (30 verses)
 
-📊 **Stats:** 7290 verses read | 240 days active
+📊 **Stats:** 7320 verses read | 241 days active
 <!-- READING:END -->
 
 ---
@@ -11,8 +11,8 @@ Today's reading: Al-A'raf 7:85–114 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Winnowing Winds • Makkah • 60 Ayat_</sub><br>
-**Surah Adh-Dhariyat** (51:55)
+<sub>_Hud • Makkah • 123 Ayat_</sub><br>
+**Surah Hud** (11:103)
 
 <div align="center">
 
@@ -20,17 +20,17 @@ Today's reading: Al-A'raf 7:85–114 (30 verses)
 
 </div>
 
-وَذَكِّرْ فَإِنَّ الذِّكْرَىٰ تَنفَعُ الْمُؤْمِنِينَ
+إِنَّ فِي ذَٰلِكَ لَآيَةً لِّمَنْ خَافَ عَذَابَ الْآخِرَةِ ۚ ذَٰلِكَ يَوْمٌ مَّجْمُوعٌ لَّهُ النَّاسُ وَذَٰلِكَ يَوْمٌ مَّشْهُودٌ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Wathakkir fainna alththikra tanfaAAu almumineena_
+> _Inna fee thalika laayatan liman khafa AAathaba alakhirati thalika yawmun majmooAAun lahu alnnasu wathalika yawmun mashhoodun_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _But ˹continue to˺ remind. For certainly reminders benefit the believers._
+> _Surely in this is a sign for those who fear the torment of the Hereafter. That is a Day for which humanity will be gathered and a Day ˹that will be˺ witnessed ˹by all˺._
 
-🔗 Source: https://quran.com/51/55
+🔗 Source: https://quran.com/11/103
 
-— Rabi' al-Thani 23, 1448H
+— Rabi' al-Thani 24, 1448H
 <!-- AYAHADAY:END -->
