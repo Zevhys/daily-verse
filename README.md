@@ -1,9 +1,9 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-A'raf 7:115–144 (30 verses)
+Today's reading: Al-A'raf 7:145–174 (30 verses)
 
-📊 **Stats:** 7320 verses read | 241 days active
+📊 **Stats:** 7350 verses read | 242 days active
 <!-- READING:END -->
 
 ---
@@ -11,8 +11,8 @@ Today's reading: Al-A'raf 7:115–144 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Hud • Makkah • 123 Ayat_</sub><br>
-**Surah Hud** (11:103)
+<sub>_He Frowned • Makkah • 42 Ayat_</sub><br>
+**Surah 'Abasa** (80:14)
 
 <div align="center">
 
@@ -20,17 +20,17 @@ Today's reading: Al-A'raf 7:115–144 (30 verses)
 
 </div>
 
-إِنَّ فِي ذَٰلِكَ لَآيَةً لِّمَنْ خَافَ عَذَابَ الْآخِرَةِ ۚ ذَٰلِكَ يَوْمٌ مَّجْمُوعٌ لَّهُ النَّاسُ وَذَٰلِكَ يَوْمٌ مَّشْهُودٌ
+مَّرْفُوعَةٍ مُّطَهَّرَةٍ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Inna fee thalika laayatan liman khafa AAathaba alakhirati thalika yawmun majmooAAun lahu alnnasu wathalika yawmun mashhoodun_
+> _MarfooAAatin mutahharatin_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _Surely in this is a sign for those who fear the torment of the Hereafter. That is a Day for which humanity will be gathered and a Day ˹that will be˺ witnessed ˹by all˺._
+> _highly esteemed, purified—_
 
-🔗 Source: https://quran.com/11/103
+🔗 Source: https://quran.com/80/14
 
-— Rabi' al-Thani 24, 1448H
+— Rabi' al-Thani 25, 1448H
 <!-- AYAHADAY:END -->
