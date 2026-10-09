@@ -1,9 +1,9 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-A'raf 7:205 → Al-Anfal 8:28 (30 verses)
+Today's reading: Al-Anfal 8:29–58 (30 verses)
 
-📊 **Stats:** 7410 verses read | 244 days active
+📊 **Stats:** 7440 verses read | 245 days active
 <!-- READING:END -->
 
 ---
@@ -11,8 +11,8 @@ Today's reading: Al-A'raf 7:205 → Al-Anfal 8:28 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Family of Imran • Madinah • 200 Ayat_</sub><br>
-**Surah Ali 'Imran** (3:83)
+<sub>_The Ascending Stairways • Makkah • 44 Ayat_</sub><br>
+**Surah Al-Ma'arij** (70:43)
 
 <div align="center">
 
@@ -20,17 +20,17 @@ Today's reading: Al-A'raf 7:205 → Al-Anfal 8:28 (30 verses)
 
 </div>
 
-أَفَغَيْرَ دِينِ اللَّهِ يَبْغُونَ وَلَهُ أَسْلَمَ مَن فِي السَّمَاوَاتِ وَالْأَرْضِ طَوْعًا وَكَرْهًا وَإِلَيْهِ يُرْجَعُونَ
+يَوْمَ يَخْرُجُونَ مِنَ الْأَجْدَاثِ سِرَاعًا كَأَنَّهُمْ إِلَىٰ نُصُبٍ يُوفِضُونَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Afaghayra deeni Allahi yabghoona walahu aslama man fee alssamawati waalardi tawAAan wakarhan wailayhi yurjaAAoona_
+> _Yawma yakhrujoona mina alajdathi siraAAan kaannahum ila nusubin yoofidoona_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _Do they desire a way other than Allah’s—knowing that all those in the heavens and the earth submit to His Will, willingly or unwillingly, and to Him they will ˹all˺ be returned?_
+> _the Day they will come forth from the graves swiftly, as if racing to an idol ˹for a blessing˺,_
 
-🔗 Source: https://quran.com/3/83
+🔗 Source: https://quran.com/70/43
 
-— Rabi' al-Thani 27, 1448H
+— Rabi' al-Thani 28, 1448H
 <!-- AYAHADAY:END -->
