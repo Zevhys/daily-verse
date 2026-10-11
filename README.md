@@ -1,9 +1,9 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Anfal 8:59 → At-Tawbah 9:13 (30 verses)
+Today's reading: At-Tawbah 9:14–43 (30 verses)
 
-📊 **Stats:** 7470 verses read | 246 days active
+📊 **Stats:** 7500 verses read | 247 days active
 <!-- READING:END -->
 
 ---
@@ -11,8 +11,8 @@ Today's reading: Al-Anfal 8:59 → At-Tawbah 9:13 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Rocky Tract • Makkah • 99 Ayat_</sub><br>
-**Surah Al-Hijr** (15:65)
+<sub>_Ta-Ha • Makkah • 135 Ayat_</sub><br>
+**Surah Taha** (20:23)
 
 <div align="center">
 
@@ -20,17 +20,17 @@ Today's reading: Al-Anfal 8:59 → At-Tawbah 9:13 (30 verses)
 
 </div>
 
-فَأَسْرِ بِأَهْلِكَ بِقِطْعٍ مِّنَ اللَّيْلِ وَاتَّبِعْ أَدْبَارَهُمْ وَلَا يَلْتَفِتْ مِنكُمْ أَحَدٌ وَامْضُوا حَيْثُ تُؤْمَرُونَ
+لِنُرِيَكَ مِنْ آيَاتِنَا الْكُبْرَى
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Faasri biahlika biqitAAin mina allayli waittabiAA adbarahum wala yaltafit minkum ahadun waimdoo haythu tumaroona_
+> _Linuriyaka min ayatina alkubra_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _So travel with your family in the dark of night, and follow ˹closely˺ behind them. Do not let any of you look back, and go where you are commanded.”_
+> _so that We may show you some of Our greatest signs._
 
-🔗 Source: https://quran.com/15/65
+🔗 Source: https://quran.com/20/23
 
-— Rabi' al-Thani 29, 1448H
+— Rabi' al-Thani 30, 1448H
 <!-- AYAHADAY:END -->
