@@ -1,9 +1,9 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: At-Tawbah 9:14–43 (30 verses)
+Today's reading: At-Tawbah 9:44–73 (30 verses)
 
-📊 **Stats:** 7500 verses read | 247 days active
+📊 **Stats:** 7530 verses read | 248 days active
 <!-- READING:END -->
 
 ---
@@ -11,8 +11,8 @@ Today's reading: At-Tawbah 9:14–43 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Ta-Ha • Makkah • 135 Ayat_</sub><br>
-**Surah Taha** (20:23)
+<sub>_The Women • Madinah • 176 Ayat_</sub><br>
+**Surah An-Nisa** (4:161)
 
 <div align="center">
 
@@ -20,17 +20,17 @@ Today's reading: At-Tawbah 9:14–43 (30 verses)
 
 </div>
 
-لِنُرِيَكَ مِنْ آيَاتِنَا الْكُبْرَى
+وَأَخْذِهِمُ الرِّبَا وَقَدْ نُهُوا عَنْهُ وَأَكْلِهِمْ أَمْوَالَ النَّاسِ بِالْبَاطِلِ ۚ وَأَعْتَدْنَا لِلْكَافِرِينَ مِنْهُمْ عَذَابًا أَلِيمًا
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Linuriyaka min ayatina alkubra_
+> _Waakhthihimu alrriba waqad nuhoo AAanhu waaklihim amwala alnnasi bialbatili waaAAtadna lilkafireena minhum AAathaban aleeman_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _so that We may show you some of Our greatest signs._
+> _taking interest despite its prohibition, and consuming people’s wealth unjustly. We have prepared for the disbelievers among them a painful punishment._
 
-🔗 Source: https://quran.com/20/23
+🔗 Source: https://quran.com/4/161
 
-— Rabi' al-Thani 30, 1448H
+— Jumada al-Ula 1, 1448H
 <!-- AYAHADAY:END -->
