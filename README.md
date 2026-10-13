@@ -1,9 +1,9 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: At-Tawbah 9:44–73 (30 verses)
+Today's reading: At-Tawbah 9:74–103 (30 verses)
 
-📊 **Stats:** 7530 verses read | 248 days active
+📊 **Stats:** 7560 verses read | 249 days active
 <!-- READING:END -->
 
 ---
@@ -11,8 +11,8 @@ Today's reading: At-Tawbah 9:44–73 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Women • Madinah • 176 Ayat_</sub><br>
-**Surah An-Nisa** (4:161)
+<sub>_The Bee • Makkah • 128 Ayat_</sub><br>
+**Surah An-Nahl** (16:7)
 
 <div align="center">
 
@@ -20,17 +20,17 @@ Today's reading: At-Tawbah 9:44–73 (30 verses)
 
 </div>
 
-وَأَخْذِهِمُ الرِّبَا وَقَدْ نُهُوا عَنْهُ وَأَكْلِهِمْ أَمْوَالَ النَّاسِ بِالْبَاطِلِ ۚ وَأَعْتَدْنَا لِلْكَافِرِينَ مِنْهُمْ عَذَابًا أَلِيمًا
+وَتَحْمِلُ أَثْقَالَكُمْ إِلَىٰ بَلَدٍ لَّمْ تَكُونُوا بَالِغِيهِ إِلَّا بِشِقِّ الْأَنفُسِ ۚ إِنَّ رَبَّكُمْ لَرَءُوفٌ رَّحِيمٌ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Waakhthihimu alrriba waqad nuhoo AAanhu waaklihim amwala alnnasi bialbatili waaAAtadna lilkafireena minhum AAathaban aleeman_
+> _Watahmilu athqalakum ila baladin lam takoonoo baligheehi illa bishiqqi alanfusi inna rabbakum laraoofun raheemun_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _taking interest despite its prohibition, and consuming people’s wealth unjustly. We have prepared for the disbelievers among them a painful punishment._
+> _And they carry your loads to ˹distant˺ lands which you could not otherwise reach without great hardship. Surely your Lord is Ever Gracious, Most Merciful._
 
-🔗 Source: https://quran.com/4/161
+🔗 Source: https://quran.com/16/7
 
-— Jumada al-Ula 1, 1448H
+— Jumada al-Ula 2, 1448H
 <!-- AYAHADAY:END -->
