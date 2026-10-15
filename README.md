@@ -1,9 +1,9 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: At-Tawbah 9:104 → Yunus 10:4 (30 verses)
+Today's reading: Yunus 10:5–34 (30 verses)
 
-📊 **Stats:** 7590 verses read | 250 days active
+📊 **Stats:** 7620 verses read | 251 days active
 <!-- READING:END -->
 
 ---
@@ -11,8 +11,8 @@ Today's reading: At-Tawbah 9:104 → Yunus 10:4 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cattle • Makkah • 165 Ayat_</sub><br>
-**Surah Al-An'am** (6:39)
+<sub>_The Poets • Makkah • 227 Ayat_</sub><br>
+**Surah Ash-Shu'ara** (26:182)
 
 <div align="center">
 
@@ -20,17 +20,17 @@ Today's reading: At-Tawbah 9:104 → Yunus 10:4 (30 verses)
 
 </div>
 
-وَالَّذِينَ كَذَّبُوا بِآيَاتِنَا صُمٌّ وَبُكْمٌ فِي الظُّلُمَاتِ ۗ مَن يَشَإِ اللَّهُ يُضْلِلْهُ وَمَن يَشَأْ يَجْعَلْهُ عَلَىٰ صِرَاطٍ مُّسْتَقِيمٍ
+وَزِنُوا بِالْقِسْطَاسِ الْمُسْتَقِيمِ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Waallatheena kaththaboo biayatina summun wabukmun fee alththulumati man yashai Allahu yudlilhu waman yasha yajAAalhu AAala siratin mustaqeemin_
+> _Wazinoo bialqistasi almustaqeemi_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _Those who deny Our signs are ˹wilfully˺ deaf and dumb—lost in darkness. Allah leaves whoever He wills to stray and guides whoever He wills to the Straight Way._
+> _Weigh with an even balance,_
 
-🔗 Source: https://quran.com/6/39
+🔗 Source: https://quran.com/26/182
 
-— Jumada al-Ula 3, 1448H
+— Jumada al-Ula 4, 1448H
 <!-- AYAHADAY:END -->
