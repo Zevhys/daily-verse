@@ -1,9 +1,9 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Yunus 10:5–34 (30 verses)
+Today's reading: Yunus 10:35–64 (30 verses)
 
-📊 **Stats:** 7620 verses read | 251 days active
+📊 **Stats:** 7650 verses read | 252 days active
 <!-- READING:END -->
 
 ---
@@ -11,8 +11,8 @@ Today's reading: Yunus 10:5–34 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Poets • Makkah • 227 Ayat_</sub><br>
-**Surah Ash-Shu'ara** (26:182)
+<sub>_Mary • Makkah • 98 Ayat_</sub><br>
+**Surah Maryam** (19:28)
 
 <div align="center">
 
@@ -20,17 +20,17 @@ Today's reading: Yunus 10:5–34 (30 verses)
 
 </div>
 
-وَزِنُوا بِالْقِسْطَاسِ الْمُسْتَقِيمِ
+يَا أُخْتَ هَارُونَ مَا كَانَ أَبُوكِ امْرَأَ سَوْءٍ وَمَا كَانَتْ أُمُّكِ بَغِيًّا
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Wazinoo bialqistasi almustaqeemi_
+> _Ya okhta haroona ma kana abooki imraa sawin wama kanat ommuki baghiyyan_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _Weigh with an even balance,_
+> _O  sister of Aaron! Your father was not an indecent man, nor was your mother unchaste.”_
 
-🔗 Source: https://quran.com/26/182
+🔗 Source: https://quran.com/19/28
 
-— Jumada al-Ula 4, 1448H
+— Jumada al-Ula 5, 1448H
 <!-- AYAHADAY:END -->
