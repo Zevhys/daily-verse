@@ -1,9 +1,9 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Yunus 10:65–94 (30 verses)
+Today's reading: Yunus 10:95 → Hud 11:15 (30 verses)
 
-📊 **Stats:** 7680 verses read | 253 days active
+📊 **Stats:** 7710 verses read | 254 days active
 <!-- READING:END -->
 
 ---
@@ -11,8 +11,8 @@ Today's reading: Yunus 10:65–94 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Ya Sin • Makkah • 83 Ayat_</sub><br>
-**Surah Ya-Sin** (36:10)
+<sub>_The Mutual Disillusion • Madinah • 18 Ayat_</sub><br>
+**Surah At-Taghabun** (64:9)
 
 <div align="center">
 
@@ -20,17 +20,17 @@ Today's reading: Yunus 10:65–94 (30 verses)
 
 </div>
 
-وَسَوَاءٌ عَلَيْهِمْ أَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ
+يَوْمَ يَجْمَعُكُمْ لِيَوْمِ الْجَمْعِ ۖ ذَٰلِكَ يَوْمُ التَّغَابُنِ ۗ وَمَن يُؤْمِن بِاللَّهِ وَيَعْمَلْ صَالِحًا يُكَفِّرْ عَنْهُ سَيِّئَاتِهِ وَيُدْخِلْهُ جَنَّاتٍ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا ۚ ذَٰلِكَ الْفَوْزُ الْعَظِيمُ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Wasawaon AAalayhim aanthartahum am lam tunthirhum la yuminoona_
+> _Yawma yajmaAAukum liyawmi aljamAAi thalika yawmu alttaghabuni waman yumin biAllahi wayaAAmal salihan yukaffir AAanhu sayyiatihi wayudkhilhu jannatin tajree min tahtiha alanharu khalideena feeha abadan thalika alfawzu alAAatheemu_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _It is the same whether you warn them or not—they will never believe._
+> _˹Consider˺ the Day He will gather you ˹all˺ for the Day of Gathering—that will be the Day of mutual loss and gain. So whoever believes in Allah and does good, He will absolve them of their sins and admit them into Gardens under which rivers flow, to stay there for ever and ever. That is the ultimate triumph._
 
-🔗 Source: https://quran.com/36/10
+🔗 Source: https://quran.com/64/9
 
-— Jumada al-Ula 6, 1448H
+— Jumada al-Ula 7, 1448H
 <!-- AYAHADAY:END -->
