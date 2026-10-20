@@ -1,9 +1,9 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Hud 11:16–45 (30 verses)
+Today's reading: Hud 11:46–75 (30 verses)
 
-📊 **Stats:** 7740 verses read | 255 days active
+📊 **Stats:** 7770 verses read | 256 days active
 <!-- READING:END -->
 
 ---
@@ -11,26 +11,20 @@ Today's reading: Hud 11:16–45 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Poets • Makkah • 227 Ayat_</sub><br>
-**Surah Ash-Shu'ara** (26:57)
+<sub>_The Repentance • Madinah • 129 Ayat_</sub><br>
+**Surah At-Tawbah** (9:98)
 
-<div align="center">
-
-بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
-
-</div>
-
-فَأَخْرَجْنَاهُم مِّن جَنَّاتٍ وَعُيُونٍ
+وَمِنَ الْأَعْرَابِ مَن يَتَّخِذُ مَا يُنفِقُ مَغْرَمًا وَيَتَرَبَّصُ بِكُمُ الدَّوَائِرَ ۚ عَلَيْهِمْ دَائِرَةُ السَّوْءِ ۗ وَاللَّهُ سَمِيعٌ عَلِيمٌ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Faakhrajnahum min jannatin waAAuyoonin_
+> _Wamina alaAArabi man yattakhithu ma yunfiqu maghraman wayatarabbasu bikumu alddawaira AAalayhim dairatu alssawi waAllahu sameeAAun AAaleemun_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _So We lured the tyrants out of ˹their˺ gardens, springs,_
+> _And among the nomads are those who consider what they donate to be a loss and await your misfortune. May ill-fortune befall them! And Allah is All-Hearing, All-Knowing._
 
-🔗 Source: https://quran.com/26/57
+🔗 Source: https://quran.com/9/98
 
-— Jumada al-Ula 8, 1448H
+— Jumada al-Ula 9, 1448H
 <!-- AYAHADAY:END -->
