@@ -1,9 +1,9 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Hud 11:76–105 (30 verses)
+Today's reading: Hud 11:106 → Yusuf 12:12 (30 verses)
 
-📊 **Stats:** 7800 verses read | 257 days active
+📊 **Stats:** 7830 verses read | 258 days active
 <!-- READING:END -->
 
 ---
@@ -11,8 +11,8 @@ Today's reading: Hud 11:76–105 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Poets • Makkah • 227 Ayat_</sub><br>
-**Surah Ash-Shu'ara** (26:101)
+<sub>_The Criterian • Makkah • 77 Ayat_</sub><br>
+**Surah Al-Furqan** (25:56)
 
 <div align="center">
 
@@ -20,17 +20,17 @@ Today's reading: Hud 11:76–105 (30 verses)
 
 </div>
 
-وَلَا صَدِيقٍ حَمِيمٍ
+وَمَا أَرْسَلْنَاكَ إِلَّا مُبَشِّرًا وَنَذِيرًا
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Wala sadeeqin hameemin_
+> _Wama arsalnaka illa mubashshiran wanatheeran_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _nor a close friend._
+> _And We have sent you ˹O Prophet˺ only as a deliverer of good news and a warner._
 
-🔗 Source: https://quran.com/26/101
+🔗 Source: https://quran.com/25/56
 
-— Jumada al-Ula 10, 1448H
+— Jumada al-Ula 11, 1448H
 <!-- AYAHADAY:END -->
