@@ -1,9 +1,9 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Hud 11:106 → Yusuf 12:12 (30 verses)
+Today's reading: Yusuf 12:13–42 (30 verses)
 
-📊 **Stats:** 7830 verses read | 258 days active
+📊 **Stats:** 7860 verses read | 259 days active
 <!-- READING:END -->
 
 ---
@@ -11,8 +11,8 @@ Today's reading: Hud 11:106 → Yusuf 12:12 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Criterian • Makkah • 77 Ayat_</sub><br>
-**Surah Al-Furqan** (25:56)
+<sub>_The Thunder • Makkah • 43 Ayat_</sub><br>
+**Surah Ar-Ra'd** (13:10)
 
 <div align="center">
 
@@ -20,17 +20,17 @@ Today's reading: Hud 11:106 → Yusuf 12:12 (30 verses)
 
 </div>
 
-وَمَا أَرْسَلْنَاكَ إِلَّا مُبَشِّرًا وَنَذِيرًا
+سَوَاءٌ مِّنكُم مَّنْ أَسَرَّ الْقَوْلَ وَمَن جَهَرَ بِهِ وَمَنْ هُوَ مُسْتَخْفٍ بِاللَّيْلِ وَسَارِبٌ بِالنَّهَارِ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Wama arsalnaka illa mubashshiran wanatheeran_
+> _Sawaon minkum man asarra alqawla waman jahara bihi waman huwa mustakhfin biallayli wasaribun bialnnahari_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _And We have sent you ˹O Prophet˺ only as a deliverer of good news and a warner._
+> _It is the same ˹to Him˺ whether any of you speaks secretly or openly, whether one hides in the darkness of night or goes about in broad daylight._
 
-🔗 Source: https://quran.com/25/56
+🔗 Source: https://quran.com/13/10
 
-— Jumada al-Ula 11, 1448H
+— Jumada al-Ula 12, 1448H
 <!-- AYAHADAY:END -->
