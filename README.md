@@ -1,9 +1,9 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Yusuf 12:13–42 (30 verses)
+Today's reading: Yusuf 12:43–72 (30 verses)
 
-📊 **Stats:** 7860 verses read | 259 days active
+📊 **Stats:** 7890 verses read | 260 days active
 <!-- READING:END -->
 
 ---
@@ -11,8 +11,8 @@ Today's reading: Yusuf 12:13–42 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Thunder • Makkah • 43 Ayat_</sub><br>
-**Surah Ar-Ra'd** (13:10)
+<sub>_The Enshrouded One • Makkah • 20 Ayat_</sub><br>
+**Surah Al-Muzzammil** (73:16)
 
 <div align="center">
 
@@ -20,17 +20,17 @@ Today's reading: Yusuf 12:13–42 (30 verses)
 
 </div>
 
-سَوَاءٌ مِّنكُم مَّنْ أَسَرَّ الْقَوْلَ وَمَن جَهَرَ بِهِ وَمَنْ هُوَ مُسْتَخْفٍ بِاللَّيْلِ وَسَارِبٌ بِالنَّهَارِ
+فَعَصَىٰ فِرْعَوْنُ الرَّسُولَ فَأَخَذْنَاهُ أَخْذًا وَبِيلًا
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Sawaon minkum man asarra alqawla waman jahara bihi waman huwa mustakhfin biallayli wasaribun bialnnahari_
+> _FaAAasa firAAawnu alrrasoola faakhathnahu akhthan wabeelan_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _It is the same ˹to Him˺ whether any of you speaks secretly or openly, whether one hides in the darkness of night or goes about in broad daylight._
+> _But Pharaoh disobeyed the messenger, so We seized him with a stern grip._
 
-🔗 Source: https://quran.com/13/10
+🔗 Source: https://quran.com/73/16
 
-— Jumada al-Ula 12, 1448H
+— Jumada al-Ula 13, 1448H
 <!-- AYAHADAY:END -->
