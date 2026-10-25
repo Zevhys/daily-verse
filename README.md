@@ -1,9 +1,9 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Yusuf 12:43–72 (30 verses)
+Today's reading: Yusuf 12:73–102 (30 verses)
 
-📊 **Stats:** 7890 verses read | 260 days active
+📊 **Stats:** 7920 verses read | 261 days active
 <!-- READING:END -->
 
 ---
@@ -11,8 +11,8 @@ Today's reading: Yusuf 12:43–72 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Enshrouded One • Makkah • 20 Ayat_</sub><br>
-**Surah Al-Muzzammil** (73:16)
+<sub>_The Cave • Makkah • 110 Ayat_</sub><br>
+**Surah Al-Kahf** (18:48)
 
 <div align="center">
 
@@ -20,17 +20,17 @@ Today's reading: Yusuf 12:43–72 (30 verses)
 
 </div>
 
-فَعَصَىٰ فِرْعَوْنُ الرَّسُولَ فَأَخَذْنَاهُ أَخْذًا وَبِيلًا
+وَعُرِضُوا عَلَىٰ رَبِّكَ صَفًّا لَّقَدْ جِئْتُمُونَا كَمَا خَلَقْنَاكُمْ أَوَّلَ مَرَّةٍ ۚ بَلْ زَعَمْتُمْ أَلَّن نَّجْعَلَ لَكُم مَّوْعِدًا
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _FaAAasa firAAawnu alrrasoola faakhathnahu akhthan wabeelan_
+> _WaAAuridoo AAala rabbika saffan laqad jitumoona kama khalaqnakum awwala marratin bal zaAAamtum allan najAAala lakum mawAAidan_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _But Pharaoh disobeyed the messenger, so We seized him with a stern grip._
+> _They will be presented before your Lord in rows, ˹and the deniers will be told,˺ “You have surely returned to Us ˹all alone˺ as We created you the first time, although you ˹always˺ claimed that We would never appoint a time for your return.”_
 
-🔗 Source: https://quran.com/73/16
+🔗 Source: https://quran.com/18/48
 
-— Jumada al-Ula 13, 1448H
+— Jumada al-Ula 14, 1448H
 <!-- AYAHADAY:END -->
