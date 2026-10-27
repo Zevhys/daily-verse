@@ -1,9 +1,9 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Yusuf 12:103 → Ar-Ra'd 13:21 (30 verses)
+Today's reading: Ar-Ra'd 13:22 → Ibrahim 14:8 (30 verses)
 
-📊 **Stats:** 7950 verses read | 262 days active
+📊 **Stats:** 7980 verses read | 263 days active
 <!-- READING:END -->
 
 ---
@@ -11,8 +11,8 @@ Today's reading: Yusuf 12:103 → Ar-Ra'd 13:21 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Those who drag forth • Makkah • 46 Ayat_</sub><br>
-**Surah An-Nazi'at** (79:38)
+<sub>_The Man • Madinah • 31 Ayat_</sub><br>
+**Surah Al-Insan** (76:9)
 
 <div align="center">
 
@@ -20,17 +20,17 @@ Today's reading: Yusuf 12:103 → Ar-Ra'd 13:21 (30 verses)
 
 </div>
 
-وَآثَرَ الْحَيَاةَ الدُّنْيَا
+إِنَّمَا نُطْعِمُكُمْ لِوَجْهِ اللَّهِ لَا نُرِيدُ مِنكُمْ جَزَاءً وَلَا شُكُورًا
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Waathara alhayata alddunya_
+> _Innama nutAAimukum liwajhi Allahi la nureedu minkum jazaan wala shukooran_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _and preferred the ˹fleeting˺ life of this world,_
+> _˹saying to themselves,˺ “We feed you only for the sake of Allah, seeking neither reward nor thanks from you._
 
-🔗 Source: https://quran.com/79/38
+🔗 Source: https://quran.com/76/9
 
-— Jumada al-Ula 15, 1448H
+— Jumada al-Ula 16, 1448H
 <!-- AYAHADAY:END -->
