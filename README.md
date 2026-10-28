@@ -1,9 +1,9 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Ar-Ra'd 13:22 → Ibrahim 14:8 (30 verses)
+Today's reading: Ibrahim 14:9–38 (30 verses)
 
-📊 **Stats:** 7980 verses read | 263 days active
+📊 **Stats:** 8010 verses read | 264 days active
 <!-- READING:END -->
 
 ---
@@ -11,8 +11,8 @@ Today's reading: Ar-Ra'd 13:22 → Ibrahim 14:8 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Man • Madinah • 31 Ayat_</sub><br>
-**Surah Al-Insan** (76:9)
+<sub>_The Pen • Makkah • 52 Ayat_</sub><br>
+**Surah Al-Qalam** (68:38)
 
 <div align="center">
 
@@ -20,17 +20,17 @@ Today's reading: Ar-Ra'd 13:22 → Ibrahim 14:8 (30 verses)
 
 </div>
 
-إِنَّمَا نُطْعِمُكُمْ لِوَجْهِ اللَّهِ لَا نُرِيدُ مِنكُمْ جَزَاءً وَلَا شُكُورًا
+إِنَّ لَكُمْ فِيهِ لَمَا تَخَيَّرُونَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Innama nutAAimukum liwajhi Allahi la nureedu minkum jazaan wala shukooran_
+> _Inna lakum feehi lama takhayyaroona_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _˹saying to themselves,˺ “We feed you only for the sake of Allah, seeking neither reward nor thanks from you._
+> _that you will have whatever you choose?_
 
-🔗 Source: https://quran.com/76/9
+🔗 Source: https://quran.com/68/38
 
-— Jumada al-Ula 16, 1448H
+— Jumada al-Ula 17, 1448H
 <!-- AYAHADAY:END -->
