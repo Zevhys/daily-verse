@@ -1,9 +1,9 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Hijr 15:47–76 (30 verses)
+Today's reading: Al-Hijr 15:77 → An-Nahl 16:7 (30 verses)
 
-📊 **Stats:** 8100 verses read | 267 days active
+📊 **Stats:** 8130 verses read | 268 days active
 <!-- READING:END -->
 
 ---
@@ -11,8 +11,8 @@ Today's reading: Al-Hijr 15:47–76 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Mutual Disillusion • Madinah • 18 Ayat_</sub><br>
-**Surah At-Taghabun** (64:3)
+<sub>_Jonah • Makkah • 109 Ayat_</sub><br>
+**Surah Yunus** (10:38)
 
 <div align="center">
 
@@ -20,17 +20,17 @@ Today's reading: Al-Hijr 15:47–76 (30 verses)
 
 </div>
 
-خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ بِالْحَقِّ وَصَوَّرَكُمْ فَأَحْسَنَ صُوَرَكُمْ ۖ وَإِلَيْهِ الْمَصِيرُ
+أَمْ يَقُولُونَ افْتَرَاهُ ۖ قُلْ فَأْتُوا بِسُورَةٍ مِّثْلِهِ وَادْعُوا مَنِ اسْتَطَعْتُم مِّن دُونِ اللَّهِ إِن كُنتُمْ صَادِقِينَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Khalaqa alssamawati waalarda bialhaqqi wasawwarakum faahsana suwarakum wailayhi almaseeru_
+> _Am yaqooloona iftarahu qul fatoo bisooratin mithlihi waodAAoo mani istataAAtum min dooni Allahi in kuntum sadiqeena_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _He created the heavens and the earth for a purpose. He shaped you ˹in the womb˺, perfecting your form. And to Him is the final return._
+> _Or do they claim, “He made it up!”? Tell them ˹O Prophet˺, “Produce one sûrah like it then, and seek help from whoever you can—other than Allah—if what you say is true!”_
 
-🔗 Source: https://quran.com/64/3
+🔗 Source: https://quran.com/10/38
 
-— Jumada al-Ula 20, 1448H
+— Jumada al-Ula 21, 1448H
 <!-- AYAHADAY:END -->
