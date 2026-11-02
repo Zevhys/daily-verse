@@ -1,9 +1,9 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Hijr 15:77 → An-Nahl 16:7 (30 verses)
+Today's reading: An-Nahl 16:8–37 (30 verses)
 
-📊 **Stats:** 8130 verses read | 268 days active
+📊 **Stats:** 8160 verses read | 269 days active
 <!-- READING:END -->
 
 ---
@@ -11,8 +11,8 @@ Today's reading: Al-Hijr 15:77 → An-Nahl 16:7 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Jonah • Makkah • 109 Ayat_</sub><br>
-**Surah Yunus** (10:38)
+<sub>_The Ornaments of Gold • Makkah • 89 Ayat_</sub><br>
+**Surah Az-Zukhruf** (43:51)
 
 <div align="center">
 
@@ -20,17 +20,17 @@ Today's reading: Al-Hijr 15:77 → An-Nahl 16:7 (30 verses)
 
 </div>
 
-أَمْ يَقُولُونَ افْتَرَاهُ ۖ قُلْ فَأْتُوا بِسُورَةٍ مِّثْلِهِ وَادْعُوا مَنِ اسْتَطَعْتُم مِّن دُونِ اللَّهِ إِن كُنتُمْ صَادِقِينَ
+وَنَادَىٰ فِرْعَوْنُ فِي قَوْمِهِ قَالَ يَا قَوْمِ أَلَيْسَ لِي مُلْكُ مِصْرَ وَهَٰذِهِ الْأَنْهَارُ تَجْرِي مِن تَحْتِي ۖ أَفَلَا تُبْصِرُونَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Am yaqooloona iftarahu qul fatoo bisooratin mithlihi waodAAoo mani istataAAtum min dooni Allahi in kuntum sadiqeena_
+> _Wanada firAAawnu fee qawmihi qala ya qawmi alaysa lee mulku misra wahathihi alanharu tajree min tahtee afala tubsiroona_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _Or do they claim, “He made it up!”? Tell them ˹O Prophet˺, “Produce one sûrah like it then, and seek help from whoever you can—other than Allah—if what you say is true!”_
+> _And Pharaoh called out to his people, boasting, “O my people! Am I not sovereign over Egypt as well as ˹all˺ these streams flowing at my feet? Can you not see?_
 
-🔗 Source: https://quran.com/10/38
+🔗 Source: https://quran.com/43/51
 
-— Jumada al-Ula 21, 1448H
+— Jumada al-Ula 22, 1448H
 <!-- AYAHADAY:END -->
