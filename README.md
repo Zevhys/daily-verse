@@ -1,9 +1,9 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: An-Nahl 16:8–37 (30 verses)
+Today's reading: An-Nahl 16:38–67 (30 verses)
 
-📊 **Stats:** 8160 verses read | 269 days active
+📊 **Stats:** 8190 verses read | 270 days active
 <!-- READING:END -->
 
 ---
@@ -11,8 +11,8 @@ Today's reading: An-Nahl 16:8–37 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Ornaments of Gold • Makkah • 89 Ayat_</sub><br>
-**Surah Az-Zukhruf** (43:51)
+<sub>_The Overwhelming • Makkah • 26 Ayat_</sub><br>
+**Surah Al-Ghashiyah** (88:7)
 
 <div align="center">
 
@@ -20,17 +20,17 @@ Today's reading: An-Nahl 16:8–37 (30 verses)
 
 </div>
 
-وَنَادَىٰ فِرْعَوْنُ فِي قَوْمِهِ قَالَ يَا قَوْمِ أَلَيْسَ لِي مُلْكُ مِصْرَ وَهَٰذِهِ الْأَنْهَارُ تَجْرِي مِن تَحْتِي ۖ أَفَلَا تُبْصِرُونَ
+لَّا يُسْمِنُ وَلَا يُغْنِي مِن جُوعٍ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Wanada firAAawnu fee qawmihi qala ya qawmi alaysa lee mulku misra wahathihi alanharu tajree min tahtee afala tubsiroona_
+> _La yusminu wala yughnee min jooAAin_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _And Pharaoh called out to his people, boasting, “O my people! Am I not sovereign over Egypt as well as ˹all˺ these streams flowing at my feet? Can you not see?_
+> _neither nourishing nor satisfying hunger._
 
-🔗 Source: https://quran.com/43/51
+🔗 Source: https://quran.com/88/7
 
-— Jumada al-Ula 22, 1448H
+— Jumada al-Ula 23, 1448H
 <!-- AYAHADAY:END -->
