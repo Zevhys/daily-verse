@@ -1,9 +1,9 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: An-Nahl 16:128 → Al-Isra 17:29 (30 verses)
+Today's reading: Al-Isra 17:30–59 (30 verses)
 
-📊 **Stats:** 8280 verses read | 273 days active
+📊 **Stats:** 8310 verses read | 274 days active
 <!-- READING:END -->
 
 ---
@@ -11,8 +11,8 @@ Today's reading: An-Nahl 16:128 → Al-Isra 17:29 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Ya Sin • Makkah • 83 Ayat_</sub><br>
-**Surah Ya-Sin** (36:82)
+<sub>_The Poets • Makkah • 227 Ayat_</sub><br>
+**Surah Ash-Shu'ara** (26:177)
 
 <div align="center">
 
@@ -20,17 +20,17 @@ Today's reading: An-Nahl 16:128 → Al-Isra 17:29 (30 verses)
 
 </div>
 
-إِنَّمَا أَمْرُهُ إِذَا أَرَادَ شَيْئًا أَن يَقُولَ لَهُ كُن فَيَكُونُ
+إِذْ قَالَ لَهُمْ شُعَيْبٌ أَلَا تَتَّقُونَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Innama amruhu itha arada shayan an yaqoola lahu kun fayakoonu_
+> _Ith qala lahum shuAAaybun ala tattaqoona_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _All it takes, when He wills something ˹to be˺, is simply to say to it: “Be!” And it is!_
+> _when Shu’aib said to them, “Will you not fear ˹Allah˺?_
 
-🔗 Source: https://quran.com/36/82
+🔗 Source: https://quran.com/26/177
 
-— Jumada al-Ula 26, 1448H
+— Jumada al-Ula 27, 1448H
 <!-- AYAHADAY:END -->
