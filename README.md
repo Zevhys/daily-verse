@@ -1,9 +1,9 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Isra 17:30–59 (30 verses)
+Today's reading: Al-Isra 17:60–89 (30 verses)
 
-📊 **Stats:** 8310 verses read | 274 days active
+📊 **Stats:** 8340 verses read | 275 days active
 <!-- READING:END -->
 
 ---
@@ -11,8 +11,8 @@ Today's reading: Al-Isra 17:30–59 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Poets • Makkah • 227 Ayat_</sub><br>
-**Surah Ash-Shu'ara** (26:177)
+<sub>_The Cave • Makkah • 110 Ayat_</sub><br>
+**Surah Al-Kahf** (18:72)
 
 <div align="center">
 
@@ -20,17 +20,17 @@ Today's reading: Al-Isra 17:30–59 (30 verses)
 
 </div>
 
-إِذْ قَالَ لَهُمْ شُعَيْبٌ أَلَا تَتَّقُونَ
+قَالَ أَلَمْ أَقُلْ إِنَّكَ لَن تَسْتَطِيعَ مَعِيَ صَبْرًا
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Ith qala lahum shuAAaybun ala tattaqoona_
+> _Qala alam aqul innaka lan tastateeAAa maAAiya sabran_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _when Shu’aib said to them, “Will you not fear ˹Allah˺?_
+> _He replied, “Did I not say that you cannot have patience with me?”_
 
-🔗 Source: https://quran.com/26/177
+🔗 Source: https://quran.com/18/72
 
-— Jumada al-Ula 27, 1448H
+— Jumada al-Ula 28, 1448H
 <!-- AYAHADAY:END -->
