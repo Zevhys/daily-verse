@@ -1,9 +1,9 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Isra 17:90 → Al-Kahf 18:8 (30 verses)
+Today's reading: Al-Kahf 18:9–38 (30 verses)
 
-📊 **Stats:** 8370 verses read | 276 days active
+📊 **Stats:** 8400 verses read | 277 days active
 <!-- READING:END -->
 
 ---
@@ -11,8 +11,8 @@ Today's reading: Al-Isra 17:90 → Al-Kahf 18:8 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Sovereignty • Makkah • 30 Ayat_</sub><br>
-**Surah Al-Mulk** (67:2)
+<sub>_The Emissaries • Makkah • 50 Ayat_</sub><br>
+**Surah Al-Mursalat** (77:16)
 
 <div align="center">
 
@@ -20,17 +20,17 @@ Today's reading: Al-Isra 17:90 → Al-Kahf 18:8 (30 verses)
 
 </div>
 
-الَّذِي خَلَقَ الْمَوْتَ وَالْحَيَاةَ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا ۚ وَهُوَ الْعَزِيزُ الْغَفُورُ
+أَلَمْ نُهْلِكِ الْأَوَّلِينَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Allathee khalaqa almawta waalhayata liyabluwakum ayyukum ahsanu AAamalan wahuwa alAAazeezu alghafooru_
+> _Alam nuhliki alawwaleena_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _˹He is the One˺ Who created death and life in order to test which of you is best in deeds. And He is the Almighty, All-Forgiving._
+> _Did We not destroy earlier disbelievers?_
 
-🔗 Source: https://quran.com/67/2
+🔗 Source: https://quran.com/77/16
 
-— Jumada al-Ula 29, 1448H
+— Jumada al-Ula 30, 1448H
 <!-- AYAHADAY:END -->
