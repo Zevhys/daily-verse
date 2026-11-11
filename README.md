@@ -1,9 +1,9 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Kahf 18:9–38 (30 verses)
+Today's reading: Al-Kahf 18:39–68 (30 verses)
 
-📊 **Stats:** 8400 verses read | 277 days active
+📊 **Stats:** 8430 verses read | 278 days active
 <!-- READING:END -->
 
 ---
@@ -11,8 +11,8 @@ Today's reading: Al-Kahf 18:9–38 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Emissaries • Makkah • 50 Ayat_</sub><br>
-**Surah Al-Mursalat** (77:16)
+<sub>_Muhammad • Madinah • 38 Ayat_</sub><br>
+**Surah Muhammad** (47:18)
 
 <div align="center">
 
@@ -20,17 +20,17 @@ Today's reading: Al-Kahf 18:9–38 (30 verses)
 
 </div>
 
-أَلَمْ نُهْلِكِ الْأَوَّلِينَ
+فَهَلْ يَنظُرُونَ إِلَّا السَّاعَةَ أَن تَأْتِيَهُم بَغْتَةً ۖ فَقَدْ جَاءَ أَشْرَاطُهَا ۚ فَأَنَّىٰ لَهُمْ إِذَا جَاءَتْهُمْ ذِكْرَاهُمْ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Alam nuhliki alawwaleena_
+> _Fahal yanthuroona illa alssaAAata an tatiyahum baghtatan faqad jaa ashratuha faanna lahum itha jaathum thikrahum_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _Did We not destroy earlier disbelievers?_
+> _Are they only waiting for the Hour to take them by surprise? Yet ˹some of˺ its signs have already come. Once it actually befalls them, will it not be too late to be mindful?_
 
-🔗 Source: https://quran.com/77/16
+🔗 Source: https://quran.com/47/18
 
-— Jumada al-Ula 30, 1448H
+— Jumada al-Akhirah 1, 1448H
 <!-- AYAHADAY:END -->
