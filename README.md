@@ -1,9 +1,9 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Kahf 18:69–98 (30 verses)
+Today's reading: Al-Kahf 18:99 → Maryam 19:18 (30 verses)
 
-📊 **Stats:** 8460 verses read | 279 days active
+📊 **Stats:** 8490 verses read | 280 days active
 <!-- READING:END -->
 
 ---
@@ -11,8 +11,8 @@ Today's reading: Al-Kahf 18:69–98 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Abrahim • Makkah • 52 Ayat_</sub><br>
-**Surah Ibrahim** (14:50)
+<sub>_The Man • Madinah • 31 Ayat_</sub><br>
+**Surah Al-Insan** (76:18)
 
 <div align="center">
 
@@ -20,17 +20,17 @@ Today's reading: Al-Kahf 18:69–98 (30 verses)
 
 </div>
 
-سَرَابِيلُهُم مِّن قَطِرَانٍ وَتَغْشَىٰ وُجُوهَهُمُ النَّارُ
+عَيْنًا فِيهَا تُسَمَّىٰ سَلْسَبِيلًا
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Sarabeeluhum min qatranin wataghsha wujoohahumu alnnaru_
+> _AAaynan feeha tusamma salsabeelan_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _with garments of tar, and their faces covered with flames._
+> _from a spring there, called Salsabîl._
 
-🔗 Source: https://quran.com/14/50
+🔗 Source: https://quran.com/76/18
 
-— Jumada al-Akhirah 2, 1448H
+— Jumada al-Akhirah 3, 1448H
 <!-- AYAHADAY:END -->
