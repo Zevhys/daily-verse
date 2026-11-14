@@ -1,9 +1,9 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Kahf 18:99 → Maryam 19:18 (30 verses)
+Today's reading: Maryam 19:19–48 (30 verses)
 
-📊 **Stats:** 8490 verses read | 280 days active
+📊 **Stats:** 8520 verses read | 281 days active
 <!-- READING:END -->
 
 ---
@@ -11,8 +11,8 @@ Today's reading: Al-Kahf 18:99 → Maryam 19:18 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Man • Madinah • 31 Ayat_</sub><br>
-**Surah Al-Insan** (76:18)
+<sub>_The Pilgrimage • Madinah • 78 Ayat_</sub><br>
+**Surah Al-Haj** (22:62)
 
 <div align="center">
 
@@ -20,17 +20,17 @@ Today's reading: Al-Kahf 18:99 → Maryam 19:18 (30 verses)
 
 </div>
 
-عَيْنًا فِيهَا تُسَمَّىٰ سَلْسَبِيلًا
+ذَٰلِكَ بِأَنَّ اللَّهَ هُوَ الْحَقُّ وَأَنَّ مَا يَدْعُونَ مِن دُونِهِ هُوَ الْبَاطِلُ وَأَنَّ اللَّهَ هُوَ الْعَلِيُّ الْكَبِيرُ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _AAaynan feeha tusamma salsabeelan_
+> _Thalika bianna Allaha huwa alhaqqu waanna ma yadAAoona min doonihi huwa albatilu waanna Allaha huwa alAAaliyyu alkabeeru_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _from a spring there, called Salsabîl._
+> _That is because Allah ˹alone˺ is the Truth and what they invoke besides Him is falsehood, and Allah ˹alone˺ is truly the Most High, All-Great._
 
-🔗 Source: https://quran.com/76/18
+🔗 Source: https://quran.com/22/62
 
-— Jumada al-Akhirah 3, 1448H
+— Jumada al-Akhirah 4, 1448H
 <!-- AYAHADAY:END -->
