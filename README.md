@@ -1,9 +1,9 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Maryam 19:19–48 (30 verses)
+Today's reading: Maryam 19:49–78 (30 verses)
 
-📊 **Stats:** 8520 verses read | 281 days active
+📊 **Stats:** 8550 verses read | 282 days active
 <!-- READING:END -->
 
 ---
@@ -11,8 +11,8 @@ Today's reading: Maryam 19:19–48 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Pilgrimage • Madinah • 78 Ayat_</sub><br>
-**Surah Al-Haj** (22:62)
+<sub>_Family of Imran • Madinah • 200 Ayat_</sub><br>
+**Surah Ali 'Imran** (3:166)
 
 <div align="center">
 
@@ -20,17 +20,17 @@ Today's reading: Maryam 19:19–48 (30 verses)
 
 </div>
 
-ذَٰلِكَ بِأَنَّ اللَّهَ هُوَ الْحَقُّ وَأَنَّ مَا يَدْعُونَ مِن دُونِهِ هُوَ الْبَاطِلُ وَأَنَّ اللَّهَ هُوَ الْعَلِيُّ الْكَبِيرُ
+وَمَا أَصَابَكُمْ يَوْمَ الْتَقَى الْجَمْعَانِ فَبِإِذْنِ اللَّهِ وَلِيَعْلَمَ الْمُؤْمِنِينَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Thalika bianna Allaha huwa alhaqqu waanna ma yadAAoona min doonihi huwa albatilu waanna Allaha huwa alAAaliyyu alkabeeru_
+> _Wama asabakum yawma iltaqa aljamAAani fabiithni Allahi waliyaAAlama almumineena_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _That is because Allah ˹alone˺ is the Truth and what they invoke besides Him is falsehood, and Allah ˹alone˺ is truly the Most High, All-Great._
+> _So what you suffered on the day the two armies met was by Allah’s Will, so that He might distinguish the ˹true˺ believers_
 
-🔗 Source: https://quran.com/22/62
+🔗 Source: https://quran.com/3/166
 
-— Jumada al-Akhirah 4, 1448H
+— Jumada al-Akhirah 5, 1448H
 <!-- AYAHADAY:END -->
