@@ -1,9 +1,9 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Maryam 19:49–78 (30 verses)
+Today's reading: Maryam 19:79 → Ta-Ha 20:10 (30 verses)
 
-📊 **Stats:** 8550 verses read | 282 days active
+📊 **Stats:** 8580 verses read | 283 days active
 <!-- READING:END -->
 
 ---
@@ -11,8 +11,8 @@ Today's reading: Maryam 19:49–78 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_Family of Imran • Madinah • 200 Ayat_</sub><br>
-**Surah Ali 'Imran** (3:166)
+<sub>_The Rocky Tract • Makkah • 99 Ayat_</sub><br>
+**Surah Al-Hijr** (15:75)
 
 <div align="center">
 
@@ -20,17 +20,17 @@ Today's reading: Maryam 19:49–78 (30 verses)
 
 </div>
 
-وَمَا أَصَابَكُمْ يَوْمَ الْتَقَى الْجَمْعَانِ فَبِإِذْنِ اللَّهِ وَلِيَعْلَمَ الْمُؤْمِنِينَ
+إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّلْمُتَوَسِّمِينَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Wama asabakum yawma iltaqa aljamAAani fabiithni Allahi waliyaAAlama almumineena_
+> _Inna fee thalika laayatin lilmutawassimeena_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _So what you suffered on the day the two armies met was by Allah’s Will, so that He might distinguish the ˹true˺ believers_
+> _Surely in this are signs for those who contemplate._
 
-🔗 Source: https://quran.com/3/166
+🔗 Source: https://quran.com/15/75
 
-— Jumada al-Akhirah 5, 1448H
+— Jumada al-Akhirah 6, 1448H
 <!-- AYAHADAY:END -->
