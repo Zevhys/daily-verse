@@ -1,9 +1,9 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Ta-Ha 20:41–70 (30 verses)
+Today's reading: Ta-Ha 20:71–100 (30 verses)
 
-📊 **Stats:** 8640 verses read | 285 days active
+📊 **Stats:** 8670 verses read | 286 days active
 <!-- READING:END -->
 
 ---
@@ -11,8 +11,8 @@ Today's reading: Ta-Ha 20:41–70 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Prophets • Makkah • 112 Ayat_</sub><br>
-**Surah Al-Anbya** (21:102)
+<sub>_The Stories • Makkah • 88 Ayat_</sub><br>
+**Surah Al-Qasas** (28:35)
 
 <div align="center">
 
@@ -20,17 +20,17 @@ Today's reading: Ta-Ha 20:41–70 (30 verses)
 
 </div>
 
-لَا يَسْمَعُونَ حَسِيسَهَا ۖ وَهُمْ فِي مَا اشْتَهَتْ أَنفُسُهُمْ خَالِدُونَ
+قَالَ سَنَشُدُّ عَضُدَكَ بِأَخِيكَ وَنَجْعَلُ لَكُمَا سُلْطَانًا فَلَا يَصِلُونَ إِلَيْكُمَا ۚ بِآيَاتِنَا أَنتُمَا وَمَنِ اتَّبَعَكُمَا الْغَالِبُونَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _La yasmaAAoona haseesaha wahum fee ma ishtahat anfusuhum khalidoona_
+> _Qala sanashuddu AAadudaka biakheeka wanajAAalu lakuma sultanan fala yasiloona ilaykuma biayatina antuma wamani ittabaAAakuma alghaliboona_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _not even hearing the slightest hissing from it. And they will delight forever in what their souls desire._
+> _Allah responded, “We will assist you with your brother and grant you both authority, so they cannot harm you. With Our signs, you and those who follow you will ˹certainly˺ prevail.”_
 
-🔗 Source: https://quran.com/21/102
+🔗 Source: https://quran.com/28/35
 
-— Jumada al-Akhirah 8, 1448H
+— Jumada al-Akhirah 9, 1448H
 <!-- AYAHADAY:END -->
