@@ -1,9 +1,9 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Ta-Ha 20:71–100 (30 verses)
+Today's reading: Ta-Ha 20:101–130 (30 verses)
 
-📊 **Stats:** 8670 verses read | 286 days active
+📊 **Stats:** 8700 verses read | 287 days active
 <!-- READING:END -->
 
 ---
@@ -11,8 +11,8 @@ Today's reading: Ta-Ha 20:71–100 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Stories • Makkah • 88 Ayat_</sub><br>
-**Surah Al-Qasas** (28:35)
+<sub>_The Cave • Makkah • 110 Ayat_</sub><br>
+**Surah Al-Kahf** (18:54)
 
 <div align="center">
 
@@ -20,17 +20,17 @@ Today's reading: Ta-Ha 20:71–100 (30 verses)
 
 </div>
 
-قَالَ سَنَشُدُّ عَضُدَكَ بِأَخِيكَ وَنَجْعَلُ لَكُمَا سُلْطَانًا فَلَا يَصِلُونَ إِلَيْكُمَا ۚ بِآيَاتِنَا أَنتُمَا وَمَنِ اتَّبَعَكُمَا الْغَالِبُونَ
+وَلَقَدْ صَرَّفْنَا فِي هَٰذَا الْقُرْآنِ لِلنَّاسِ مِن كُلِّ مَثَلٍ ۚ وَكَانَ الْإِنسَانُ أَكْثَرَ شَيْءٍ جَدَلًا
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Qala sanashuddu AAadudaka biakheeka wanajAAalu lakuma sultanan fala yasiloona ilaykuma biayatina antuma wamani ittabaAAakuma alghaliboona_
+> _Walaqad sarrafna fee hatha alqurani lilnnasi min kulli mathalin wakana alinsanu akthara shayin jadalan_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _Allah responded, “We will assist you with your brother and grant you both authority, so they cannot harm you. With Our signs, you and those who follow you will ˹certainly˺ prevail.”_
+> _We have surely set forth in this Quran every ˹kind of˺ lesson for people, but humankind is the most argumentative of all beings._
 
-🔗 Source: https://quran.com/28/35
+🔗 Source: https://quran.com/18/54
 
-— Jumada al-Akhirah 9, 1448H
+— Jumada al-Akhirah 10, 1448H
 <!-- AYAHADAY:END -->
