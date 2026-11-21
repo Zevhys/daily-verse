@@ -1,9 +1,9 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Ta-Ha 20:101–130 (30 verses)
+Today's reading: Ta-Ha 20:131 → Al-Anbiya 21:25 (30 verses)
 
-📊 **Stats:** 8700 verses read | 287 days active
+📊 **Stats:** 8730 verses read | 288 days active
 <!-- READING:END -->
 
 ---
@@ -11,8 +11,8 @@ Today's reading: Ta-Ha 20:101–130 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Cave • Makkah • 110 Ayat_</sub><br>
-**Surah Al-Kahf** (18:54)
+<sub>_The Women • Madinah • 176 Ayat_</sub><br>
+**Surah An-Nisa** (4:50)
 
 <div align="center">
 
@@ -20,17 +20,17 @@ Today's reading: Ta-Ha 20:101–130 (30 verses)
 
 </div>
 
-وَلَقَدْ صَرَّفْنَا فِي هَٰذَا الْقُرْآنِ لِلنَّاسِ مِن كُلِّ مَثَلٍ ۚ وَكَانَ الْإِنسَانُ أَكْثَرَ شَيْءٍ جَدَلًا
+انظُرْ كَيْفَ يَفْتَرُونَ عَلَى اللَّهِ الْكَذِبَ ۖ وَكَفَىٰ بِهِ إِثْمًا مُّبِينًا
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Walaqad sarrafna fee hatha alqurani lilnnasi min kulli mathalin wakana alinsanu akthara shayin jadalan_
+> _Onthur kayfa yaftaroona AAala Allahi alkathiba wakafa bihi ithman mubeenan_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _We have surely set forth in this Quran every ˹kind of˺ lesson for people, but humankind is the most argumentative of all beings._
+> _See how they fabricate lies against Allah—this alone is a blatant sin._
 
-🔗 Source: https://quran.com/18/54
+🔗 Source: https://quran.com/4/50
 
-— Jumada al-Akhirah 10, 1448H
+— Jumada al-Akhirah 11, 1448H
 <!-- AYAHADAY:END -->
