@@ -1,9 +1,9 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Ta-Ha 20:131 → Al-Anbiya 21:25 (30 verses)
+Today's reading: Al-Anbiya 21:26–55 (30 verses)
 
-📊 **Stats:** 8730 verses read | 288 days active
+📊 **Stats:** 8760 verses read | 289 days active
 <!-- READING:END -->
 
 ---
@@ -11,8 +11,8 @@ Today's reading: Ta-Ha 20:131 → Al-Anbiya 21:25 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Women • Madinah • 176 Ayat_</sub><br>
-**Surah An-Nisa** (4:50)
+<sub>_The Thunder • Makkah • 43 Ayat_</sub><br>
+**Surah Ar-Ra'd** (13:22)
 
 <div align="center">
 
@@ -20,17 +20,17 @@ Today's reading: Ta-Ha 20:131 → Al-Anbiya 21:25 (30 verses)
 
 </div>
 
-انظُرْ كَيْفَ يَفْتَرُونَ عَلَى اللَّهِ الْكَذِبَ ۖ وَكَفَىٰ بِهِ إِثْمًا مُّبِينًا
+وَالَّذِينَ صَبَرُوا ابْتِغَاءَ وَجْهِ رَبِّهِمْ وَأَقَامُوا الصَّلَاةَ وَأَنفَقُوا مِمَّا رَزَقْنَاهُمْ سِرًّا وَعَلَانِيَةً وَيَدْرَءُونَ بِالْحَسَنَةِ السَّيِّئَةَ أُولَٰئِكَ لَهُمْ عُقْبَى الدَّارِ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Onthur kayfa yaftaroona AAala Allahi alkathiba wakafa bihi ithman mubeenan_
+> _Waallatheena sabaroo ibtighaa wajhi rabbihim waaqamoo alssalata waanfaqoo mimma razaqnahum sirran waAAalaniyatan wayadraoona bialhasanati alssayyiata olaika lahum AAuqba alddari_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _See how they fabricate lies against Allah—this alone is a blatant sin._
+> _And ˹they are˺ those who endure patiently, seeking their Lord’s pleasure, establish prayer, donate from what We have provided for them—secretly and openly—and respond to evil with good. It is they who will have the ultimate abode:_
 
-🔗 Source: https://quran.com/4/50
+🔗 Source: https://quran.com/13/22
 
-— Jumada al-Akhirah 11, 1448H
+— Jumada al-Akhirah 12, 1448H
 <!-- AYAHADAY:END -->
