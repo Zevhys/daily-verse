@@ -1,9 +1,9 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Anbiya 21:26–55 (30 verses)
+Today's reading: Al-Anbiya 21:56–85 (30 verses)
 
-📊 **Stats:** 8760 verses read | 289 days active
+📊 **Stats:** 8790 verses read | 290 days active
 <!-- READING:END -->
 
 ---
@@ -11,8 +11,8 @@ Today's reading: Al-Anbiya 21:26–55 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Thunder • Makkah • 43 Ayat_</sub><br>
-**Surah Ar-Ra'd** (13:22)
+<sub>_The Letter "Qaf" • Makkah • 45 Ayat_</sub><br>
+**Surah Qaf** (50:17)
 
 <div align="center">
 
@@ -20,17 +20,17 @@ Today's reading: Al-Anbiya 21:26–55 (30 verses)
 
 </div>
 
-وَالَّذِينَ صَبَرُوا ابْتِغَاءَ وَجْهِ رَبِّهِمْ وَأَقَامُوا الصَّلَاةَ وَأَنفَقُوا مِمَّا رَزَقْنَاهُمْ سِرًّا وَعَلَانِيَةً وَيَدْرَءُونَ بِالْحَسَنَةِ السَّيِّئَةَ أُولَٰئِكَ لَهُمْ عُقْبَى الدَّارِ
+إِذْ يَتَلَقَّى الْمُتَلَقِّيَانِ عَنِ الْيَمِينِ وَعَنِ الشِّمَالِ قَعِيدٌ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Waallatheena sabaroo ibtighaa wajhi rabbihim waaqamoo alssalata waanfaqoo mimma razaqnahum sirran waAAalaniyatan wayadraoona bialhasanati alssayyiata olaika lahum AAuqba alddari_
+> _Ith yatalaqqa almutalaqqiyani AAani alyameeni waAAani alshshimali qaAAeedun_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _And ˹they are˺ those who endure patiently, seeking their Lord’s pleasure, establish prayer, donate from what We have provided for them—secretly and openly—and respond to evil with good. It is they who will have the ultimate abode:_
+> _As the two recording-angels—˹one˺ sitting to the right, and ˹the other to˺ the left—note ˹everything˺,_
 
-🔗 Source: https://quran.com/13/22
+🔗 Source: https://quran.com/50/17
 
-— Jumada al-Akhirah 12, 1448H
+— Jumada al-Akhirah 13, 1448H
 <!-- AYAHADAY:END -->
