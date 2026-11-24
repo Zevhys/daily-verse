@@ -1,9 +1,9 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Anbiya 21:56–85 (30 verses)
+Today's reading: Al-Anbiya 21:86 → Al-Hajj 22:3 (30 verses)
 
-📊 **Stats:** 8790 verses read | 290 days active
+📊 **Stats:** 8820 verses read | 291 days active
 <!-- READING:END -->
 
 ---
@@ -11,8 +11,8 @@ Today's reading: Al-Anbiya 21:56–85 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Letter "Qaf" • Makkah • 45 Ayat_</sub><br>
-**Surah Qaf** (50:17)
+<sub>_The Defrauding • Makkah • 36 Ayat_</sub><br>
+**Surah Al-Mutaffifin** (83:34)
 
 <div align="center">
 
@@ -20,17 +20,17 @@ Today's reading: Al-Anbiya 21:56–85 (30 verses)
 
 </div>
 
-إِذْ يَتَلَقَّى الْمُتَلَقِّيَانِ عَنِ الْيَمِينِ وَعَنِ الشِّمَالِ قَعِيدٌ
+فَالْيَوْمَ الَّذِينَ آمَنُوا مِنَ الْكُفَّارِ يَضْحَكُونَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Ith yatalaqqa almutalaqqiyani AAani alyameeni waAAani alshshimali qaAAeedun_
+> _Faalyawma allatheena amanoo mina alkuffari yadhakoona_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _As the two recording-angels—˹one˺ sitting to the right, and ˹the other to˺ the left—note ˹everything˺,_
+> _But on that Day the believers will be laughing at the disbelievers,_
 
-🔗 Source: https://quran.com/50/17
+🔗 Source: https://quran.com/83/34
 
-— Jumada al-Akhirah 13, 1448H
+— Jumada al-Akhirah 14, 1448H
 <!-- AYAHADAY:END -->
