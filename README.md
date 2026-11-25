@@ -1,9 +1,9 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Anbiya 21:86 → Al-Hajj 22:3 (30 verses)
+Today's reading: Al-Hajj 22:4–33 (30 verses)
 
-📊 **Stats:** 8820 verses read | 291 days active
+📊 **Stats:** 8850 verses read | 292 days active
 <!-- READING:END -->
 
 ---
@@ -11,8 +11,8 @@ Today's reading: Al-Anbiya 21:86 → Al-Hajj 22:3 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Defrauding • Makkah • 36 Ayat_</sub><br>
-**Surah Al-Mutaffifin** (83:34)
+<sub>_The Prophets • Makkah • 112 Ayat_</sub><br>
+**Surah Al-Anbya** (21:95)
 
 <div align="center">
 
@@ -20,17 +20,17 @@ Today's reading: Al-Anbiya 21:86 → Al-Hajj 22:3 (30 verses)
 
 </div>
 
-فَالْيَوْمَ الَّذِينَ آمَنُوا مِنَ الْكُفَّارِ يَضْحَكُونَ
+وَحَرَامٌ عَلَىٰ قَرْيَةٍ أَهْلَكْنَاهَا أَنَّهُمْ لَا يَرْجِعُونَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Faalyawma allatheena amanoo mina alkuffari yadhakoona_
+> _Waharamun AAala qaryatin ahlaknaha annahum la yarjiAAoona_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _But on that Day the believers will be laughing at the disbelievers,_
+> _It is impossible for a society which We have destroyed to ever rise again,_
 
-🔗 Source: https://quran.com/83/34
+🔗 Source: https://quran.com/21/95
 
-— Jumada al-Akhirah 14, 1448H
+— Jumada al-Akhirah 15, 1448H
 <!-- AYAHADAY:END -->
