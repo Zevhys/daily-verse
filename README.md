@@ -1,9 +1,9 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Hajj 22:4–33 (30 verses)
+Today's reading: Al-Hajj 22:34–63 (30 verses)
 
-📊 **Stats:** 8850 verses read | 292 days active
+📊 **Stats:** 8880 verses read | 293 days active
 <!-- READING:END -->
 
 ---
@@ -11,8 +11,8 @@ Today's reading: Al-Hajj 22:4–33 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Prophets • Makkah • 112 Ayat_</sub><br>
-**Surah Al-Anbya** (21:95)
+<sub>_The Thunder • Makkah • 43 Ayat_</sub><br>
+**Surah Ar-Ra'd** (13:35)
 
 <div align="center">
 
@@ -20,17 +20,17 @@ Today's reading: Al-Hajj 22:4–33 (30 verses)
 
 </div>
 
-وَحَرَامٌ عَلَىٰ قَرْيَةٍ أَهْلَكْنَاهَا أَنَّهُمْ لَا يَرْجِعُونَ
+مَّثَلُ الْجَنَّةِ الَّتِي وُعِدَ الْمُتَّقُونَ ۖ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ ۖ أُكُلُهَا دَائِمٌ وَظِلُّهَا ۚ تِلْكَ عُقْبَى الَّذِينَ اتَّقَوا ۖ وَّعُقْبَى الْكَافِرِينَ النَّارُ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Waharamun AAala qaryatin ahlaknaha annahum la yarjiAAoona_
+> _Mathalu aljannati allatee wuAAida almuttaqoona tajree min tahtiha alanharu okuluha daimun wathilluha tilka AAuqba allatheena ittaqaw waAAuqba alkafireena alnnaru_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _It is impossible for a society which We have destroyed to ever rise again,_
+> _The description of the Paradise promised to the righteous is that under it rivers flow; eternal is its fruit as well as its shade. That is the ˹ultimate˺ outcome for the righteous. But the outcome for the disbelievers is the Fire!_
 
-🔗 Source: https://quran.com/21/95
+🔗 Source: https://quran.com/13/35
 
-— Jumada al-Akhirah 15, 1448H
+— Jumada al-Akhirah 16, 1448H
 <!-- AYAHADAY:END -->
