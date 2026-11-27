@@ -1,9 +1,9 @@
 ## 📚 Daily Reading Progress
 
 <!-- READING:START -->
-Today's reading: Al-Hajj 22:34–63 (30 verses)
+Today's reading: Al-Hajj 22:64 → Al-Mu'minun 23:15 (30 verses)
 
-📊 **Stats:** 8880 verses read | 293 days active
+📊 **Stats:** 8910 verses read | 294 days active
 <!-- READING:END -->
 
 ---
@@ -11,8 +11,8 @@ Today's reading: Al-Hajj 22:34–63 (30 verses)
 ## ☪️ Ayah of the Day
 
 <!-- AYAHADAY:START -->
-<sub>_The Thunder • Makkah • 43 Ayat_</sub><br>
-**Surah Ar-Ra'd** (13:35)
+<sub>_The Reality • Makkah • 52 Ayat_</sub><br>
+**Surah Al-Haqqah** (69:47)
 
 <div align="center">
 
@@ -20,17 +20,17 @@ Today's reading: Al-Hajj 22:34–63 (30 verses)
 
 </div>
 
-مَّثَلُ الْجَنَّةِ الَّتِي وُعِدَ الْمُتَّقُونَ ۖ تَجْرِي مِن تَحْتِهَا الْأَنْهَارُ ۖ أُكُلُهَا دَائِمٌ وَظِلُّهَا ۚ تِلْكَ عُقْبَى الَّذِينَ اتَّقَوا ۖ وَّعُقْبَى الْكَافِرِينَ النَّارُ
+فَمَا مِنكُم مِّنْ أَحَدٍ عَنْهُ حَاجِزِينَ
 
 > _Bismillahir Rahmanir Rahim_
 >
-> _Mathalu aljannati allatee wuAAida almuttaqoona tajree min tahtiha alanharu okuluha daimun wathilluha tilka AAuqba allatheena ittaqaw waAAuqba alkafireena alnnaru_
+> _Fama minkum min ahadin AAanhu hajizeena_
 >
 > _In the name of Allah, the Most Gracious, the Most Merciful_
 >
-> _The description of the Paradise promised to the righteous is that under it rivers flow; eternal is its fruit as well as its shade. That is the ˹ultimate˺ outcome for the righteous. But the outcome for the disbelievers is the Fire!_
+> _and none of you could have shielded him ˹from Us˺!_
 
-🔗 Source: https://quran.com/13/35
+🔗 Source: https://quran.com/69/47
 
-— Jumada al-Akhirah 16, 1448H
+— Jumada al-Akhirah 17, 1448H
 <!-- AYAHADAY:END -->
